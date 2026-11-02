@@ -4,7 +4,7 @@ Reglas: se elige el SIGUIENTE animal pendiente; al terminar el video se mueve a 
 
 ## Hechos
 - capibara (2026-11-02, subido por el dueño)
-- pulpo (programado para 2026-11-03 16:00)
+- pulpo (programado para 2026-11-03 16:00; short 2026-11-04 16:00)
 
 ## Pendientes (en orden)
 1. mamut lanudo
