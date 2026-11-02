@@ -1,0 +1,16 @@
+{
+ "title": "Cuando Claude se queda sin uso",
+ "caption": "Cuando a tu IA se le acaba el uso y tienes que programar tú solo 😭🔥 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Claude se quedó sin uso hasta mañana.","who":null,"screen":"A"},
+  {"cam":"human","sub":"Perfecto. La web del cliente la hago yo solo.","who":"h","screen":"A"},
+  {"cam":"monitor","sub":"¿Cómo se centra un div…?","say":"¿Cómo se centra un div?","who":"h","screen":"A","type":"como centrar un div"},
+  {"card":"3 HORAS\nDESPUÉS","who":null,"screen":"B"},
+  {"cam":"monitor","sub":"¡Listo! Diseño moderno y minimalista.","who":"h","screen":"B"},
+  {"cam":"robot","sub":"…Santi. ¿Por qué hay fuego en el logo?","say":"Santi. ¿Por qué hay fuego en el logo?","who":"r","screen":"B","wake":true},
+  {"cam":"human","sub":"¡Es para que se vea dinámico!","who":"h","screen":"B","panic":true},
+  {"cam":"monitor","sub":"Y el contador dice uno. Eres tú.","who":"r","screen":"B","surprise":true},
+  {"cam":"robot","sub":"Te dejé solo tres horas.","who":"r","screen":"B"},
+  {"cam":"general","sub":"…¿Me ayudas a quitar el fuego?","say":"¿Me ayudas a quitar el fuego?","who":"h","screen":"B","end":true}
+ ]
+}
