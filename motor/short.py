@@ -1,19 +1,22 @@
 #!/usr/bin/env python3
-"""Hace un YouTube Short (vertical 1080x1920, ~50 s) a partir del video completo de un animal.
+"""Hace un YouTube Short (vertical 1080x1920, ~28 s) a partir del video completo de un animal.
 Uso: python3 short.py video.mp4 timeline.json salida.mp4 "NACER COMO UN PULPO APESTA"
 Toma el título, 4 escenas repartidas a lo largo del video y el cierre con la llamada a suscribirse."""
 import json, sys, subprocess, os, glob, tempfile
 video, tl, out, title = sys.argv[1:5]
 T = json.load(open(tl, encoding='utf-8'))
 shots = [s for s in T if not s['id'].startswith('cap') and s['id'] not in ('titulo', 'sub')]
-pick = [shots[int(len(shots) * q)] for q in (0.12, 0.38, 0.62, 0.86)]
+pick = [shots[int(len(shots) * q)] for q in (0.2, 0.5, 0.8)]
+def window(sh, maxlen):
+    ls = sh['lines']
+    if not ls: return sh['start'], min(sh['end'], sh['start'] + maxlen)
+    a = max(sh['start'], ls[0]['start'] - 0.3)
+    fits = [l['start'] + l['dur'] + 0.3 for l in ls if l['start'] + l['dur'] + 0.3 <= a + maxlen]
+    return a, (max(fits) if fits else a + maxlen)
 segs = []
-tit = next(s for s in T if s['id'] == 'titulo'); segs.append((0.0, min(tit['end'], 4.0)))
-for s in pick:
-    a = max(s['start'], s['lines'][0]['start'] - 0.4) if s['lines'] else s['start']
-    segs.append((a, min(s['end'], a + 10.0)))
-fin = next((s for s in T if s['id'] == 'sub'), T[-1])
-segs.append((fin['start'], min(fin['end'], fin['start'] + 6.0)))
+tit = next(s for s in T if s['id'] == 'titulo'); segs.append((0.0, min(tit['end'], 3.0)))
+for s in pick: segs.append(window(s, 8.2))
+fin = next((s for s in T if s['id'] == 'sub'), T[-1]); segs.append(window(fin, 4.6))
 fonts = glob.glob('/usr/share/fonts/**/DejaVuSans-Bold.ttf', recursive=True) or glob.glob('/usr/share/fonts/**/*Bold*.ttf', recursive=True)
 font = fonts[0] if fonts else ''
 import textwrap
