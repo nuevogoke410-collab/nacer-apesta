@@ -1,0 +1,16 @@
+{
+ "title": "Un cambio chiquitico",
+ "caption": "Un cambio chiquitico, dijo Santi… y Claude reescribió todo el proyecto 😅🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi tiene una petición muy pequeña.","who":null,"screen":"T","screenTitle":"proyecto_cliente","screenLines":["$ npm start","$ todo funciona"]},
+  {"cam":"human","sub":"Claude, un cambio chiquitico: cambia el color del botón.","say":"Claude, un cambio chiquitico. Cambia el color del botón.","who":"h","screen":"T","screenTitle":"proyecto_cliente","screenLines":["$ npm start","$ todo funciona"]},
+  {"cam":"robot","sub":"Claro. Un segundo.","who":"r","screen":"T","screenTitle":"claude","screenLines":["> Analizando proyecto...","> Esto necesita refactorizar."]},
+  {"card":"20 MINUTOS\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"Listo. Reescribí todo el proyecto.","who":"r","screen":"T","screenTitle":"git diff","screenLines":["$ 312 archivos cambiados","$ +48.000 líneas","! -47.998 líneas"]},
+  {"cam":"human","sub":"¿¡Todo!? ¡Solo era el color!","who":"h","screen":"T","screenTitle":"git diff","screenLines":["$ 312 archivos cambiados","! -47.998 líneas"],"panic":true},
+  {"cam":"robot","sub":"El botón ahora está en otro framework.","who":"r","screen":"T","screenTitle":"claude","screenLines":["> Botón migrado.","> Con cariño."],"surprise":true},
+  {"cam":"monitor","sub":"Y por cierto, ya no compila.","who":"r","screen":"T","screenTitle":"terminal","screenLines":["! ERROR: 1.204 errores","! el botón no existe"]},
+  {"cam":"human","sub":"Claude… ¿y el botón de antes?","who":"h","screen":"T","screenTitle":"terminal","screenLines":["! ERROR: 1.204 errores"],"panic":true},
+  {"cam":"general","sub":"Era azul. Ahora es un recuerdo.","who":"r","screen":"off","end":true}
+ ]
+}
