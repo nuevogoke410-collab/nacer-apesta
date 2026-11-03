@@ -1,0 +1,1128 @@
+[
+ {
+  "id": "titulo",
+  "ch": 1,
+  "start": 0,
+  "lines": [
+   {
+    "txt": "Nacer como un mamut lanudo apesta.",
+    "file": "voz/titulo_0.wav",
+    "start": 0.5,
+    "dur": 2.134
+   }
+  ],
+  "end": 3.884
+ },
+ {
+  "id": "cap1",
+  "ch": 1,
+  "start": 3.884,
+  "lines": [
+   {
+    "txt": "Capítulo uno. El nacimiento.",
+    "file": "voz/cap1_0.wav",
+    "start": 4.384,
+    "dur": 2.188
+   }
+  ],
+  "end": 7.822
+ },
+ {
+  "id": "embarazo",
+  "ch": 1,
+  "start": 7.822,
+  "lines": [
+   {
+    "txt": "Tu madre te lleva en la barriga casi dos años.",
+    "file": "voz/embarazo_0.wav",
+    "start": 8.322,
+    "dur": 2.486
+   },
+   {
+    "txt": "Dos años de espera, y naces en pleno hielo. Qué bienvenida.",
+    "file": "voz/embarazo_1.wav",
+    "start": 11.207999999999998,
+    "dur": 3.388
+   }
+  ],
+  "end": 15.845999999999998
+ },
+ {
+  "id": "nace",
+  "ch": 1,
+  "start": 15.845999999999998,
+  "lines": [
+   {
+    "txt": "Naces en primavera y pesas unos noventa kilos.",
+    "file": "voz/nace_0.wav",
+    "start": 16.345999999999997,
+    "dur": 2.95
+   },
+   {
+    "txt": "Eres un bebé enorme que todavía no sabe usar su propia nariz.",
+    "file": "voz/nace_1.wav",
+    "start": 19.695999999999998,
+    "dur": 3.478
+   }
+  ],
+  "end": 24.424
+ },
+ {
+  "id": "trompa",
+  "ch": 1,
+  "start": 24.424,
+  "lines": [
+   {
+    "txt": "Tu trompa tiene vida propia. Se enreda, te la pisas y te caes.",
+    "file": "voz/trompa_0.wav",
+    "start": 24.924,
+    "dur": 3.916
+   },
+   {
+    "txt": "Los bebés elefante tardan meses en controlarla.",
+    "file": "voz/trompa_1.wav",
+    "start": 29.24,
+    "dur": 2.662
+   }
+  ],
+  "end": 33.152
+ },
+ {
+  "id": "leche",
+  "ch": 1,
+  "start": 33.152,
+  "lines": [
+   {
+    "txt": "Tomas la leche de tu madre durante años.",
+    "file": "voz/leche_0.wav",
+    "start": 33.652,
+    "dur": 2.454
+   },
+   {
+    "txt": "Mamá es tu restaurante, tu abrigo y tu guardaespaldas. Todo en uno.",
+    "file": "voz/leche_1.wav",
+    "start": 36.506,
+    "dur": 3.932
+   }
+  ],
+  "end": 41.688
+ },
+ {
+  "id": "caca",
+  "ch": 1,
+  "start": 41.688,
+  "lines": [
+   {
+    "txt": "Y hay un detalle poco elegante. Los científicos creen que los bebés comían caca de su madre.",
+    "file": "voz/caca_0.wav",
+    "start": 42.188,
+    "dur": 5.292
+   },
+   {
+    "txt": "Así heredas las bacterias para digerir plantas. Es asqueroso, pero es ciencia.",
+    "file": "voz/caca_1.wav",
+    "start": 47.88,
+    "dur": 4.716
+   }
+  ],
+  "end": 53.846000000000004
+ },
+ {
+  "id": "hermanos",
+  "ch": 1,
+  "start": 53.846000000000004,
+  "lines": [
+   {
+    "txt": "Tienes hermanos mayores: Fulgencio, Wilfrido y Eustaquio.",
+    "file": "voz/hermanos_0.wav",
+    "start": 54.346000000000004,
+    "dur": 3.862
+   },
+   {
+    "txt": "Memoriza esos nombres. No los vas a necesitar mucho.",
+    "file": "voz/hermanos_1.wav",
+    "start": 58.608000000000004,
+    "dur": 3.436
+   }
+  ],
+  "end": 63.294000000000004
+ },
+ {
+  "id": "cap2",
+  "ch": 2,
+  "start": 63.294000000000004,
+  "lines": [
+   {
+    "txt": "Capítulo dos. La comida.",
+    "file": "voz/cap2_0.wav",
+    "start": 63.794000000000004,
+    "dur": 2.124
+   }
+  ],
+  "end": 67.16799999999999
+ },
+ {
+  "id": "pasto",
+  "ch": 2,
+  "start": 67.16799999999999,
+  "lines": [
+   {
+    "txt": "Tu dieta es pasto, hierbas y flores. Cero hamburguesas.",
+    "file": "voz/pasto_0.wav",
+    "start": 67.66799999999999,
+    "dur": 3.756
+   },
+   {
+    "txt": "Eres vegetariano, pero con colmillos de dos metros.",
+    "file": "voz/pasto_1.wav",
+    "start": 71.824,
+    "dur": 3.142
+   }
+  ],
+  "end": 76.216
+ },
+ {
+  "id": "cantidad",
+  "ch": 2,
+  "start": 76.216,
+  "lines": [
+   {
+    "txt": "Un mamut adulto necesita unos ciento ochenta kilos de comida al día.",
+    "file": "voz/cantidad_0.wav",
+    "start": 76.716,
+    "dur": 3.75
+   },
+   {
+    "txt": "Pasas hasta veinte horas comiendo. Tu único pasatiempo es masticar.",
+    "file": "voz/cantidad_1.wav",
+    "start": 80.866,
+    "dur": 4.028
+   }
+  ],
+  "end": 86.14399999999999
+ },
+ {
+  "id": "osvaldo",
+  "ch": 2,
+  "start": 86.14399999999999,
+  "lines": [
+   {
+    "txt": "Un día encuentras un trozo de hielo con cara simpática. Lo llamas Osvaldo.",
+    "file": "voz/osvaldo_0.wav",
+    "start": 86.64399999999999,
+    "dur": 4.316
+   },
+   {
+    "txt": "No habla, no juzga y no te quiere comer. La relación más sana de tu vida.",
+    "file": "voz/osvaldo_1.wav",
+    "start": 91.35999999999999,
+    "dur": 4.38
+   }
+  ],
+  "end": 96.98999999999998
+ },
+ {
+  "id": "nieve",
+  "ch": 2,
+  "start": 96.98999999999998,
+  "lines": [
+   {
+    "txt": "En invierno la hierba queda bajo la nieve.",
+    "file": "voz/nieve_0.wav",
+    "start": 97.48999999999998,
+    "dur": 2.326
+   },
+   {
+    "txt": "Tienes que escarbar con la trompa y los colmillos. Un restaurante sin mesero.",
+    "file": "voz/nieve_1.wav",
+    "start": 100.21599999999998,
+    "dur": 4.7
+   }
+  ],
+  "end": 106.16599999999997
+ },
+ {
+  "id": "muelas",
+  "ch": 2,
+  "start": 106.16599999999997,
+  "lines": [
+   {
+    "txt": "Tus muelas son enormes y se desgastan de tanto masticar.",
+    "file": "voz/muelas_0.wav",
+    "start": 106.66599999999997,
+    "dur": 3.366
+   },
+   {
+    "txt": "Cuando se acaban, te salen otras. Cuando se acaba la última, se acaba todo.",
+    "file": "voz/muelas_1.wav",
+    "start": 110.43199999999997,
+    "dur": 4.428
+   }
+  ],
+  "end": 116.10999999999997
+ },
+ {
+  "id": "wilfrido",
+  "ch": 2,
+  "start": 116.10999999999997,
+  "lines": [
+   {
+    "txt": "Wilfrido te quita el mejor pasto del valle.",
+    "file": "voz/wilfrido_0.wav",
+    "start": 116.60999999999997,
+    "dur": 2.39
+   },
+   {
+    "txt": "Hermano mayor, ladrón profesional.",
+    "file": "voz/wilfrido_1.wav",
+    "start": 119.39999999999998,
+    "dur": 2.502
+   }
+  ],
+  "end": 123.15199999999997
+ },
+ {
+  "id": "cap3",
+  "ch": 3,
+  "start": 123.15199999999997,
+  "lines": [
+   {
+    "txt": "Capítulo tres. La manada.",
+    "file": "voz/cap3_0.wav",
+    "start": 123.65199999999997,
+    "dur": 2.38
+   }
+  ],
+  "end": 127.28199999999997
+ },
+ {
+  "id": "matriarca",
+  "ch": 3,
+  "start": 127.28199999999997,
+  "lines": [
+   {
+    "txt": "Vives en una manada que lidera la abuela.",
+    "file": "voz/matriarca_0.wav",
+    "start": 127.78199999999997,
+    "dur": 2.07
+   },
+   {
+    "txt": "En tu familia manda ella. Y no hay elecciones.",
+    "file": "voz/matriarca_1.wav",
+    "start": 130.25199999999998,
+    "dur": 3.244
+   }
+  ],
+  "end": 134.74599999999998
+ },
+ {
+  "id": "machos",
+  "ch": 3,
+  "start": 134.74599999999998,
+  "lines": [
+   {
+    "txt": "Cuando creces, los machos se van de la manada.",
+    "file": "voz/machos_0.wav",
+    "start": 135.24599999999998,
+    "dur": 2.534
+   },
+   {
+    "txt": "Un día tu familia te dice: hijo, ya es hora de que te vayas.",
+    "file": "voz/machos_1.wav",
+    "start": 138.17999999999998,
+    "dur": 4.63
+   }
+  ],
+  "end": 144.05999999999997
+ },
+ {
+  "id": "tamano",
+  "ch": 3,
+  "start": 144.05999999999997,
+  "lines": [
+   {
+    "txt": "Un macho adulto mide casi tres metros y medio, y pesa hasta ocho toneladas.",
+    "file": "voz/tamano_0.wav",
+    "start": 144.55999999999997,
+    "dur": 4.774
+   },
+   {
+    "txt": "Eres un camión con pelo.",
+    "file": "voz/tamano_1.wav",
+    "start": 149.73399999999998,
+    "dur": 1.622
+   }
+  ],
+  "end": 152.60599999999997
+ },
+ {
+  "id": "colmillos",
+  "ch": 3,
+  "start": 152.60599999999997,
+  "lines": [
+   {
+    "txt": "Tus colmillos miden más de dos metros. El récord es de cuatro.",
+    "file": "voz/colmillos_0.wav",
+    "start": 153.10599999999997,
+    "dur": 3.756
+   },
+   {
+    "txt": "Tu mayor problema es girar en las esquinas.",
+    "file": "voz/colmillos_1.wav",
+    "start": 157.26199999999997,
+    "dur": 2.934
+   }
+  ],
+  "end": 161.44599999999997
+ },
+ {
+  "id": "circulo",
+  "ch": 3,
+  "start": 161.44599999999997,
+  "lines": [
+   {
+    "txt": "Cuando hay peligro, los adultos hacen un círculo y te ponen en el centro.",
+    "file": "voz/circulo_0.wav",
+    "start": 161.94599999999997,
+    "dur": 4.358
+   },
+   {
+    "txt": "Es la única vez en tu vida que alguien te protege con tanto cariño.",
+    "file": "voz/circulo_1.wav",
+    "start": 166.70399999999998,
+    "dur": 3.43
+   }
+  ],
+  "end": 171.384
+ },
+ {
+  "id": "cap4",
+  "ch": 4,
+  "start": 171.384,
+  "lines": [
+   {
+    "txt": "Capítulo cuatro. Los que te quieren comer.",
+    "file": "voz/cap4_0.wav",
+    "start": 171.884,
+    "dur": 2.844
+   }
+  ],
+  "end": 175.97799999999998
+ },
+ {
+  "id": "lista",
+  "ch": 4,
+  "start": 175.97799999999998,
+  "lines": [
+   {
+    "txt": "Te quieren comer los lobos, las hienas y los leones de las cavernas.",
+    "file": "voz/lista_0.wav",
+    "start": 176.47799999999998,
+    "dur": 4.278
+   },
+   {
+    "txt": "Eres el buffet de la era de hielo.",
+    "file": "voz/lista_1.wav",
+    "start": 181.15599999999998,
+    "dur": 2.022
+   }
+  ],
+  "end": 184.42799999999997
+ },
+ {
+  "id": "adultos",
+  "ch": 4,
+  "start": 184.42799999999997,
+  "lines": [
+   {
+    "txt": "Los adultos casi no tienen miedo. Pesan varias toneladas.",
+    "file": "voz/adultos_0.wav",
+    "start": 184.92799999999997,
+    "dur": 3.532
+   },
+   {
+    "txt": "Los que sufren son los bebés y los enfermos. O sea, tú.",
+    "file": "voz/adultos_1.wav",
+    "start": 188.85999999999996,
+    "dur": 3.884
+   }
+  ],
+  "end": 193.99399999999994
+ },
+ {
+  "id": "fulgencio",
+  "ch": 4,
+  "start": 193.99399999999994,
+  "lines": [
+   {
+    "txt": "Despídete de Fulgencio. Se lo llevó un león de las cavernas.",
+    "file": "voz/fulgencio_0.wav",
+    "start": 194.49399999999994,
+    "dur": 3.74
+   },
+   {
+    "txt": "Y Eustaquio se cayó en una grieta de hielo. Lo siento mucho.",
+    "file": "voz/fulgencio_1.wav",
+    "start": 198.63399999999996,
+    "dur": 3.388
+   }
+  ],
+  "end": 203.27199999999996
+ },
+ {
+  "id": "humanos",
+  "ch": 4,
+  "start": 203.27199999999996,
+  "lines": [
+   {
+    "txt": "Y luego aparecieron los humanos, con lanzas y mucha paciencia.",
+    "file": "voz/humanos_0.wav",
+    "start": 203.77199999999996,
+    "dur": 3.398
+   },
+   {
+    "txt": "Hacían trampas y te convertían en cena, en casa y en herramienta.",
+    "file": "voz/humanos_1.wav",
+    "start": 207.56999999999996,
+    "dur": 3.846
+   }
+  ],
+  "end": 212.66599999999997
+ },
+ {
+  "id": "casa",
+  "ch": 4,
+  "start": 212.66599999999997,
+  "lines": [
+   {
+    "txt": "Con tus huesos hacían casas, y con tus colmillos hacían arte.",
+    "file": "voz/casa_0.wav",
+    "start": 213.16599999999997,
+    "dur": 3.766
+   },
+   {
+    "txt": "Tú ni siquiera ibas a la inauguración.",
+    "file": "voz/casa_1.wav",
+    "start": 217.33199999999997,
+    "dur": 2.374
+   }
+  ],
+  "end": 220.95599999999996
+ },
+ {
+  "id": "patada",
+  "ch": 4,
+  "start": 220.95599999999996,
+  "lines": [
+   {
+    "txt": "Pero te defiendes con la trompa, los colmillos y un pésimo humor.",
+    "file": "voz/patada_0.wav",
+    "start": 221.45599999999996,
+    "dur": 3.718
+   },
+   {
+    "txt": "Pesas toneladas. Tu patada es un terremoto con pelo.",
+    "file": "voz/patada_1.wav",
+    "start": 225.57399999999996,
+    "dur": 3.244
+   }
+  ],
+  "end": 230.06799999999996
+ },
+ {
+  "id": "cap5",
+  "ch": 5,
+  "start": 230.06799999999996,
+  "lines": [
+   {
+    "txt": "Capítulo cinco. Tu abrigo.",
+    "file": "voz/cap5_0.wav",
+    "start": 230.56799999999996,
+    "dur": 2.028
+   }
+  ],
+  "end": 233.84599999999995
+ },
+ {
+  "id": "pelo",
+  "ch": 5,
+  "start": 233.84599999999995,
+  "lines": [
+   {
+    "txt": "Tu superpoder es el pelaje. Tienes dos capas.",
+    "file": "voz/pelo_0.wav",
+    "start": 234.34599999999995,
+    "dur": 3.084
+   },
+   {
+    "txt": "Pelos de hasta noventa centímetros por fuera, y lana suave por dentro.",
+    "file": "voz/pelo_1.wav",
+    "start": 237.82999999999996,
+    "dur": 3.91
+   }
+  ],
+  "end": 242.98999999999995
+ },
+ {
+  "id": "grasa",
+  "ch": 5,
+  "start": 242.98999999999995,
+  "lines": [
+   {
+    "txt": "Debajo tienes una capa de grasa de hasta diez centímetros.",
+    "file": "voz/grasa_0.wav",
+    "start": 243.48999999999995,
+    "dur": 3.078
+   },
+   {
+    "txt": "No estás gordo. Estás aislado térmicamente.",
+    "file": "voz/grasa_1.wav",
+    "start": 246.96799999999996,
+    "dur": 2.86
+   }
+  ],
+  "end": 251.07799999999995
+ },
+ {
+  "id": "orejas",
+  "ch": 5,
+  "start": 251.07799999999995,
+  "lines": [
+   {
+    "txt": "Tus orejas y tu cola son pequeñas para que el frío no las congele.",
+    "file": "voz/orejas_0.wav",
+    "start": 251.57799999999995,
+    "dur": 3.51
+   },
+   {
+    "txt": "Estilo contra abrigo. Gana el abrigo.",
+    "file": "voz/orejas_1.wav",
+    "start": 255.48799999999994,
+    "dur": 2.588
+   }
+  ],
+  "end": 259.32599999999996
+ },
+ {
+  "id": "joroba",
+  "ch": 5,
+  "start": 259.32599999999996,
+  "lines": [
+   {
+    "txt": "Y tienes una joroba en el lomo, donde guardas grasa.",
+    "file": "voz/joroba_0.wav",
+    "start": 259.82599999999996,
+    "dur": 2.982
+   },
+   {
+    "txt": "Es tu mochila de emergencias.",
+    "file": "voz/joroba_1.wav",
+    "start": 263.20799999999997,
+    "dur": 1.878
+   }
+  ],
+  "end": 266.336
+ },
+ {
+  "id": "sangre",
+  "ch": 5,
+  "start": 266.336,
+  "lines": [
+   {
+    "txt": "Hasta tu sangre estaba preparada para el frío.",
+    "file": "voz/sangre_0.wav",
+    "start": 266.836,
+    "dur": 2.678
+   },
+   {
+    "txt": "Tu hemoglobina funcionaba bien bajo cero.",
+    "file": "voz/sangre_1.wav",
+    "start": 269.914,
+    "dur": 2.31
+   }
+  ],
+  "end": 273.474
+ },
+ {
+  "id": "verano",
+  "ch": 5,
+  "start": 273.474,
+  "lines": [
+   {
+    "txt": "El único problema es el verano.",
+    "file": "voz/verano_0.wav",
+    "start": 273.974,
+    "dur": 2.006
+   },
+   {
+    "txt": "Un mamut sudando es un espectáculo triste.",
+    "file": "voz/verano_1.wav",
+    "start": 276.38,
+    "dur": 2.582
+   }
+  ],
+  "end": 280.21200000000005
+ },
+ {
+  "id": "cap6",
+  "ch": 6,
+  "start": 280.21200000000005,
+  "lines": [
+   {
+    "txt": "Capítulo seis. Entrenamiento.",
+    "file": "voz/cap6_0.wav",
+    "start": 280.71200000000005,
+    "dur": 2.444
+   }
+  ],
+  "end": 284.40600000000006
+ },
+ {
+  "id": "trompa2",
+  "ch": 6,
+  "start": 284.40600000000006,
+  "lines": [
+   {
+    "txt": "Por fin aprendes a usar la trompa. Es nariz, mano, manguera y pajilla.",
+    "file": "voz/trompa2_0.wav",
+    "start": 284.90600000000006,
+    "dur": 4.412
+   },
+   {
+    "txt": "Y en la punta tiene algo parecido a unos dedos, para agarrar flores.",
+    "file": "voz/trompa2_1.wav",
+    "start": 289.7180000000001,
+    "dur": 3.894
+   }
+  ],
+  "end": 294.8620000000001
+ },
+ {
+  "id": "camino",
+  "ch": 6,
+  "start": 294.8620000000001,
+  "lines": [
+   {
+    "txt": "Caminas kilómetros detrás de tu mamá.",
+    "file": "voz/camino_0.wav",
+    "start": 295.3620000000001,
+    "dur": 2.118
+   },
+   {
+    "txt": "Tus patas son gruesas como troncos. Nadie te dijo que habría cardio.",
+    "file": "voz/camino_1.wav",
+    "start": 297.88000000000005,
+    "dur": 4.332
+   }
+  ],
+  "end": 303.4620000000001
+ },
+ {
+  "id": "hielo",
+  "ch": 6,
+  "start": 303.4620000000001,
+  "lines": [
+   {
+    "txt": "Aprendes a cruzar ríos congelados sin romper el hielo.",
+    "file": "voz/hielo_0.wav",
+    "start": 303.9620000000001,
+    "dur": 3.414
+   },
+   {
+    "txt": "Aprendes lento. Y mojado.",
+    "file": "voz/hielo_1.wav",
+    "start": 307.7760000000001,
+    "dur": 2.236
+   }
+  ],
+  "end": 311.26200000000017
+ },
+ {
+  "id": "sesenta",
+  "ch": 6,
+  "start": 311.26200000000017,
+  "lines": [
+   {
+    "txt": "Si todo sale bien, puedes vivir hasta unos sesenta años.",
+    "file": "voz/sesenta_0.wav",
+    "start": 311.76200000000017,
+    "dur": 3.446
+   },
+   {
+    "txt": "Más que un perro y que casi cualquier sofá.",
+    "file": "voz/sesenta_1.wav",
+    "start": 315.6080000000002,
+    "dur": 2.662
+   }
+  ],
+  "end": 319.5200000000002
+ },
+ {
+  "id": "sueno",
+  "ch": 6,
+  "start": 319.5200000000002,
+  "lines": [
+   {
+    "txt": "Duermes de pie, quieto como una montaña peluda.",
+    "file": "voz/sueno_0.wav",
+    "start": 320.0200000000002,
+    "dur": 2.822
+   },
+   {
+    "txt": "La nieve se te acumula encima. Nadie te despierta.",
+    "file": "voz/sueno_1.wav",
+    "start": 323.2420000000002,
+    "dur": 3.196
+   }
+  ],
+  "end": 327.6880000000002
+ },
+ {
+  "id": "derrite",
+  "ch": 6,
+  "start": 327.6880000000002,
+  "lines": [
+   {
+    "txt": "Pero Osvaldo se está derritiendo.",
+    "file": "voz/derrite_0.wav",
+    "start": 328.1880000000002,
+    "dur": 2.134
+   },
+   {
+    "txt": "Llega la primavera y tu mejor amigo ya es un charco. Lo salvas con sombra.",
+    "file": "voz/derrite_1.wav",
+    "start": 330.7220000000002,
+    "dur": 4.524
+   }
+  ],
+  "end": 336.4960000000002
+ },
+ {
+  "id": "cap7",
+  "ch": 7,
+  "start": 336.4960000000002,
+  "lines": [
+   {
+    "txt": "Capítulo siete. El amor.",
+    "file": "voz/cap7_0.wav",
+    "start": 336.9960000000002,
+    "dur": 2.076
+   }
+  ],
+  "end": 340.32200000000023
+ },
+ {
+  "id": "musth",
+  "ch": 7,
+  "start": 340.32200000000023,
+  "lines": [
+   {
+    "txt": "Cuando un macho llega a la edad adulta, entra en celo.",
+    "file": "voz/musth_0.wav",
+    "start": 340.82200000000023,
+    "dur": 3.174
+   },
+   {
+    "txt": "Se pone agresivo, huele fatal y se cree irresistible.",
+    "file": "voz/musth_1.wav",
+    "start": 344.39600000000024,
+    "dur": 3.446
+   }
+  ],
+  "end": 349.09200000000027
+ },
+ {
+  "id": "pelea",
+  "ch": 7,
+  "start": 349.09200000000027,
+  "lines": [
+   {
+    "txt": "Los machos pelean entrelazando los colmillos.",
+    "file": "voz/pelea_0.wav",
+    "start": 349.59200000000027,
+    "dur": 2.566
+   },
+   {
+    "txt": "Gana el que empuja más fuerte. El que pierde se va a casa solo.",
+    "file": "voz/pelea_1.wav",
+    "start": 352.5580000000003,
+    "dur": 3.532
+   }
+  ],
+  "end": 357.3400000000003
+ },
+ {
+  "id": "cortejo",
+  "ch": 7,
+  "start": 357.3400000000003,
+  "lines": [
+   {
+    "txt": "Y la hembra decide. Siempre decide la hembra.",
+    "file": "voz/cortejo_0.wav",
+    "start": 357.8400000000003,
+    "dur": 2.796
+   },
+   {
+    "txt": "Tú solo puedes mover las orejas y esperar un diez.",
+    "file": "voz/cortejo_1.wav",
+    "start": 361.03600000000034,
+    "dur": 2.95
+   }
+  ],
+  "end": 365.2360000000004
+ },
+ {
+  "id": "papa",
+  "ch": 7,
+  "start": 365.2360000000004,
+  "lines": [
+   {
+    "txt": "Si te eligen, no vas a ver a tu hijo crecer.",
+    "file": "voz/papa_0.wav",
+    "start": 365.7360000000004,
+    "dur": 2.63
+   },
+   {
+    "txt": "Los machos no crían. Papá de fin de semana, pero de toda la vida.",
+    "file": "voz/papa_1.wav",
+    "start": 368.76600000000036,
+    "dur": 4.412
+   }
+  ],
+  "end": 374.4280000000004
+ },
+ {
+  "id": "hembra",
+  "ch": 7,
+  "start": 374.4280000000004,
+  "lines": [
+   {
+    "txt": "Si eres hembra, cuidas a tus crías durante años.",
+    "file": "voz/hembra_0.wav",
+    "start": 374.9280000000004,
+    "dur": 2.646
+   },
+   {
+    "txt": "Y luego llega otra cría. Vacaciones, ninguna.",
+    "file": "voz/hembra_1.wav",
+    "start": 377.9740000000004,
+    "dur": 3.052
+   }
+  ],
+  "end": 382.2760000000004
+ },
+ {
+  "id": "ciclo",
+  "ch": 7,
+  "start": 382.2760000000004,
+  "lines": [
+   {
+    "txt": "Y así sigue la manada. Bebé tras bebé, año tras año.",
+    "file": "voz/ciclo_0.wav",
+    "start": 382.7760000000004,
+    "dur": 3.532
+   },
+   {
+    "txt": "Hay un bebé nuevo. Lo llaman Fulgencio Segundo.",
+    "file": "voz/ciclo_1.wav",
+    "start": 386.7080000000004,
+    "dur": 2.764
+   }
+  ],
+  "end": 390.72200000000043
+ },
+ {
+  "id": "cap8",
+  "ch": 8,
+  "start": 390.72200000000043,
+  "lines": [
+   {
+    "txt": "Capítulo ocho. El final.",
+    "file": "voz/cap8_0.wav",
+    "start": 391.22200000000043,
+    "dur": 2.092
+   }
+  ],
+  "end": 394.5640000000005
+ },
+ {
+  "id": "vejez",
+  "ch": 8,
+  "start": 394.5640000000005,
+  "lines": [
+   {
+    "txt": "Al final, los mamuts mueren de viejos, de hambre o de frío.",
+    "file": "voz/vejez_0.wav",
+    "start": 395.0640000000005,
+    "dur": 3.638
+   },
+   {
+    "txt": "Cuando se te acaba la última muela, no hay dentista que te salve.",
+    "file": "voz/vejez_1.wav",
+    "start": 399.1020000000005,
+    "dur": 3.318
+   }
+  ],
+  "end": 403.6700000000005
+ },
+ {
+  "id": "ladron",
+  "ch": 8,
+  "start": 403.6700000000005,
+  "lines": [
+   {
+    "txt": "Y Wilfrido, el ladrón de pasto, vivió muchísimos años.",
+    "file": "voz/ladron_0.wav",
+    "start": 404.1700000000005,
+    "dur": 3.574
+   },
+   {
+    "txt": "Los traidores siempre viven más. Es injusto, pero es ciencia.",
+    "file": "voz/ladron_1.wav",
+    "start": 408.1440000000005,
+    "dur": 4.076
+   }
+  ],
+  "end": 413.47000000000054
+ },
+ {
+  "id": "lyuba",
+  "ch": 8,
+  "start": 413.47000000000054,
+  "lines": [
+   {
+    "txt": "En dos mil siete encontraron en Siberia a una bebé mamut congelada. Se llamaba Lyuba.",
+    "file": "voz/lyuba_0.wav",
+    "start": 413.97000000000054,
+    "dur": 5.084
+   },
+   {
+    "txt": "Tenía un mes de edad y murió hace unos cuarenta mil años. Aun así, tiene más fama que tú.",
+    "file": "voz/lyuba_1.wav",
+    "start": 419.4540000000005,
+    "dur": 6.092
+   }
+  ],
+  "end": 426.79600000000056
+ },
+ {
+  "id": "piramides",
+  "ch": 8,
+  "start": 426.79600000000056,
+  "lines": [
+   {
+    "txt": "Los últimos mamuts vivieron en la isla Wrangel hasta hace unos cuatro mil años.",
+    "file": "voz/piramides_0.wav",
+    "start": 427.29600000000056,
+    "dur": 4.806
+   },
+   {
+    "txt": "Cuando ya existían las pirámides de Egipto, todavía quedaban mamuts.",
+    "file": "voz/piramides_1.wav",
+    "start": 432.5020000000006,
+    "dur": 3.766
+   }
+  ],
+  "end": 437.5180000000006
+ },
+ {
+  "id": "culpa",
+  "ch": 8,
+  "start": 437.5180000000006,
+  "lines": [
+   {
+    "txt": "Nadie sabe bien por qué desaparecieron.",
+    "file": "voz/culpa_0.wav",
+    "start": 438.0180000000006,
+    "dur": 2.326
+   },
+   {
+    "txt": "Unos culpan al clima. Otros, a los humanos. Y otros, a los dos.",
+    "file": "voz/culpa_1.wav",
+    "start": 440.7440000000006,
+    "dur": 4.722
+   }
+  ],
+  "end": 446.71600000000063
+ },
+ {
+  "id": "revivir",
+  "ch": 8,
+  "start": 446.71600000000063,
+  "lines": [
+   {
+    "txt": "Hoy, algunos científicos quieren traer de vuelta algo parecido a un mamut.",
+    "file": "voz/revivir_0.wav",
+    "start": 447.21600000000063,
+    "dur": 4.31
+   },
+   {
+    "txt": "Qué amables. Nadie te preguntó si querías.",
+    "file": "voz/revivir_1.wav",
+    "start": 451.9260000000006,
+    "dur": 2.78
+   }
+  ],
+  "end": 455.95600000000064
+ },
+ {
+  "id": "cierre",
+  "ch": 8,
+  "start": 455.95600000000064,
+  "lines": [
+   {
+    "txt": "Nacer como un mamut lanudo apesta.",
+    "file": "voz/cierre_0.wav",
+    "start": 456.45600000000064,
+    "dur": 2.246
+   },
+   {
+    "txt": "Pero al menos vas abrigado.",
+    "file": "voz/cierre_1.wav",
+    "start": 459.10200000000066,
+    "dur": 1.526
+   }
+  ],
+  "end": 461.87800000000067
+ },
+ {
+  "id": "adiosg",
+  "ch": 8,
+  "start": 461.87800000000067,
+  "lines": [
+   {
+    "txt": "Osvaldo te despide desde la nieve.",
+    "file": "voz/adiosg_0.wav",
+    "start": 462.37800000000067,
+    "dur": 1.974
+   },
+   {
+    "txt": "Cuando te vas, él se queda. Siempre que no salga el sol.",
+    "file": "voz/adiosg_1.wav",
+    "start": 464.7520000000007,
+    "dur": 4.06
+   }
+  ],
+  "end": 470.0620000000007
+ },
+ {
+  "id": "sub",
+  "ch": 8,
+  "start": 470.0620000000007,
+  "lines": [
+   {
+    "txt": "Suscríbete a este canal.",
+    "file": "voz/sub_0.wav",
+    "start": 470.5620000000007,
+    "dur": 1.43
+   },
+   {
+    "txt": "O el león de las cavernas se come a Osvaldo.",
+    "file": "voz/sub_1.wav",
+    "start": 472.3920000000007,
+    "dur": 2.326
+   }
+  ],
+  "end": 475.9680000000007
+ }
+]

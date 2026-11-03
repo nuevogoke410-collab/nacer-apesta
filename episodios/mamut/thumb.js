@@ -1,0 +1,13 @@
+const fs=require('fs');const {createCanvas}=require('@napi-rs/canvas');
+const X=require('./lib');const Q=require('./extra');const {W,H,C,E,R,P,Ln,text,save,restore}=X;
+const cv=createCanvas(W,H),ctx=cv.getContext('2d');X.setCtx(ctx);
+Q.tundra('nieve');
+R(60,70,1120,560,30,'rgba(255,248,214,0.93)',{lw:6});
+text('Nacer como un',620,180,130,C.OUT,'Gochi','center',-.02);
+text('MAMUT',620,350,240,Q.MAM,'Gochi','center',.01,16,C.OUT);
+text('LANUDO',620,500,130,Q.MAML,'Gochi','center',-.01,12,C.OUT);
+save(830,585,1,-.12);R(-290,-85,580,170,14,null,{lw:10,col:C.RED});text('APESTA',0,6,160,C.RED,'Gochi');restore();
+Q.mamut(1530,1040,1.5,{flip:true,exp:'sweat',t:.6,trunk:'wave'});
+Q.osvaldo(380,1010,1.5,{exp:'shock'});
+const out=createCanvas(1280,720),o=out.getContext('2d');o.drawImage(cv,0,0,1280,720);
+fs.writeFileSync('miniatura.jpg',out.toBuffer('image/jpeg',90));
