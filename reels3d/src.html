@@ -364,7 +364,8 @@ function paintScreen(t,cut){
     let typed='';
     if(cut&&cut.type){const n=Math.floor(Math.max(0,t-cut.t-0.3)*9);typed=cut.type.slice(0,n);}
     drawA(g,t,typed);
-  } else drawB(g,t);
+  } else if(screenMode==='T')drawT(g,t,cut);
+  else drawB(g,t);
   scrTex.needsUpdate=true;
 }
 

@@ -1,0 +1,17 @@
+{
+ "title": "Bug a las 3 a. m.",
+ "caption": "Cuando el bug de las 3 a. m. era un punto y coma y la culpa era del robot 😅🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Son las 3 de la mañana. La web no funciona.","who":null,"screen":"T","screenTitle":"terminal","screenLines":["!ERROR: unexpected token","!ERROR: build failed","$npm run build"]},
+  {"cam":"human","sub":"¡Claude, tú dañaste mi código!","who":"h","screen":"T","screenTitle":"terminal","screenLines":["!ERROR: unexpected token","!ERROR: build failed"],"panic":true},
+  {"cam":"robot","sub":"Santi, yo estaba apagado. Dormía.","who":"r","screen":"T","screenTitle":"terminal","screenLines":["!ERROR: unexpected token"],"wake":true},
+  {"cam":"human","sub":"¡Entonces fue el internet!","who":"h","screen":"A","panic":true},
+  {"cam":"monitor","sub":"Línea 212. Falta algo pequeñito.","who":"r","screen":"T","screenTitle":"chat","screenLines":[">Claude: revisando línea 212","?falta un caracter","!línea 212"],"surprise":true},
+  {"cam":"human","sub":"¿Una coma? ¿Una llave? ¿Mi dignidad?","who":"h","screen":"T","screenTitle":"chat","screenLines":[">Claude: línea 212","?falta un caracter"]},
+  {"cam":"robot","sub":"Un punto y coma. Uno solo.","who":"r","screen":"T","screenTitle":"chat","screenLines":[">Claude: línea 212","?falta ;"]},
+  {"card":"4 HORAS BUSCANDO\nUN PUNTO Y COMA","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"Listo. Compila perfecto.","who":"h","screen":"T","screenTitle":"terminal","screenLines":["$npm run build","$build exitoso"]},
+  {"cam":"general","sub":"Perdón por culparte, Claude.","who":"h","screen":"B"},
+  {"cam":"robot","sub":"Acepto disculpas… y un punto y coma.","who":"r","screen":"B","end":"tada"}
+ ]
+}
