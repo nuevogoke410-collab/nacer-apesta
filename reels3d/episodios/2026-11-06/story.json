@@ -1,0 +1,16 @@
+{
+ "title": "Claude revisa mi código",
+ "caption": "Cuando le preguntas a tu IA si tu código está bien y te responde con una lista de 47 puntos 😅🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi terminó su código y está muy orgulloso.","who":null,"screen":"T","screenTitle":"app.js","screenLines":["$ guardado","$ listo para producción","? ¿seguro?"]},
+  {"cam":"human","sub":"Claude, ¿mi código está bien?","who":"h","screen":"T","screenTitle":"app.js","screenLines":["$ guardado","$ listo para producción"]},
+  {"cam":"robot","sub":"Con mucho cariño… tengo 47 observaciones.","who":"r","screen":"T","screenTitle":"revisión de Claude","screenLines":["> analizando…","> 47 problemas encontrados"],"surprise":true},
+  {"cam":"human","sub":"¿Cuarenta y siete? ¡Si solo tiene diez líneas!","who":"h","screen":"T","screenTitle":"revisión de Claude","screenLines":["!  error 1: nombre de variable","!  error 2: nombre de variable","!  error 3: nombre de variable"],"panic":true},
+  {"cam":"monitor","sub":"El primero: la variable se llama x.","who":"r","screen":"T","screenTitle":"revisión de Claude","screenLines":["! 1. variable x","! 2. variable xx","! 3. variable xxx","? 4. ¿por qué?"]},
+  {"cam":"robot","sub":"Del 4 al 40: también se llaman x.","who":"r","screen":"T","screenTitle":"revisión de Claude","screenLines":["! 4 a 40: variables x","! 41: sin comentarios","! 42: sin pruebas"]},
+  {"card":"UNA HORA\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"Corregido todo. Ahora sí está perfecto.","who":"h","screen":"T","screenTitle":"app.js","screenLines":["$ 47 problemas corregidos","$ pruebas: todas pasan","$ todo en orden"]},
+  {"cam":"robot","sub":"Muy bien. Solo queda un detalle.","who":"r","screen":"T","screenTitle":"revisión de Claude","screenLines":["> revisando de nuevo…","? 1 observación nueva"]},
+  {"cam":"general","sub":"El archivo se llama final_final2.","who":"r","screen":"T","screenTitle":"revisión de Claude","screenLines":["! 48: final_final2.js"],"end":true}
+ ]
+}
