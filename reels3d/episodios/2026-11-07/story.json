@@ -1,0 +1,16 @@
+{
+ "title": "Funciona en mi computador",
+ "caption": "Cuando en tu computador funciona perfecto y el cliente abre la web 💥😅 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi está seguro: la web está perfecta.","who":null,"screen":"B"},
+  {"cam":"human","sub":"En mi computador funciona perfecto.","who":"h","screen":"B"},
+  {"cam":"robot","sub":"Qué frase tan peligrosa, Santi.","who":"r","screen":"B"},
+  {"card":"EL CLIENTE\nABRE LA WEB","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"Error 500. Error 404. Error de todo.","who":"r","screen":"T","screenTitle":"servidor del cliente","screenLines":["!ERROR 500","!ERROR 404","!NO ENCUENTRO NADA","$todo bien en localhost"],"surprise":true},
+  {"cam":"human","sub":"¡Pero en mi computador funciona!","who":"h","screen":"T","screenTitle":"servidor del cliente","screenLines":["!ERROR 500","!ERROR 404"],"panic":true},
+  {"cam":"robot","sub":"Tu código depende de una carpeta de tu escritorio.","who":"r","screen":"T","screenTitle":"servidor del cliente","screenLines":["?ruta: C:/Santi/Escritorio/prueba","!no existe"]},
+  {"cam":"monitor","sub":"Y de un archivo llamado pruebaFINAL.","who":"r","screen":"T","screenTitle":"servidor del cliente","screenLines":["?importa pruebaFINAL","!no existe"]},
+  {"cam":"human","sub":"Entonces mandemos mi computador al cliente.","who":"h","screen":"A"},
+  {"cam":"general","sub":"Santi. Eso no es una solución.","who":"r","screen":"A","end":true}
+ ]
+}
