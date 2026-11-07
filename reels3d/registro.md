@@ -4,3 +4,4 @@
 - Bug a las 3 a. m.: Santi culpa al robot, era un punto y coma — programado 2026-11-05 16:00
 - Santi pregunta si su código está bien y Claude enumera 47 problemas — programado 2026-11-06 16:00
 - Funciona en mi computador — el cliente abre la web y explota — programado 2026-11-07 16:00
+- Santi pide una app 'como Instagram pero mejor' en 5 minutos — programado 2026-11-08 16:00

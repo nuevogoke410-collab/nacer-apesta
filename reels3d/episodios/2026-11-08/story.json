@@ -1,0 +1,16 @@
+{
+ "title": "Instagram pero mejor",
+ "caption": "Cuando el cliente quiere 'Instagram pero mejor' para dentro de 5 minutos 😅📱 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"El cliente quiere una app como Instagram.","who":null,"screen":"T","screenTitle":"mensaje del cliente","screenLines":["?Hola Santi!","> Quiero una app","> como Instagram pero mejor","? Para dentro de 5 minutos"]},
+  {"cam":"human","sub":"Claude, haz una app como Instagram pero mejor.","who":"h","screen":"T","screenTitle":"mensaje del cliente","screenLines":["> como Instagram pero mejor","? Para dentro de 5 minutos"],"panic":true},
+  {"cam":"robot","sub":"Instagram tiene miles de ingenieros y años de trabajo.","who":"r","screen":"off","wake":true},
+  {"cam":"human","sub":"Tú tienes cinco minutos y a mí.","who":"h","screen":"off"},
+  {"cam":"monitor","sub":"Hecho. Mejoré algo importante.","who":"r","screen":"T","screenTitle":"claude","screenLines":["$ crear_app --como instagram","$ mejorando...","? 1 foto, 1 botón, 1 filtro"]},
+  {"card":"5 MINUTOS\nDESPUÉS","who":null,"screen":"B"},
+  {"cam":"monitor","sub":"Solo tiene una foto y un botón.","who":"h","screen":"B","surprise":true},
+  {"cam":"robot","sub":"Es minimalista. Y no se cae nunca.","who":"r","screen":"B"},
+  {"cam":"human","sub":"¿Y el botón qué hace?","who":"h","screen":"B"},
+  {"cam":"general","sub":"Le da like a la foto. Es muy sincero.","who":"r","screen":"B","end":"tada"}
+ ]
+}
