@@ -1,0 +1,1048 @@
+[
+ {
+  "id": "titulo",
+  "ch": 1,
+  "start": 0,
+  "lines": [
+   {
+    "txt": "Nacer como un titanoboa apesta.",
+    "file": "voz/titulo_0.wav",
+    "start": 0.5,
+    "dur": 1.878
+   }
+  ],
+  "end": 3.628
+ },
+ {
+  "id": "cap1",
+  "ch": 1,
+  "start": 3.628,
+  "lines": [
+   {
+    "txt": "Capítulo uno. El nacimiento.",
+    "file": "voz/cap1_0.wav",
+    "start": 4.128,
+    "dur": 2.156
+   }
+  ],
+  "end": 7.534
+ },
+ {
+  "id": "epoca",
+  "ch": 1,
+  "start": 7.534,
+  "lines": [
+   {
+    "txt": "Naces hace unos sesenta millones de años, en lo que hoy es Colombia.",
+    "file": "voz/epoca_0.wav",
+    "start": 8.033999999999999,
+    "dur": 3.686
+   },
+   {
+    "txt": "Los dinosaurios se fueron hace poco, así que el puesto de bicho gigante está vacante.",
+    "file": "voz/epoca_1.wav",
+    "start": 12.12,
+    "dur": 4.518
+   }
+  ],
+  "end": 17.888
+ },
+ {
+  "id": "calor",
+  "ch": 1,
+  "start": 17.888,
+  "lines": [
+   {
+    "txt": "Naces en un pantano caliente. Treinta grados o más, todo el año.",
+    "file": "voz/calor_0.wav",
+    "start": 18.388,
+    "dur": 4.076
+   },
+   {
+    "txt": "Es como vivir dentro de una sopa tibia, con mosquitos de cortesía.",
+    "file": "voz/calor_1.wav",
+    "start": 22.864,
+    "dur": 3.894
+   }
+  ],
+  "end": 28.008000000000003
+ },
+ {
+  "id": "tamano0",
+  "ch": 1,
+  "start": 28.008000000000003,
+  "lines": [
+   {
+    "txt": "Los científicos no saben cuánto medías al nacer. No quedó ningún fósil de bebé.",
+    "file": "voz/tamano0_0.wav",
+    "start": 28.508000000000003,
+    "dur": 4.844
+   },
+   {
+    "txt": "Así que tu certificado de nacimiento dice: más o menos.",
+    "file": "voz/tamano0_1.wav",
+    "start": 33.752,
+    "dur": 3.75
+   }
+  ],
+  "end": 38.752
+ },
+ {
+  "id": "mama",
+  "ch": 1,
+  "start": 38.752,
+  "lines": [
+   {
+    "txt": "Tu madre te mira un segundo. Luego se va nadando.",
+    "file": "voz/mama_0.wav",
+    "start": 39.252,
+    "dur": 2.908
+   },
+   {
+    "txt": "Las serpientes gigantes no cuidan a sus hijos. Ni una tarjeta de cumpleaños.",
+    "file": "voz/mama_1.wav",
+    "start": 42.56,
+    "dur": 4.764
+   }
+  ],
+  "end": 48.574000000000005
+ },
+ {
+  "id": "hermanos",
+  "ch": 1,
+  "start": 48.574000000000005,
+  "lines": [
+   {
+    "txt": "Tus hermanos más cercanos son Anselmo, Baldomero y Teodoro.",
+    "file": "voz/hermanos_0.wav",
+    "start": 49.074000000000005,
+    "dur": 3.926
+   },
+   {
+    "txt": "Mírales bien la cara. Es una despedida anticipada.",
+    "file": "voz/hermanos_1.wav",
+    "start": 53.400000000000006,
+    "dur": 3.068
+   }
+  ],
+  "end": 57.71800000000001
+ },
+ {
+  "id": "hilario",
+  "ch": 1,
+  "start": 57.71800000000001,
+  "lines": [
+   {
+    "txt": "Te quedas solo, hasta que encuentras una hoja de helecho flotando. La llamas Hilario.",
+    "file": "voz/hilario_0.wav",
+    "start": 58.21800000000001,
+    "dur": 4.652
+   },
+   {
+    "txt": "No te contesta ni te juzga, y flota. Mejor amigo imposible.",
+    "file": "voz/hilario_1.wav",
+    "start": 63.27000000000001,
+    "dur": 4.236
+   }
+  ],
+  "end": 68.756
+ },
+ {
+  "id": "piel",
+  "ch": 1,
+  "start": 68.756,
+  "lines": [
+   {
+    "txt": "Creces tan rápido que la piel te queda chica.",
+    "file": "voz/piel_0.wav",
+    "start": 69.256,
+    "dur": 2.278
+   },
+   {
+    "txt": "Así que la cambias entera, como quien se quita un abrigo viejo.",
+    "file": "voz/piel_1.wav",
+    "start": 71.934,
+    "dur": 3.478
+   }
+  ],
+  "end": 76.66199999999999
+ },
+ {
+  "id": "cap2",
+  "ch": 2,
+  "start": 76.66199999999999,
+  "lines": [
+   {
+    "txt": "Capítulo dos. La comida.",
+    "file": "voz/cap2_0.wav",
+    "start": 77.16199999999999,
+    "dur": 2.044
+   }
+  ],
+  "end": 80.45599999999999
+ },
+ {
+  "id": "carnivoro",
+  "ch": 2,
+  "start": 80.45599999999999,
+  "lines": [
+   {
+    "txt": "Eres carnívoro estricto. Cero ensaladas.",
+    "file": "voz/carnivoro_0.wav",
+    "start": 80.95599999999999,
+    "dur": 2.876
+   },
+   {
+    "txt": "Y como estás recién nacido, empiezas con peces pequeños y lo que se deje.",
+    "file": "voz/carnivoro_1.wav",
+    "start": 84.23199999999999,
+    "dur": 4.214
+   }
+  ],
+  "end": 89.69599999999998
+ },
+ {
+  "id": "emboscada",
+  "ch": 2,
+  "start": 89.69599999999998,
+  "lines": [
+   {
+    "txt": "Tu técnica es esperar sin moverte dentro del agua.",
+    "file": "voz/emboscada_0.wav",
+    "start": 90.19599999999998,
+    "dur": 2.854
+   },
+   {
+    "txt": "Cuando algo se acerca, atacas. Un trabajo tranquilo, con picos de emoción.",
+    "file": "voz/emboscada_1.wav",
+    "start": 93.44999999999999,
+    "dur": 4.508
+   }
+  ],
+  "end": 99.20799999999998
+ },
+ {
+  "id": "plato",
+  "ch": 2,
+  "start": 99.20799999999998,
+  "lines": [
+   {
+    "txt": "Cuando creces, tu plato favorito son las tortugas gigantes.",
+    "file": "voz/plato_0.wav",
+    "start": 99.70799999999998,
+    "dur": 3.638
+   },
+   {
+    "txt": "Tortugas del tamaño de una mesa de comedor. Con todo y caparazón.",
+    "file": "voz/plato_1.wav",
+    "start": 103.74599999999998,
+    "dur": 4.044
+   }
+  ],
+  "end": 109.03999999999998
+ },
+ {
+  "id": "tortuga",
+  "ch": 2,
+  "start": 109.03999999999998,
+  "lines": [
+   {
+    "txt": "Se han encontrado caparazones de tortuga rotos que sanaron.",
+    "file": "voz/tortuga_0.wav",
+    "start": 109.53999999999998,
+    "dur": 2.966
+   },
+   {
+    "txt": "O sea que a veces la cena se escapaba. Y llevaba cicatriz de recuerdo.",
+    "file": "voz/tortuga_1.wav",
+    "start": 112.90599999999998,
+    "dur": 3.868
+   }
+  ],
+  "end": 118.02399999999997
+ },
+ {
+  "id": "cocodrilo",
+  "ch": 2,
+  "start": 118.02399999999997,
+  "lines": [
+   {
+    "txt": "También te comes a los cocodrilos del vecindario, de más de cuatro metros.",
+    "file": "voz/cocodrilo_0.wav",
+    "start": 118.52399999999997,
+    "dur": 4.214
+   },
+   {
+    "txt": "Imagina cenar a tu vecino. Y que el vecino esté de acuerdo en que eres mayor.",
+    "file": "voz/cocodrilo_1.wav",
+    "start": 123.13799999999998,
+    "dur": 4.972
+   }
+  ],
+  "end": 129.35999999999999
+ },
+ {
+  "id": "mandibula",
+  "ch": 2,
+  "start": 129.35999999999999,
+  "lines": [
+   {
+    "txt": "Como toda serpiente, tus mandíbulas se estiran para abrir la boca enorme.",
+    "file": "voz/mandibula_0.wav",
+    "start": 129.85999999999999,
+    "dur": 3.926
+   },
+   {
+    "txt": "Te tragas la presa entera. Sin cubiertos y sin modales.",
+    "file": "voz/mandibula_1.wav",
+    "start": 134.18599999999998,
+    "dur": 3.676
+   }
+  ],
+  "end": 139.11199999999997
+ },
+ {
+  "id": "digerir",
+  "ch": 2,
+  "start": 139.11199999999997,
+  "lines": [
+   {
+    "txt": "Digerir una comida así te toma meses.",
+    "file": "voz/digerir_0.wav",
+    "start": 139.61199999999997,
+    "dur": 2.598
+   },
+   {
+    "txt": "Se calcula que comías apenas tres o cuatro veces al año. El mejor plan de ahorro del mundo.",
+    "file": "voz/digerir_1.wav",
+    "start": 142.60999999999996,
+    "dur": 5.052
+   }
+  ],
+  "end": 148.91199999999995
+ },
+ {
+  "id": "anselmo",
+  "ch": 2,
+  "start": 148.91199999999995,
+  "lines": [
+   {
+    "txt": "Hilario te mira mientras comes, y nunca opina.",
+    "file": "voz/anselmo_0.wav",
+    "start": 149.41199999999995,
+    "dur": 3.046
+   },
+   {
+    "txt": "Anselmo, en cambio, opinó demasiado. Estaba delicioso. Perdón, quise decir imprudente.",
+    "file": "voz/anselmo_1.wav",
+    "start": 152.85799999999995,
+    "dur": 6.258
+   }
+  ],
+  "end": 160.36599999999993
+ },
+ {
+  "id": "cap3",
+  "ch": 3,
+  "start": 160.36599999999993,
+  "lines": [
+   {
+    "txt": "Capítulo tres. La vida solitaria.",
+    "file": "voz/cap3_0.wav",
+    "start": 160.86599999999993,
+    "dur": 2.38
+   }
+  ],
+  "end": 164.49599999999992
+ },
+ {
+  "id": "solo",
+  "ch": 3,
+  "start": 164.49599999999992,
+  "lines": [
+   {
+    "txt": "Los titanoboas viven solos. Tu agenda social está vacía.",
+    "file": "voz/solo_0.wav",
+    "start": 164.99599999999992,
+    "dur": 3.628
+   },
+   {
+    "txt": "Menos mal que tienes a Hilario. Sigue sin contestar.",
+    "file": "voz/solo_1.wav",
+    "start": 169.02399999999992,
+    "dur": 3.308
+   }
+  ],
+  "end": 173.5819999999999
+ },
+ {
+  "id": "tamano",
+  "ch": 3,
+  "start": 173.5819999999999,
+  "lines": [
+   {
+    "txt": "Un adulto medía unos trece metros y pesaba más de una tonelada.",
+    "file": "voz/tamano_0.wav",
+    "start": 174.0819999999999,
+    "dur": 3.542
+   },
+   {
+    "txt": "Eres más largo que un autobús. Y casi tan fácil de estacionar.",
+    "file": "voz/tamano_1.wav",
+    "start": 178.02399999999992,
+    "dur": 3.916
+   }
+  ],
+  "end": 183.1899999999999
+ },
+ {
+  "id": "anaconda",
+  "ch": 3,
+  "start": 183.1899999999999,
+  "lines": [
+   {
+    "txt": "Una anaconda actual mide unos seis metros y medio, más o menos.",
+    "file": "voz/anaconda_0.wav",
+    "start": 183.6899999999999,
+    "dur": 3.894
+   },
+   {
+    "txt": "Tú eres el doble. Cuando se presenta, le dices: encantado, pequeña.",
+    "file": "voz/anaconda_1.wav",
+    "start": 187.98399999999992,
+    "dur": 4.908
+   }
+  ],
+  "end": 194.1419999999999
+ },
+ {
+  "id": "agua",
+  "ch": 3,
+  "start": 194.1419999999999,
+  "lines": [
+   {
+    "txt": "Vives en pantanos y ríos de la selva tropical más antigua que se conoce.",
+    "file": "voz/agua_0.wav",
+    "start": 194.6419999999999,
+    "dur": 4.422
+   },
+   {
+    "txt": "Tu casa es un charco enorme lleno de helechos, palmeras y vecinos peligrosos.",
+    "file": "voz/agua_1.wav",
+    "start": 199.4639999999999,
+    "dur": 4.406
+   }
+  ],
+  "end": 205.11999999999992
+ },
+ {
+  "id": "sangre",
+  "ch": 3,
+  "start": 205.11999999999992,
+  "lines": [
+   {
+    "txt": "Eres de sangre fría y necesitas calor para crecer tanto.",
+    "file": "voz/sangre_0.wav",
+    "start": 205.61999999999992,
+    "dur": 3.366
+   },
+   {
+    "txt": "Con ese clima, hasta tu desayuno es una sauna. Por eso eres gigante.",
+    "file": "voz/sangre_1.wav",
+    "start": 209.3859999999999,
+    "dur": 4.444
+   }
+  ],
+  "end": 215.0799999999999
+ },
+ {
+  "id": "lengua",
+  "ch": 3,
+  "start": 215.0799999999999,
+  "lines": [
+   {
+    "txt": "Hueles con la lengua. La sacas y atrapas partículas del aire.",
+    "file": "voz/lengua_0.wav",
+    "start": 215.5799999999999,
+    "dur": 3.82
+   },
+   {
+    "txt": "Sabes exactamente qué se acerca. Y a veces es un pariente. Mala suerte.",
+    "file": "voz/lengua_1.wav",
+    "start": 219.7999999999999,
+    "dur": 4.802
+   }
+  ],
+  "end": 225.8519999999999
+ },
+ {
+  "id": "cap4",
+  "ch": 4,
+  "start": 225.8519999999999,
+  "lines": [
+   {
+    "txt": "Capítulo cuatro. Los que te quieren comer.",
+    "file": "voz/cap4_0.wav",
+    "start": 226.3519999999999,
+    "dur": 2.684
+   }
+  ],
+  "end": 230.2859999999999
+ },
+ {
+  "id": "lista",
+  "ch": 4,
+  "start": 230.2859999999999,
+  "lines": [
+   {
+    "txt": "Siendo pequeño, a ti también te quieren comer.",
+    "file": "voz/lista_0.wav",
+    "start": 230.7859999999999,
+    "dur": 2.95
+   },
+   {
+    "txt": "Nadie sabe con certeza quién. Los sospechosos: cocodrilos, lagartos y aves.",
+    "file": "voz/lista_1.wav",
+    "start": 234.13599999999988,
+    "dur": 5.388
+   }
+  ],
+  "end": 240.7739999999999
+ },
+ {
+  "id": "baldomero",
+  "ch": 4,
+  "start": 240.7739999999999,
+  "lines": [
+   {
+    "txt": "Baldomero se escondía muy bien. Casi no lo vieron.",
+    "file": "voz/baldomero_0.wav",
+    "start": 241.2739999999999,
+    "dur": 3.036
+   },
+   {
+    "txt": "Pero a un cocodrilo no se le escapa nada. Descansa, Baldomero.",
+    "file": "voz/baldomero_1.wav",
+    "start": 244.7099999999999,
+    "dur": 4.14
+   }
+  ],
+  "end": 250.09999999999988
+ },
+ {
+  "id": "estadistica",
+  "ch": 4,
+  "start": 250.09999999999988,
+  "lines": [
+   {
+    "txt": "Se han hallado fósiles de unos treinta titanoboas, casi todos adultos.",
+    "file": "voz/estadistica_0.wav",
+    "start": 250.59999999999988,
+    "dur": 4.118
+   },
+   {
+    "txt": "Los bebés casi nunca se vuelven fósil. La estadística es un misterio con mala fama.",
+    "file": "voz/estadistica_1.wav",
+    "start": 255.11799999999988,
+    "dur": 4.668
+   }
+  ],
+  "end": 261.0359999999999
+ },
+ {
+  "id": "adulto",
+  "ch": 4,
+  "start": 261.0359999999999,
+  "lines": [
+   {
+    "txt": "Cuando eres adulto, casi nadie se atreve contigo.",
+    "file": "voz/adulto_0.wav",
+    "start": 261.5359999999999,
+    "dur": 2.902
+   },
+   {
+    "txt": "Eres el que da miedo. Por fin tu carrera va bien.",
+    "file": "voz/adulto_1.wav",
+    "start": 264.8379999999999,
+    "dur": 2.892
+   }
+  ],
+  "end": 268.9799999999999
+ },
+ {
+  "id": "humanos",
+  "ch": 4,
+  "start": 268.9799999999999,
+  "lines": [
+   {
+    "txt": "Humanos no hay. Faltan unos cincuenta y ocho millones de años para eso.",
+    "file": "voz/humanos_0.wav",
+    "start": 269.4799999999999,
+    "dur": 4.028
+   },
+   {
+    "txt": "Lo mejor de tu época: nadie te hace un bolso.",
+    "file": "voz/humanos_1.wav",
+    "start": 273.9079999999999,
+    "dur": 2.662
+   }
+  ],
+  "end": 277.81999999999994
+ },
+ {
+  "id": "quieto",
+  "ch": 4,
+  "start": 277.81999999999994,
+  "lines": [
+   {
+    "txt": "Tu defensa es quedarte quieto, bajo el agua o entre las plantas.",
+    "file": "voz/quieto_0.wav",
+    "start": 278.31999999999994,
+    "dur": 3.942
+   },
+   {
+    "txt": "Tu camuflaje es verde pantano. Tu plan B es otra vez quedarte quieto.",
+    "file": "voz/quieto_1.wav",
+    "start": 282.6619999999999,
+    "dur": 4.444
+   }
+  ],
+  "end": 288.35599999999994
+ },
+ {
+  "id": "cap5",
+  "ch": 5,
+  "start": 288.35599999999994,
+  "lines": [
+   {
+    "txt": "Capítulo cinco. Tu superpoder.",
+    "file": "voz/cap5_0.wav",
+    "start": 288.85599999999994,
+    "dur": 2.396
+   }
+  ],
+  "end": 292.50199999999995
+ },
+ {
+  "id": "super",
+  "ch": 5,
+  "start": 292.50199999999995,
+  "lines": [
+   {
+    "txt": "Tu superpoder es el tamaño. Tan grande, que da miedo mirarte.",
+    "file": "voz/super_0.wav",
+    "start": 293.00199999999995,
+    "dur": 4.012
+   },
+   {
+    "txt": "Tus parientes las boas no usan veneno. Tú tampoco, probablemente.",
+    "file": "voz/super_1.wav",
+    "start": 297.41399999999993,
+    "dur": 4.492
+   }
+  ],
+  "end": 303.15599999999995
+ },
+ {
+  "id": "abrazo",
+  "ch": 5,
+  "start": 303.15599999999995,
+  "lines": [
+   {
+    "txt": "Se cree que apretabas a la presa hasta que ya no podía respirar.",
+    "file": "voz/abrazo_0.wav",
+    "start": 303.65599999999995,
+    "dur": 3.222
+   },
+   {
+    "txt": "No era un abrazo fuerte. Era un abrazo con mala intención.",
+    "file": "voz/abrazo_1.wav",
+    "start": 307.27799999999996,
+    "dur": 3.532
+   }
+  ],
+  "end": 312.06
+ },
+ {
+  "id": "fuerza",
+  "ch": 5,
+  "start": 312.06,
+  "lines": [
+   {
+    "txt": "Tu cuerpo era casi puro músculo. Podías con una tortuga de dos metros.",
+    "file": "voz/fuerza_0.wav",
+    "start": 312.56,
+    "dur": 4.636
+   },
+   {
+    "txt": "Aunque la mayor parte de las veces preferías una siesta.",
+    "file": "voz/fuerza_1.wav",
+    "start": 317.596,
+    "dur": 3.286
+   }
+  ],
+  "end": 322.132
+ },
+ {
+  "id": "hilario2",
+  "ch": 5,
+  "start": 322.132,
+  "lines": [
+   {
+    "txt": "Un día intentas abrazar a Hilario, por cariño.",
+    "file": "voz/hilario2_0.wav",
+    "start": 322.632,
+    "dur": 2.806
+   },
+   {
+    "txt": "La hoja casi se hunde. Es oficial: no sabes demostrar afecto.",
+    "file": "voz/hilario2_1.wav",
+    "start": 325.838,
+    "dur": 4.3
+   }
+  ],
+  "end": 331.38800000000003
+ },
+ {
+  "id": "cap6",
+  "ch": 6,
+  "start": 331.38800000000003,
+  "lines": [
+   {
+    "txt": "Capítulo seis. Entrenamiento.",
+    "file": "voz/cap6_0.wav",
+    "start": 331.88800000000003,
+    "dur": 2.524
+   }
+  ],
+  "end": 335.66200000000003
+ },
+ {
+  "id": "practica",
+  "ch": 6,
+  "start": 335.66200000000003,
+  "lines": [
+   {
+    "txt": "Aprendes a cazar practicando. Muchas veces fallas.",
+    "file": "voz/practica_0.wav",
+    "start": 336.16200000000003,
+    "dur": 3.244
+   },
+   {
+    "txt": "Atacas a un pez, y el pez se va. Tu orgullo, también.",
+    "file": "voz/practica_1.wav",
+    "start": 339.80600000000004,
+    "dur": 3.596
+   }
+  ],
+  "end": 344.65200000000004
+ },
+ {
+  "id": "crece",
+  "ch": 6,
+  "start": 344.65200000000004,
+  "lines": [
+   {
+    "txt": "Pero sigues creciendo mientras vivas.",
+    "file": "voz/crece_0.wav",
+    "start": 345.15200000000004,
+    "dur": 2.182
+   },
+   {
+    "txt": "Cada año eres más grande, más pesado y más difícil de abrazar.",
+    "file": "voz/crece_1.wav",
+    "start": 347.73400000000004,
+    "dur": 4.07
+   }
+  ],
+  "end": 353.0540000000001
+ },
+ {
+  "id": "tronco",
+  "ch": 6,
+  "start": 353.0540000000001,
+  "lines": [
+   {
+    "txt": "Aprendes a quedarte quieto como un tronco flotante.",
+    "file": "voz/tronco_0.wav",
+    "start": 353.5540000000001,
+    "dur": 3.174
+   },
+   {
+    "txt": "Hasta una tortuga se sube a ti para tomar el sol. Qué descaro.",
+    "file": "voz/tronco_1.wav",
+    "start": 357.1280000000001,
+    "dur": 3.756
+   }
+  ],
+  "end": 362.1340000000001
+ },
+ {
+  "id": "madurez",
+  "ch": 6,
+  "start": 362.1340000000001,
+  "lines": [
+   {
+    "txt": "Los científicos no saben a qué edad eras adulto.",
+    "file": "voz/madurez_0.wav",
+    "start": 362.6340000000001,
+    "dur": 3.046
+   },
+   {
+    "txt": "Tú tampoco. Y nadie te organizó la fiesta de graduación.",
+    "file": "voz/madurez_1.wav",
+    "start": 366.08000000000015,
+    "dur": 3.708
+   }
+  ],
+  "end": 371.0380000000002
+ },
+ {
+  "id": "hilario3",
+  "ch": 6,
+  "start": 371.0380000000002,
+  "lines": [
+   {
+    "txt": "Hilario se hunde un poquito cada vez que llueve.",
+    "file": "voz/hilario3_0.wav",
+    "start": 371.5380000000002,
+    "dur": 2.566
+   },
+   {
+    "txt": "La sostienes con la cola. Por una vez, eres amable.",
+    "file": "voz/hilario3_1.wav",
+    "start": 374.5040000000002,
+    "dur": 3.532
+   }
+  ],
+  "end": 379.28600000000023
+ },
+ {
+  "id": "cap7",
+  "ch": 7,
+  "start": 379.28600000000023,
+  "lines": [
+   {
+    "txt": "Capítulo siete. El amor.",
+    "file": "voz/cap7_0.wav",
+    "start": 379.78600000000023,
+    "dur": 1.884
+   }
+  ],
+  "end": 382.92000000000024
+ },
+ {
+  "id": "olor",
+  "ch": 7,
+  "start": 382.92000000000024,
+  "lines": [
+   {
+    "txt": "Nadie sabe cómo se cortejaban los titanoboas. No quedó ni una carta.",
+    "file": "voz/olor_0.wav",
+    "start": 383.42000000000024,
+    "dur": 4.604
+   },
+   {
+    "txt": "Lo más probable es que fuera con olores, como en las serpientes de hoy.",
+    "file": "voz/olor_1.wav",
+    "start": 388.42400000000026,
+    "dur": 3.83
+   }
+  ],
+  "end": 393.5040000000003
+ },
+ {
+  "id": "crias",
+  "ch": 7,
+  "start": 393.5040000000003,
+  "lines": [
+   {
+    "txt": "Las boas tienen crías vivas, no huevos. Tú probablemente también.",
+    "file": "voz/crias_0.wav",
+    "start": 394.0040000000003,
+    "dur": 4.108
+   },
+   {
+    "txt": "Y sacarías decenas. Y ninguna te llamaría.",
+    "file": "voz/crias_1.wav",
+    "start": 398.5120000000003,
+    "dur": 2.908
+   }
+  ],
+  "end": 402.6700000000003
+ },
+ {
+  "id": "teodoro",
+  "ch": 7,
+  "start": 402.6700000000003,
+  "lines": [
+   {
+    "txt": "Teodoro, el hermano traidor, nunca se dejó comer.",
+    "file": "voz/teodoro_0.wav",
+    "start": 403.1700000000003,
+    "dur": 3.382
+   },
+   {
+    "txt": "Se fue a otro pantano, se casó con una titanoboa y tuvo cuarenta hijos.",
+    "file": "voz/teodoro_1.wav",
+    "start": 406.9520000000003,
+    "dur": 4.406
+   }
+  ],
+  "end": 412.6080000000003
+ },
+ {
+  "id": "cap8",
+  "ch": 8,
+  "start": 412.6080000000003,
+  "lines": [
+   {
+    "txt": "Capítulo ocho. El final.",
+    "file": "voz/cap8_0.wav",
+    "start": 413.1080000000003,
+    "dur": 2.588
+   }
+  ],
+  "end": 416.9460000000003
+ },
+ {
+  "id": "vejez",
+  "ch": 8,
+  "start": 416.9460000000003,
+  "lines": [
+   {
+    "txt": "Un día, un titanoboa deja de comer, deja de nadar y se hunde en el lodo.",
+    "file": "voz/vejez_0.wav",
+    "start": 417.4460000000003,
+    "dur": 4.662
+   },
+   {
+    "txt": "Normalmente ocurre en silencio. Y cerca del agua.",
+    "file": "voz/vejez_1.wav",
+    "start": 422.5080000000003,
+    "dur": 3.276
+   }
+  ],
+  "end": 427.03400000000033
+ },
+ {
+  "id": "extincion",
+  "ch": 8,
+  "start": 427.03400000000033,
+  "lines": [
+   {
+    "txt": "Se cree que el clima se enfrió y la selva se achicó.",
+    "file": "voz/extincion_0.wav",
+    "start": 427.53400000000033,
+    "dur": 3.142
+   },
+   {
+    "txt": "Sin calor, no hay gigantes. Ni siquiera con aire acondicionado.",
+    "file": "voz/extincion_1.wav",
+    "start": 431.0760000000003,
+    "dur": 4.524
+   }
+  ],
+  "end": 436.8500000000003
+ },
+ {
+  "id": "mina",
+  "ch": 8,
+  "start": 436.8500000000003,
+  "lines": [
+   {
+    "txt": "Sesenta millones de años después, te encuentran en una mina de carbón en Colombia.",
+    "file": "voz/mina_0.wav",
+    "start": 437.3500000000003,
+    "dur": 4.582
+   },
+   {
+    "txt": "Dos mil nueve. Te dan un nombre científico y un modelo a tamaño real.",
+    "file": "voz/mina_1.wav",
+    "start": 442.33200000000033,
+    "dur": 4.3
+   }
+  ],
+  "end": 447.88200000000035
+ },
+ {
+  "id": "fama",
+  "ch": 8,
+  "start": 447.88200000000035,
+  "lines": [
+   {
+    "txt": "Eres la serpiente más grande que se ha encontrado.",
+    "file": "voz/fama_0.wav",
+    "start": 448.38200000000035,
+    "dur": 2.47
+   },
+   {
+    "txt": "No está mal para alguien que nació sin amigos.",
+    "file": "voz/fama_1.wav",
+    "start": 451.25200000000035,
+    "dur": 2.438
+   }
+  ],
+  "end": 454.9400000000004
+ },
+ {
+  "id": "cierre",
+  "ch": 8,
+  "start": 454.9400000000004,
+  "lines": [
+   {
+    "txt": "Nacer como un titanoboa apesta.",
+    "file": "voz/cierre_0.wav",
+    "start": 455.4400000000004,
+    "dur": 1.894
+   },
+   {
+    "txt": "Pero al menos eres enorme.",
+    "file": "voz/cierre_1.wav",
+    "start": 457.7340000000004,
+    "dur": 1.574
+   }
+  ],
+  "end": 460.5580000000004
+ },
+ {
+  "id": "adios",
+  "ch": 8,
+  "start": 460.5580000000004,
+  "lines": [
+   {
+    "txt": "Hilario flota a lo lejos y te despide con una hoja.",
+    "file": "voz/adios_0.wav",
+    "start": 461.0580000000004,
+    "dur": 3.078
+   },
+   {
+    "txt": "Cuando te vas, ella se queda. Siempre que no pase un cocodrilo.",
+    "file": "voz/adios_1.wav",
+    "start": 464.5360000000004,
+    "dur": 3.756
+   }
+  ],
+  "end": 469.5420000000004
+ },
+ {
+  "id": "sub",
+  "ch": 8,
+  "start": 469.5420000000004,
+  "lines": [
+   {
+    "txt": "Suscríbete a este canal.",
+    "file": "voz/sub_0.wav",
+    "start": 470.0420000000004,
+    "dur": 1.478
+   },
+   {
+    "txt": "O el cocodrilo se come a Hilario.",
+    "file": "voz/sub_1.wav",
+    "start": 471.9200000000004,
+    "dur": 1.926
+   }
+  ],
+  "end": 475.09600000000046
+ }
+]
