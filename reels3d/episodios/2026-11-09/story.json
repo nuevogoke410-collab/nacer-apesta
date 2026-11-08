@@ -1,0 +1,16 @@
+{
+ "title": "El plan de 12 pasos",
+ "caption": "Cuando tu IA te da un plan de 12 pasos y tú dices 'hazlo todo de una' 😅🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi quiere una tienda online para mañana.","who":null,"screen":"A"},
+  {"cam":"robot","sub":"Propongo un plan de doce pasos.","who":"r","screen":"T","screenTitle":"PLAN CLAUDE","screenLines":["$ 1. Diseñar base de datos","$ 2. Crear usuarios","$ 3. Carrito de compras","? ... 4 al 12 ..."]},
+  {"cam":"human","sub":"Doce pasos es mucho. Hazlo todo de una.","who":"h","screen":"T","screenTitle":"PLAN CLAUDE","screenLines":["$ 1. Diseñar base de datos","$ 2. Crear usuarios","$ 3. Carrito de compras","? ... 4 al 12 ..."]},
+  {"cam":"robot","sub":"Santi, el plan existe por una razón.","who":"r","screen":"T","screenTitle":"PLAN CLAUDE","screenLines":["> Paso 1 antes del paso 7","> Paso 7 antes del paso 12"]},
+  {"cam":"human","sub":"Tú solo dale. Confío en ti.","who":"h","screen":"off"},
+  {"cam":"monitor","sub":"Ejecutando todo a la vez…","who":"r","screen":"T","screenTitle":"EJECUTANDO","screenLines":["$ paso 1... ok","$ paso 7... ok","! paso 3 necesita paso 2","! error en 9 de 12"]},
+  {"card":"UN MOMENTO\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"human","sub":"¿Por qué el carrito vende usuarios?","say":"¿Por qué el carrito vende usuarios?","who":"h","screen":"T","screenTitle":"TIENDA","screenLines":["! Carrito: 1 usuario","! Total: $0","? Envío: gratis"],"panic":true},
+  {"cam":"robot","sub":"Paso tres antes del dos. Te lo dije.","who":"r","screen":"T","screenTitle":"TIENDA","screenLines":["! Carrito: 1 usuario","! Total: $0"],"surprise":true},
+  {"cam":"general","sub":"Vale… empecemos por el paso uno.","who":"h","screen":"off","end":"tada"}
+ ]
+}
