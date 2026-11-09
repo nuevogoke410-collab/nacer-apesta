@@ -1,4 +1,14 @@
 # Temas (un video por día, sin repetir)
+
+## Aprendizajes recientes (no borrar)
+(Análisis 2026-11-09, ver aprendizajes.md; pocos datos, solo 5 reels de IG con métricas, sin conclusiones fuertes)
+- Reels de Santi: 284–2260 vistas en IG; los de la guía solo 168–442.
+- Mejores (certeza baja): "cambio chiquitico reescribe todo" (1942) y "47 problemas" (2260): Claude exagera/hace de más.
+- Peor: "funciona en mi computador" (284 vistas, 10.7 s medio).
+- Hora única (16:00), TikTok y YouTube sin métricas: no hay conclusión de hora ni de animales.
+- Recomendación: priorizar temas donde Claude se pasa de entusiasta/exhaustivo; abrir fuerte en 3 s.
+- Animales: sin datos de YouTube aún, mantener el orden.
+
 Todos con Santi (programador) y Claude (robot IA). Humor ligero, sarcasmo tierno del robot.
 1. Claude se queda sin uso y Santi hace la web solo (HECHO)
 2. Santi le pide a Claude "un cambio chiquitico" que reescribe todo el proyecto
