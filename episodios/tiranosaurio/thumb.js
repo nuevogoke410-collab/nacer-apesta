@@ -1,0 +1,13 @@
+const fs=require('fs');const {createCanvas}=require('@napi-rs/canvas');
+const X=require('./lib');const Q=require('./extra');const {W,H,C,E,R,P,Ln,text,save,restore}=X;
+const cv=createCanvas(W,H),ctx=cv.getContext('2d');X.setCtx(ctx);
+Q.cret('dia');
+R(50,50,1180,640,30,'rgba(255,248,214,0.93)',{lw:6});
+text('Nacer como un',640,160,120,C.OUT,'Gochi','center',-.02);
+text('TIRANOSAURIO',640,330,185,Q.REX,'Gochi','center',.01,14,C.OUT);
+text('REX',420,500,210,Q.REX,'Gochi','center',-.02,16,C.OUT);
+save(900,540,1,-.12);R(-290,-85,580,170,14,null,{lw:10,col:C.RED});text('APESTA',0,6,160,C.RED,'Gochi');restore();
+Q.rex(1560,1020,1.7,{flip:true,exp:'sweat',mouth:.55,feathers:false});
+Q.rufino(260,1020,1.6,{exp:'shock'});
+const out=createCanvas(1280,720),o=out.getContext('2d');o.drawImage(cv,0,0,1280,720);
+fs.writeFileSync('miniatura.jpg',out.toBuffer('image/jpeg',90));

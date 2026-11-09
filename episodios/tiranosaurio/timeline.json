@@ -1,0 +1,1028 @@
+[
+ {
+  "id": "titulo",
+  "ch": 1,
+  "start": 0,
+  "lines": [
+   {
+    "txt": "Nacer como un tiranosaurio rex apesta.",
+    "file": "voz/titulo_0.wav",
+    "start": 0.5,
+    "dur": 2.39
+   }
+  ],
+  "end": 4.14
+ },
+ {
+  "id": "cap1",
+  "ch": 1,
+  "start": 4.14,
+  "lines": [
+   {
+    "txt": "Capítulo uno. El nacimiento.",
+    "file": "voz/cap1_0.wav",
+    "start": 4.64,
+    "dur": 2.124
+   }
+  ],
+  "end": 8.014
+ },
+ {
+  "id": "epoca",
+  "ch": 1,
+  "start": 8.014,
+  "lines": [
+   {
+    "txt": "Naces hace unos sesenta y ocho millones de años, en lo que hoy es Norteamérica.",
+    "file": "voz/epoca_0.wav",
+    "start": 8.514,
+    "dur": 4.006
+   },
+   {
+    "txt": "Los dinosaurios están por terminar su carrera. Tú todavía no lo sabes.",
+    "file": "voz/epoca_1.wav",
+    "start": 12.92,
+    "dur": 4.444
+   }
+  ],
+  "end": 18.614
+ },
+ {
+  "id": "huevo",
+  "ch": 1,
+  "start": 18.614,
+  "lines": [
+   {
+    "txt": "Naces de un huevo. Pero nunca se ha encontrado uno de tiranosaurio.",
+    "file": "voz/huevo_0.wav",
+    "start": 19.114,
+    "dur": 3.692
+   },
+   {
+    "txt": "Tu origen es oficialmente un misterio. Gracias por nada, la ciencia.",
+    "file": "voz/huevo_1.wav",
+    "start": 23.206000000000003,
+    "dur": 4.348
+   }
+  ],
+  "end": 28.804000000000006
+ },
+ {
+  "id": "mama",
+  "ch": 1,
+  "start": 28.804000000000006,
+  "lines": [
+   {
+    "txt": "Tu madre te mira un segundo. Luego se va caminando.",
+    "file": "voz/mama_0.wav",
+    "start": 29.304000000000006,
+    "dur": 3.292
+   },
+   {
+    "txt": "Nadie sabe si cuidaban el nido, pero tú no ves ni una nota.",
+    "file": "voz/mama_1.wav",
+    "start": 32.996,
+    "dur": 3.286
+   }
+  ],
+  "end": 37.532000000000004
+ },
+ {
+  "id": "plumas",
+  "ch": 1,
+  "start": 37.532000000000004,
+  "lines": [
+   {
+    "txt": "Algunos científicos creen que naces con plumitas, como un pollito gigante.",
+    "file": "voz/plumas_0.wav",
+    "start": 38.032000000000004,
+    "dur": 4.198
+   },
+   {
+    "txt": "Otros no están de acuerdo. Tú solo sabes que tienes frío.",
+    "file": "voz/plumas_1.wav",
+    "start": 42.63,
+    "dur": 3.26
+   }
+  ],
+  "end": 47.14
+ },
+ {
+  "id": "hermanos",
+  "ch": 1,
+  "start": 47.14,
+  "lines": [
+   {
+    "txt": "Tus hermanos más cercanos son Ambrosio, Hermenegildo y Casimiro.",
+    "file": "voz/hermanos_0.wav",
+    "start": 47.64,
+    "dur": 3.75
+   },
+   {
+    "txt": "Míralos bien la cara. Es una despedida anticipada.",
+    "file": "voz/hermanos_1.wav",
+    "start": 51.79,
+    "dur": 3.26
+   }
+  ],
+  "end": 56.3
+ },
+ {
+  "id": "rufino",
+  "ch": 1,
+  "start": 56.3,
+  "lines": [
+   {
+    "txt": "Te quedas solo, hasta que encuentras una piedra bonita. La llamas Rufino.",
+    "file": "voz/rufino_0.wav",
+    "start": 56.8,
+    "dur": 4.252
+   },
+   {
+    "txt": "No te contesta ni te juzga, y nadie se la quiere comer. Mejor amigo imposible.",
+    "file": "voz/rufino_1.wav",
+    "start": 61.452,
+    "dur": 4.972
+   }
+  ],
+  "end": 67.67399999999999
+ },
+ {
+  "id": "cap2",
+  "ch": 2,
+  "start": 67.67399999999999,
+  "lines": [
+   {
+    "txt": "Capítulo dos. La comida.",
+    "file": "voz/cap2_0.wav",
+    "start": 68.17399999999999,
+    "dur": 1.948
+   }
+  ],
+  "end": 71.37199999999999
+ },
+ {
+  "id": "carnivoro",
+  "ch": 2,
+  "start": 71.37199999999999,
+  "lines": [
+   {
+    "txt": "Eres carnívoro. Cero ensaladas.",
+    "file": "voz/carnivoro_0.wav",
+    "start": 71.87199999999999,
+    "dur": 2.364
+   },
+   {
+    "txt": "Para ti, una verdura es lo que se comió tu comida.",
+    "file": "voz/carnivoro_1.wav",
+    "start": 74.63599999999998,
+    "dur": 3.174
+   }
+  ],
+  "end": 79.05999999999997
+ },
+ {
+  "id": "dientes",
+  "ch": 2,
+  "start": 79.05999999999997,
+  "lines": [
+   {
+    "txt": "Tienes unos sesenta dientes. Los más grandes miden como un plátano.",
+    "file": "voz/dientes_0.wav",
+    "start": 79.55999999999997,
+    "dur": 3.9
+   },
+   {
+    "txt": "Sesenta dientes, y ni un solo cepillo.",
+    "file": "voz/dientes_1.wav",
+    "start": 83.85999999999997,
+    "dur": 2.518
+   }
+  ],
+  "end": 87.62799999999997
+ },
+ {
+  "id": "triceratops",
+  "ch": 2,
+  "start": 87.62799999999997,
+  "lines": [
+   {
+    "txt": "Tu plato favorito es el triceratops, un bicho con tres cuernos y cara de pocos amigos.",
+    "file": "voz/triceratops_0.wav",
+    "start": 88.12799999999997,
+    "dur": 5.03
+   },
+   {
+    "txt": "Él tiene escudo y cuernos. Tú tienes hambre. Gana el hambre.",
+    "file": "voz/triceratops_1.wav",
+    "start": 93.55799999999998,
+    "dur": 3.89
+   }
+  ],
+  "end": 98.69799999999998
+ },
+ {
+  "id": "curadas",
+  "ch": 2,
+  "start": 98.69799999999998,
+  "lines": [
+   {
+    "txt": "Hay fósiles de dinosaurios de pico de pato con mordidas tuyas ya cicatrizadas.",
+    "file": "voz/curadas_0.wav",
+    "start": 99.19799999999998,
+    "dur": 4.534
+   },
+   {
+    "txt": "O sea que a veces la cena se escapaba, y se iba con un recuerdo.",
+    "file": "voz/curadas_1.wav",
+    "start": 104.13199999999998,
+    "dur": 3.558
+   }
+  ],
+  "end": 108.93999999999997
+ },
+ {
+  "id": "carrona",
+  "ch": 2,
+  "start": 108.93999999999997,
+  "lines": [
+   {
+    "txt": "También comes carroña, o sea, restos de animales ya muertos.",
+    "file": "voz/carrona_0.wav",
+    "start": 109.43999999999997,
+    "dur": 3.99
+   },
+   {
+    "txt": "Los científicos llevan años discutiendo si eras cazador o carroñero. Eres flexible.",
+    "file": "voz/carrona_1.wav",
+    "start": 113.82999999999997,
+    "dur": 5.164
+   }
+  ],
+  "end": 120.24399999999997
+ },
+ {
+  "id": "ambrosio",
+  "ch": 2,
+  "start": 120.24399999999997,
+  "lines": [
+   {
+    "txt": "Ambrosio se te acerca y te pregunta qué tal tu día.",
+    "file": "voz/ambrosio_0.wav",
+    "start": 120.74399999999997,
+    "dur": 2.95
+   },
+   {
+    "txt": "Pregunta equivocada. Era un tiranosaurio muy educado, y muy rico.",
+    "file": "voz/ambrosio_1.wav",
+    "start": 124.09399999999997,
+    "dur": 4.252
+   }
+  ],
+  "end": 129.59599999999995
+ },
+ {
+  "id": "cap3",
+  "ch": 3,
+  "start": 129.59599999999995,
+  "lines": [
+   {
+    "txt": "Capítulo tres. La vida social.",
+    "file": "voz/cap3_0.wav",
+    "start": 130.09599999999995,
+    "dur": 2.252
+   }
+  ],
+  "end": 133.59799999999993
+ },
+ {
+  "id": "manada",
+  "ch": 3,
+  "start": 133.59799999999993,
+  "lines": [
+   {
+    "txt": "Los científicos discuten si vivías en grupo o solo.",
+    "file": "voz/manada_0.wav",
+    "start": 134.09799999999993,
+    "dur": 3.078
+   },
+   {
+    "txt": "Tú ya sabes la respuesta. Nadie te invita a nada.",
+    "file": "voz/manada_1.wav",
+    "start": 137.57599999999994,
+    "dur": 3.004
+   }
+  ],
+  "end": 141.82999999999993
+ },
+ {
+  "id": "tamano",
+  "ch": 3,
+  "start": 141.82999999999993,
+  "lines": [
+   {
+    "txt": "Un adulto mide unos doce metros y pesa entre cinco y ocho toneladas.",
+    "file": "voz/tamano_0.wav",
+    "start": 142.32999999999993,
+    "dur": 4.262
+   },
+   {
+    "txt": "Eres más largo que un autobús escolar, y con peor genio.",
+    "file": "voz/tamano_1.wav",
+    "start": 146.99199999999993,
+    "dur": 3.574
+   }
+  ],
+  "end": 151.81599999999992
+ },
+ {
+  "id": "crece",
+  "ch": 3,
+  "start": 151.81599999999992,
+  "lines": [
+   {
+    "txt": "Entre los catorce y los dieciocho años engordas casi dos kilos al día.",
+    "file": "voz/crece_0.wav",
+    "start": 152.31599999999992,
+    "dur": 3.91
+   },
+   {
+    "txt": "Tu madre no ve cómo creces. Pero tu báscula sí, y le da miedo.",
+    "file": "voz/crece_1.wav",
+    "start": 156.62599999999992,
+    "dur": 4.22
+   }
+  ],
+  "end": 162.09599999999992
+ },
+ {
+  "id": "brazos",
+  "ch": 3,
+  "start": 162.09599999999992,
+  "lines": [
+   {
+    "txt": "Y luego están los brazos, de más o menos un metro de largo.",
+    "file": "voz/brazos_0.wav",
+    "start": 162.59599999999992,
+    "dur": 3.206
+   },
+   {
+    "txt": "Dicen que cada uno levantaba unos doscientos kilos. Y no te rascan la nariz.",
+    "file": "voz/brazos_1.wav",
+    "start": 166.2019999999999,
+    "dur": 4.556
+   }
+  ],
+  "end": 172.0079999999999
+ },
+ {
+  "id": "vista",
+  "ch": 3,
+  "start": 172.0079999999999,
+  "lines": [
+   {
+    "txt": "Tus ojos miran al frente, como los de un águila. Y tu olfato es de primera.",
+    "file": "voz/vista_0.wav",
+    "start": 172.5079999999999,
+    "dur": 4.38
+   },
+   {
+    "txt": "Hueles a un animal muerto a kilómetros. Un gran talento en un mundo sin desodorante.",
+    "file": "voz/vista_1.wav",
+    "start": 177.2879999999999,
+    "dur": 4.972
+   }
+  ],
+  "end": 183.5099999999999
+ },
+ {
+  "id": "rufino2",
+  "ch": 3,
+  "start": 183.5099999999999,
+  "lines": [
+   {
+    "txt": "Rufino sigue a tu lado, sin moverse.",
+    "file": "voz/rufino2_0.wav",
+    "start": 184.0099999999999,
+    "dur": 2.582
+   },
+   {
+    "txt": "Es el único que nunca te ha llamado monstruo.",
+    "file": "voz/rufino2_1.wav",
+    "start": 186.9919999999999,
+    "dur": 2.454
+   }
+  ],
+  "end": 190.6959999999999
+ },
+ {
+  "id": "cap4",
+  "ch": 4,
+  "start": 190.6959999999999,
+  "lines": [
+   {
+    "txt": "Capítulo cuatro. Los que te quieren comer.",
+    "file": "voz/cap4_0.wav",
+    "start": 191.1959999999999,
+    "dur": 2.54
+   }
+  ],
+  "end": 194.9859999999999
+ },
+ {
+  "id": "lista",
+  "ch": 4,
+  "start": 194.9859999999999,
+  "lines": [
+   {
+    "txt": "Siendo pequeño, a ti también te quieren comer.",
+    "file": "voz/lista_0.wav",
+    "start": 195.4859999999999,
+    "dur": 2.806
+   },
+   {
+    "txt": "Los sospechosos: otros tiranosaurios, que son muy de familia.",
+    "file": "voz/lista_1.wav",
+    "start": 198.6919999999999,
+    "dur": 3.702
+   }
+  ],
+  "end": 203.6439999999999
+ },
+ {
+  "id": "hermenegildo",
+  "ch": 4,
+  "start": 203.6439999999999,
+  "lines": [
+   {
+    "txt": "Hermenegildo se escondía muy bien detrás de un helecho.",
+    "file": "voz/hermenegildo_0.wav",
+    "start": 204.1439999999999,
+    "dur": 2.822
+   },
+   {
+    "txt": "El helecho medía diez centímetros. Descansa, Hermenegildo.",
+    "file": "voz/hermenegildo_1.wav",
+    "start": 207.3659999999999,
+    "dur": 4.124
+   }
+  ],
+  "end": 212.7399999999999
+ },
+ {
+  "id": "adulto",
+  "ch": 4,
+  "start": 212.7399999999999,
+  "lines": [
+   {
+    "txt": "Cuando eres adulto, nadie se atreve contigo.",
+    "file": "voz/adulto_0.wav",
+    "start": 213.2399999999999,
+    "dur": 2.774
+   },
+   {
+    "txt": "Eres el jefe de la zona. Por fin tu carrera va bien.",
+    "file": "voz/adulto_1.wav",
+    "start": 216.4139999999999,
+    "dur": 3.484
+   }
+  ],
+  "end": 221.14799999999988
+ },
+ {
+  "id": "peleas",
+  "ch": 4,
+  "start": 221.14799999999988,
+  "lines": [
+   {
+    "txt": "Con otros tiranosaurios sí hay peleas. Hay cráneos con mordidas en la cara, ya curadas.",
+    "file": "voz/peleas_0.wav",
+    "start": 221.64799999999988,
+    "dur": 5.804
+   },
+   {
+    "txt": "Tu familia no discute con palabras.",
+    "file": "voz/peleas_1.wav",
+    "start": 227.8519999999999,
+    "dur": 2.662
+   }
+  ],
+  "end": 231.7639999999999
+ },
+ {
+  "id": "humanos",
+  "ch": 4,
+  "start": 231.7639999999999,
+  "lines": [
+   {
+    "txt": "Humanos no hay. Faltan unos sesenta y seis millones de años para eso.",
+    "file": "voz/humanos_0.wav",
+    "start": 232.2639999999999,
+    "dur": 4.06
+   },
+   {
+    "txt": "Lo bueno de tu época: nadie te hace una camiseta.",
+    "file": "voz/humanos_1.wav",
+    "start": 236.7239999999999,
+    "dur": 3.222
+   }
+  ],
+  "end": 241.19599999999988
+ },
+ {
+  "id": "sue",
+  "ch": 4,
+  "start": 241.19599999999988,
+  "lines": [
+   {
+    "txt": "El tiranosaurio Sue tenía costillas rotas y una infección en la mandíbula.",
+    "file": "voz/sue_0.wav",
+    "start": 241.69599999999988,
+    "dur": 4.662
+   },
+   {
+    "txt": "Quizás por un parásito. La vida adulta también duele.",
+    "file": "voz/sue_1.wav",
+    "start": 246.7579999999999,
+    "dur": 3.276
+   }
+  ],
+  "end": 251.28399999999988
+ },
+ {
+  "id": "cap5",
+  "ch": 5,
+  "start": 251.28399999999988,
+  "lines": [
+   {
+    "txt": "Capítulo cinco. Tu superpoder.",
+    "file": "voz/cap5_0.wav",
+    "start": 251.78399999999988,
+    "dur": 2.316
+   }
+  ],
+  "end": 255.34999999999988
+ },
+ {
+  "id": "super",
+  "ch": 5,
+  "start": 255.34999999999988,
+  "lines": [
+   {
+    "txt": "Tu superpoder es la mordida. Según un estudio, hasta cincuenta y siete mil newtons.",
+    "file": "voz/super_0.wav",
+    "start": 255.84999999999988,
+    "dur": 5.068
+   },
+   {
+    "txt": "Es la mordida más fuerte de cualquier animal terrestre que se conozca.",
+    "file": "voz/super_1.wav",
+    "start": 261.31799999999987,
+    "dur": 3.526
+   }
+  ],
+  "end": 266.0939999999999
+ },
+ {
+  "id": "caca",
+  "ch": 5,
+  "start": 266.0939999999999,
+  "lines": [
+   {
+    "txt": "Tu caca, que los científicos han estudiado, está llena de huesos triturados.",
+    "file": "voz/caca_0.wav",
+    "start": 266.5939999999999,
+    "dur": 4.63
+   },
+   {
+    "txt": "Hay gente que estudia eso, y lo hace con mucho orgullo.",
+    "file": "voz/caca_1.wav",
+    "start": 271.62399999999985,
+    "dur": 3.206
+   }
+  ],
+  "end": 276.07999999999987
+ },
+ {
+  "id": "rugido",
+  "ch": 5,
+  "start": 276.07999999999987,
+  "lines": [
+   {
+    "txt": "Nadie sabe cómo sonaba tu rugido. En las películas es un trompetazo.",
+    "file": "voz/rugido_0.wav",
+    "start": 276.57999999999987,
+    "dur": 4.108
+   },
+   {
+    "txt": "En la vida real quizás fuera un retumbo grave, como un cocodrilo con resfriado.",
+    "file": "voz/rugido_1.wav",
+    "start": 281.08799999999985,
+    "dur": 4.566
+   }
+  ],
+  "end": 286.9039999999999
+ },
+ {
+  "id": "rufino3",
+  "ch": 5,
+  "start": 286.9039999999999,
+  "lines": [
+   {
+    "txt": "Un día intentas morder a Rufino, por cariño. A la piedra no le pasa nada.",
+    "file": "voz/rufino3_0.wav",
+    "start": 287.4039999999999,
+    "dur": 4.476
+   },
+   {
+    "txt": "A ti se te rompe un diente, pero te sale otro. Eso sí es un superpoder.",
+    "file": "voz/rufino3_1.wav",
+    "start": 292.27999999999986,
+    "dur": 4.62
+   }
+  ],
+  "end": 298.14999999999986
+ },
+ {
+  "id": "cap6",
+  "ch": 6,
+  "start": 298.14999999999986,
+  "lines": [
+   {
+    "txt": "Capítulo seis. Entrenamiento.",
+    "file": "voz/cap6_0.wav",
+    "start": 298.64999999999986,
+    "dur": 2.604
+   }
+  ],
+  "end": 302.5039999999999
+ },
+ {
+  "id": "practica",
+  "ch": 6,
+  "start": 302.5039999999999,
+  "lines": [
+   {
+    "txt": "Aprendes a cazar practicando. Fallas bastante.",
+    "file": "voz/practica_0.wav",
+    "start": 303.0039999999999,
+    "dur": 3.084
+   },
+   {
+    "txt": "Persigues a un dinosaurio, y el dinosaurio se va. Tu orgullo, también.",
+    "file": "voz/practica_1.wav",
+    "start": 306.4879999999999,
+    "dur": 4.556
+   }
+  ],
+  "end": 312.2939999999999
+ },
+ {
+  "id": "correr",
+  "ch": 6,
+  "start": 312.2939999999999,
+  "lines": [
+   {
+    "txt": "Los cálculos dicen que no podías correr, porque tus huesos no aguantarían.",
+    "file": "voz/correr_0.wav",
+    "start": 312.7939999999999,
+    "dur": 4.246
+   },
+   {
+    "txt": "Caminabas rápido, a unos veinte kilómetros por hora. Pero tu presa tampoco tiene gimnasio.",
+    "file": "voz/correr_1.wav",
+    "start": 317.43999999999994,
+    "dur": 5.324
+   }
+  ],
+  "end": 324.01399999999995
+ },
+ {
+  "id": "emboscada",
+  "ch": 6,
+  "start": 324.01399999999995,
+  "lines": [
+   {
+    "txt": "Aprendes a esperar entre los helechos y atacar por sorpresa.",
+    "file": "voz/emboscada_0.wav",
+    "start": 324.51399999999995,
+    "dur": 3.398
+   },
+   {
+    "txt": "Tu técnica es quedarte quieto. Es difícil esconder doce metros, pero tú lo intentas.",
+    "file": "voz/emboscada_1.wav",
+    "start": 328.31199999999995,
+    "dur": 4.988
+   }
+  ],
+  "end": 334.54999999999995
+ },
+ {
+  "id": "veintiocho",
+  "ch": 6,
+  "start": 334.54999999999995,
+  "lines": [
+   {
+    "txt": "El tiranosaurio más viejo que se conoce tenía unos veintiocho años.",
+    "file": "voz/veintiocho_0.wav",
+    "start": 335.04999999999995,
+    "dur": 3.974
+   },
+   {
+    "txt": "Vives rápido, mueres joven y nadie te organiza la graduación.",
+    "file": "voz/veintiocho_1.wav",
+    "start": 339.424,
+    "dur": 4.118
+   }
+  ],
+  "end": 344.79200000000003
+ },
+ {
+  "id": "rufino4",
+  "ch": 6,
+  "start": 344.79200000000003,
+  "lines": [
+   {
+    "txt": "Rufino rueda colina abajo cada vez que llueve.",
+    "file": "voz/rufino4_0.wav",
+    "start": 345.29200000000003,
+    "dur": 2.582
+   },
+   {
+    "txt": "Lo subes con la nariz. Por una vez, eres amable.",
+    "file": "voz/rufino4_1.wav",
+    "start": 348.27400000000006,
+    "dur": 3.388
+   }
+  ],
+  "end": 352.9120000000001
+ },
+ {
+  "id": "cap7",
+  "ch": 7,
+  "start": 352.9120000000001,
+  "lines": [
+   {
+    "txt": "Capítulo siete. El amor.",
+    "file": "voz/cap7_0.wav",
+    "start": 353.4120000000001,
+    "dur": 2.108
+   }
+  ],
+  "end": 356.7700000000001
+ },
+ {
+  "id": "cortejo",
+  "ch": 7,
+  "start": 356.7700000000001,
+  "lines": [
+   {
+    "txt": "Nadie sabe cómo se cortejaban los tiranosaurios. No quedó ni una carta de amor.",
+    "file": "voz/cortejo_0.wav",
+    "start": 357.2700000000001,
+    "dur": 4.588
+   },
+   {
+    "txt": "Quizás con danzas, quizás con rugidos. Y casi seguro, con mucho nervio.",
+    "file": "voz/cortejo_1.wav",
+    "start": 362.2580000000001,
+    "dur": 5.084
+   }
+  ],
+  "end": 368.5920000000001
+ },
+ {
+  "id": "brazos2",
+  "ch": 7,
+  "start": 368.5920000000001,
+  "lines": [
+   {
+    "txt": "Una teoría dice que los brazos servían para agarrar a la pareja.",
+    "file": "voz/brazos2_0.wav",
+    "start": 369.0920000000001,
+    "dur": 3.622
+   },
+   {
+    "txt": "Pobre pareja. Y pobre tú, que no llegas a nada con esos bracitos.",
+    "file": "voz/brazos2_1.wav",
+    "start": 373.1140000000001,
+    "dur": 3.9
+   }
+  ],
+  "end": 378.2640000000001
+ },
+ {
+  "id": "crias",
+  "ch": 7,
+  "start": 378.2640000000001,
+  "lines": [
+   {
+    "txt": "Pones huevos, aunque nadie ha encontrado uno todavía.",
+    "file": "voz/crias_0.wav",
+    "start": 378.7640000000001,
+    "dur": 3.206
+   },
+   {
+    "txt": "Tus crías nacerían igual de solas que tú. La tradición familiar sigue.",
+    "file": "voz/crias_1.wav",
+    "start": 382.3700000000001,
+    "dur": 4.124
+   }
+  ],
+  "end": 387.74400000000014
+ },
+ {
+  "id": "casimiro",
+  "ch": 7,
+  "start": 387.74400000000014,
+  "lines": [
+   {
+    "txt": "Casimiro, el hermano traidor, nunca se dejó comer.",
+    "file": "voz/casimiro_0.wav",
+    "start": 388.24400000000014,
+    "dur": 3.542
+   },
+   {
+    "txt": "Se fue a otra colina, se casó con una tiranosaurio y tuvo dieciocho hijos y una casa con vista.",
+    "file": "voz/casimiro_1.wav",
+    "start": 392.18600000000015,
+    "dur": 5.638
+   }
+  ],
+  "end": 399.0740000000002
+ },
+ {
+  "id": "cap8",
+  "ch": 8,
+  "start": 399.0740000000002,
+  "lines": [
+   {
+    "txt": "Capítulo ocho. El final.",
+    "file": "voz/cap8_0.wav",
+    "start": 399.5740000000002,
+    "dur": 3.02
+   }
+  ],
+  "end": 403.8440000000002
+ },
+ {
+  "id": "vejez",
+  "ch": 8,
+  "start": 403.8440000000002,
+  "lines": [
+   {
+    "txt": "Un día ya no cazas como antes. Te duelen las patas y la mandíbula.",
+    "file": "voz/vejez_0.wav",
+    "start": 404.3440000000002,
+    "dur": 4.348
+   },
+   {
+    "txt": "Ser rey de la zona también cansa. Y no hay jubilación.",
+    "file": "voz/vejez_1.wav",
+    "start": 409.0920000000002,
+    "dur": 3.164
+   }
+  ],
+  "end": 413.50600000000026
+ },
+ {
+  "id": "meteorito",
+  "ch": 8,
+  "start": 413.50600000000026,
+  "lines": [
+   {
+    "txt": "Hace sesenta y seis millones de años cae un asteroide de unos diez kilómetros, en lo que hoy es México.",
+    "file": "voz/meteorito_0.wav",
+    "start": 414.00600000000026,
+    "dur": 6.134
+   },
+   {
+    "txt": "Casi todos los dinosaurios desaparecen. Tú también. Con mucho ruido.",
+    "file": "voz/meteorito_1.wav",
+    "start": 420.54000000000025,
+    "dur": 4.146
+   }
+  ],
+  "end": 425.93600000000026
+ },
+ {
+  "id": "hallazgo",
+  "ch": 8,
+  "start": 425.93600000000026,
+  "lines": [
+   {
+    "txt": "Sesenta y seis millones de años después, la paleontóloga Susan Hendrickson te encuentra en Dakota del Sur.",
+    "file": "voz/hallazgo_0.wav",
+    "start": 426.43600000000026,
+    "dur": 5.958
+   },
+   {
+    "txt": "Es mil novecientos noventa. Te ponen de nombre Sue.",
+    "file": "voz/hallazgo_1.wav",
+    "start": 432.79400000000027,
+    "dur": 3.468
+   }
+  ],
+  "end": 437.5120000000003
+ },
+ {
+  "id": "venta",
+  "ch": 8,
+  "start": 437.5120000000003,
+  "lines": [
+   {
+    "txt": "En mil novecientos noventa y siete te venden por más de ocho millones de dólares.",
+    "file": "voz/venta_0.wav",
+    "start": 438.0120000000003,
+    "dur": 4.182
+   },
+   {
+    "txt": "No está mal para alguien que nació sin un huevo conocido.",
+    "file": "voz/venta_1.wav",
+    "start": 442.5940000000003,
+    "dur": 3.062
+   }
+  ],
+  "end": 446.9060000000003
+ },
+ {
+  "id": "fama",
+  "ch": 8,
+  "start": 446.9060000000003,
+  "lines": [
+   {
+    "txt": "Eres el dinosaurio más famoso del mundo. Sales en películas, juguetes y cajas de cereal.",
+    "file": "voz/fama_0.wav",
+    "start": 447.4060000000003,
+    "dur": 6.156
+   },
+   {
+    "txt": "Tu familia sigue sin llamar.",
+    "file": "voz/fama_1.wav",
+    "start": 453.9620000000003,
+    "dur": 2.134
+   }
+  ],
+  "end": 457.3460000000003
+ },
+ {
+  "id": "cierre",
+  "ch": 8,
+  "start": 457.3460000000003,
+  "lines": [
+   {
+    "txt": "Nacer como un tiranosaurio rex apesta.",
+    "file": "voz/cierre_0.wav",
+    "start": 457.8460000000003,
+    "dur": 2.662
+   },
+   {
+    "txt": "Pero al menos eres el rey.",
+    "file": "voz/cierre_1.wav",
+    "start": 460.9080000000003,
+    "dur": 1.59
+   }
+  ],
+  "end": 463.74800000000033
+ },
+ {
+  "id": "adios",
+  "ch": 8,
+  "start": 463.74800000000033,
+  "lines": [
+   {
+    "txt": "En la vitrina de al lado está Rufino, con una etiqueta que dice: roca.",
+    "file": "voz/adios_0.wav",
+    "start": 464.24800000000033,
+    "dur": 4.214
+   },
+   {
+    "txt": "Nunca dijo nada. Se lo agradeces.",
+    "file": "voz/adios_1.wav",
+    "start": 468.8620000000003,
+    "dur": 2.956
+   }
+  ],
+  "end": 473.0680000000003
+ },
+ {
+  "id": "sub",
+  "ch": 8,
+  "start": 473.0680000000003,
+  "lines": [
+   {
+    "txt": "Suscríbete a este canal.",
+    "file": "voz/sub_0.wav",
+    "start": 473.5680000000003,
+    "dur": 1.51
+   },
+   {
+    "txt": "O otro rex se come a Rufino.",
+    "file": "voz/sub_1.wav",
+    "start": 475.47800000000035,
+    "dur": 1.878
+   }
+  ],
+  "end": 478.6060000000004
+ }
+]
