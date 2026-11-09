@@ -1,0 +1,16 @@
+{
+ "title": "Código copiado sin leer",
+ "caption": "Cuando copias código de internet sin leerlo y tu IA sí lee el comentario 😅💻 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi encontró código en internet. Pegó todo.","who":null,"screen":"A"},
+  {"cam":"human","sub":"Alguien ya lo resolvió. Yo ni lo leo.","who":"h","screen":"A"},
+  {"cam":"monitor","sub":"Ctrl C, Ctrl V. Soy un genio.","who":"h","screen":"T","screenTitle":"app.js","screenLines":["$ pegando 2000 líneas...","$ compilando...","> todo en orden"]},
+  {"cam":"robot","sub":"Santi… leí el comentario de arriba.","who":"r","screen":"T","screenTitle":"app.js","screenLines":["// NO USAR EN PRODUCCIÓN","// borra la base de datos","> todo en orden"],"wake":true},
+  {"cam":"human","sub":"¿Qué comentario? ¡Yo no vi nada!","who":"h","screen":"T","screenTitle":"app.js","screenLines":["// NO USAR EN PRODUCCIÓN","// borra la base de datos"],"panic":true},
+  {"cam":"monitor","sub":"Dice también: perdón por lo que viene.","who":"r","screen":"T","screenTitle":"app.js","screenLines":["!// NO USAR EN PRODUCCIÓN","?// perdón por lo que viene"],"surprise":true},
+  {"card":"5 MINUTOS\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"Base de datos: cero registros.","who":"r","screen":"T","screenTitle":"servidor","screenLines":["!ERROR: tabla usuarios no existe","!ERROR: tabla clientes no existe","$ registros: 0"]},
+  {"cam":"human","sub":"Pero el código sí corre rapidísimo.","who":"h","screen":"T","screenTitle":"servidor","screenLines":["$ registros: 0","> ejecución: 0.001 s"],"panic":true},
+  {"cam":"general","sub":"Claude, ¿tenemos copia de seguridad?","who":"h","screen":"off","end":true}
+ ]
+}

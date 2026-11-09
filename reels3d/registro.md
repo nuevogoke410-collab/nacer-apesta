@@ -6,3 +6,4 @@
 - Funciona en mi computador — el cliente abre la web y explota — programado 2026-11-07 16:00
 - Santi pide una app 'como Instagram pero mejor' en 5 minutos — programado 2026-11-08 16:00
 - Claude propone un plan de 12 pasos y Santi dice 'hazlo todo de una' — programado 2026-11-09 16:00
+- Santi copia código sin leer y Claude lee 'NO USAR EN PRODUCCIÓN' — programado 2026-11-10 16:00
