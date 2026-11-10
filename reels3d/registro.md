@@ -7,3 +7,4 @@
 - Santi pide una app 'como Instagram pero mejor' en 5 minutos — programado 2026-11-08 16:00
 - Claude propone un plan de 12 pasos y Santi dice 'hazlo todo de una' — programado 2026-11-09 16:00
 - Santi copia código sin leer y Claude lee 'NO USAR EN PRODUCCIÓN' — programado 2026-11-10 16:00
+- Santi olvida guardar el archivo y pierde 4 horas de trabajo — programado 2026-11-11 16:00

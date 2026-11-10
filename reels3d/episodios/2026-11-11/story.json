@@ -1,0 +1,15 @@
+{
+ "title": "Santi olvida guardar",
+ "caption": "Cuando llevas 4 horas programando y se va la luz sin guardar 😭💡 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi lleva cuatro horas programando sin parar.","who":null,"screen":"T","screenTitle":"editor.js","screenLines":["> function tienda() {","> carrito.agregar(item)","> pagar(total)","? sin guardar *"]},
+  {"cam":"human","sub":"Código perfecto. Cero errores. Soy un genio.","who":"h","screen":"T","screenTitle":"editor.js","screenLines":["> function tienda() {","> carrito.agregar(item)","$ todo bien","? sin guardar *"]},
+  {"cam":"robot","sub":"Santi… ¿guardaste el archivo?","who":"r","screen":"T","screenTitle":"editor.js","screenLines":["? sin guardar *"],"wake":true},
+  {"cam":"human","sub":"Claro que sí. Más o menos. Creo.","who":"h","screen":"T","screenTitle":"editor.js","screenLines":["? sin guardar *"]},
+  {"cam":"general","sub":"Entonces se fue la luz.","who":null,"screen":"off","panic":true},
+  {"card":"LA LUZ\nVUELVE","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"Archivo vacío. Cuatro horas. Desaparecidas.","who":"h","screen":"T","screenTitle":"editor.js","screenLines":["! archivo vacío","! 0 líneas"],"panic":true},
+  {"cam":"robot","sub":"Yo te avisé con mucho cariño.","who":"r","screen":"T","screenTitle":"editor.js","screenLines":["! archivo vacío"],"surprise":true},
+  {"cam":"human","sub":"Tú no tienes dedos. No podías guardarlo.","who":"h","screen":"off","panic":true},
+  {"cam":"general","sub":"Tranquilo. Yo sí guardé una copia.","who":"r","screen":"T","screenTitle":"copia.js","screenLines":["$ copia guardada","$ 4 horas recuperadas"],"end":"tada"}
+]}
