@@ -1,0 +1,1048 @@
+[
+ {
+  "id": "titulo",
+  "ch": 1,
+  "start": 0,
+  "lines": [
+   {
+    "txt": "Nacer como un megalodón apesta.",
+    "file": "voz/titulo_0.wav",
+    "start": 0.5,
+    "dur": 1.926
+   }
+  ],
+  "end": 3.676
+ },
+ {
+  "id": "cap1",
+  "ch": 1,
+  "start": 3.676,
+  "lines": [
+   {
+    "txt": "Capítulo uno. El nacimiento.",
+    "file": "voz/cap1_0.wav",
+    "start": 4.176,
+    "dur": 2.428
+   }
+  ],
+  "end": 7.853999999999999
+ },
+ {
+  "id": "epoca",
+  "ch": 1,
+  "start": 7.853999999999999,
+  "lines": [
+   {
+    "txt": "Naces hace unos quince millones de años, en un mar tibio y poco profundo.",
+    "file": "voz/epoca_0.wav",
+    "start": 8.354,
+    "dur": 3.814
+   },
+   {
+    "txt": "Los científicos lo llaman guardería. Tú le dices cuarto de baño.",
+    "file": "voz/epoca_1.wav",
+    "start": 12.568,
+    "dur": 3.9
+   }
+  ],
+  "end": 17.718
+ },
+ {
+  "id": "tamano",
+  "ch": 1,
+  "start": 17.718,
+  "lines": [
+   {
+    "txt": "Mides entre dos y cuatro metros al nacer. Eso es más que un sofá.",
+    "file": "voz/tamano_0.wav",
+    "start": 18.218,
+    "dur": 3.58
+   },
+   {
+    "txt": "Y aun así, eres la cría más pequeña de tu barrio.",
+    "file": "voz/tamano_1.wav",
+    "start": 22.198,
+    "dur": 3.35
+   }
+  ],
+  "end": 26.798000000000002
+ },
+ {
+  "id": "mama",
+  "ch": 1,
+  "start": 26.798000000000002,
+  "lines": [
+   {
+    "txt": "Tu madre te mira un segundo, da media vuelta y se va nadando.",
+    "file": "voz/mama_0.wav",
+    "start": 27.298000000000002,
+    "dur": 3.766
+   },
+   {
+    "txt": "Ni una nota, ni una tarjeta, ni un hasta luego.",
+    "file": "voz/mama_1.wav",
+    "start": 31.464000000000002,
+    "dur": 3.11
+   }
+  ],
+  "end": 35.824000000000005
+ },
+ {
+  "id": "hermanos",
+  "ch": 1,
+  "start": 35.824000000000005,
+  "lines": [
+   {
+    "txt": "Antes de nacer, tus hermanos eran Wilfrido, Heriberto y Eustaquio.",
+    "file": "voz/hermanos_0.wav",
+    "start": 36.324000000000005,
+    "dur": 4.678
+   },
+   {
+    "txt": "Los científicos creen que algunos tiburones se comen a sus hermanos dentro de mamá. Contigo, probablemente pasó igual.",
+    "file": "voz/hermanos_1.wav",
+    "start": 41.40200000000001,
+    "dur": 6.236
+   }
+  ],
+  "end": 48.88800000000001
+ },
+ {
+  "id": "wilfrido",
+  "ch": 1,
+  "start": 48.88800000000001,
+  "lines": [
+   {
+    "txt": "Pero Wilfrido se escondió muy bien, y salió vivo.",
+    "file": "voz/wilfrido_0.wav",
+    "start": 49.38800000000001,
+    "dur": 2.998
+   },
+   {
+    "txt": "Más tarde lo verás por ahí, nadando con su sonrisa de traidor.",
+    "file": "voz/wilfrido_1.wav",
+    "start": 52.786000000000016,
+    "dur": 3.542
+   }
+  ],
+  "end": 57.57800000000002
+ },
+ {
+  "id": "anselmo",
+  "ch": 1,
+  "start": 57.57800000000002,
+  "lines": [
+   {
+    "txt": "Estás solo, hasta que flotando aparece un patito de hule. Lo llamas Anselmo.",
+    "file": "voz/anselmo_0.wav",
+    "start": 58.07800000000002,
+    "dur": 4.828
+   },
+   {
+    "txt": "No habla, no te juzga, y nadie se lo quiere comer. Mejor amigo imposible.",
+    "file": "voz/anselmo_1.wav",
+    "start": 63.30600000000002,
+    "dur": 4.556
+   }
+  ],
+  "end": 69.11200000000001
+ },
+ {
+  "id": "cuna",
+  "ch": 1,
+  "start": 69.11200000000001,
+  "lines": [
+   {
+    "txt": "Naces sabiendo nadar y cazar. Nadie te da un manual.",
+    "file": "voz/cuna_0.wav",
+    "start": 69.61200000000001,
+    "dur": 3.436
+   },
+   {
+    "txt": "Tu primera cena son peces chiquitos. Tu primer aplauso, ninguno.",
+    "file": "voz/cuna_1.wav",
+    "start": 73.44800000000001,
+    "dur": 4.14
+   }
+  ],
+  "end": 78.83800000000001
+ },
+ {
+  "id": "cap2",
+  "ch": 2,
+  "start": 78.83800000000001,
+  "lines": [
+   {
+    "txt": "Capítulo dos. La comida.",
+    "file": "voz/cap2_0.wav",
+    "start": 79.33800000000001,
+    "dur": 2.044
+   }
+  ],
+  "end": 82.632
+ },
+ {
+  "id": "carnivoro",
+  "ch": 2,
+  "start": 82.632,
+  "lines": [
+   {
+    "txt": "Eres carnívoro. Cero algas.",
+    "file": "voz/carnivoro_0.wav",
+    "start": 83.132,
+    "dur": 2.22
+   },
+   {
+    "txt": "Para ti, una ensalada es lo que se comió tu cena.",
+    "file": "voz/carnivoro_1.wav",
+    "start": 85.75200000000001,
+    "dur": 2.726
+   }
+  ],
+  "end": 89.72800000000001
+ },
+ {
+  "id": "dientes",
+  "ch": 2,
+  "start": 89.72800000000001,
+  "lines": [
+   {
+    "txt": "Tienes doscientos setenta y seis dientes. El más grande mide casi dieciocho centímetros.",
+    "file": "voz/dientes_0.wav",
+    "start": 90.22800000000001,
+    "dur": 5.852
+   },
+   {
+    "txt": "Un gran blanco tiene dientes de cinco. Tú tienes envidia ajena.",
+    "file": "voz/dientes_1.wav",
+    "start": 96.48,
+    "dur": 3.516
+   }
+  ],
+  "end": 101.246
+ },
+ {
+  "id": "cambio",
+  "ch": 2,
+  "start": 101.246,
+  "lines": [
+   {
+    "txt": "Los tiburones cambian sus dientes cada una o dos semanas.",
+    "file": "voz/cambio_0.wav",
+    "start": 101.746,
+    "dur": 3.542
+   },
+   {
+    "txt": "Te pasas la vida perdiendo dientes. El ratón Pérez del mar está en quiebra.",
+    "file": "voz/cambio_1.wav",
+    "start": 105.68799999999999,
+    "dur": 4.796
+   }
+  ],
+  "end": 111.73399999999998
+ },
+ {
+  "id": "ballena",
+  "ch": 2,
+  "start": 111.73399999999998,
+  "lines": [
+   {
+    "txt": "Tu plato favorito son las ballenas. También delfines y otros tiburones.",
+    "file": "voz/ballena_0.wav",
+    "start": 112.23399999999998,
+    "dur": 4.524
+   },
+   {
+    "txt": "Primero les muerdes las aletas y la cola, para que no escapen. Muy educado.",
+    "file": "voz/ballena_1.wav",
+    "start": 117.15799999999999,
+    "dur": 4.46
+   }
+  ],
+  "end": 122.86799999999998
+ },
+ {
+  "id": "huesos",
+  "ch": 2,
+  "start": 122.86799999999998,
+  "lines": [
+   {
+    "txt": "Hay huesos de ballena fósiles con marcas de tus dientes.",
+    "file": "voz/huesos_0.wav",
+    "start": 123.36799999999998,
+    "dur": 3.222
+   },
+   {
+    "txt": "Algunos todavía tienen la punta de un diente clavada. Eso se llama una dedicatoria.",
+    "file": "voz/huesos_1.wav",
+    "start": 126.98999999999998,
+    "dur": 4.908
+   }
+  ],
+  "end": 133.14799999999997
+ },
+ {
+  "id": "delfines",
+  "ch": 2,
+  "start": 133.14799999999997,
+  "lines": [
+   {
+    "txt": "Los delfines son listos y veloces. Tú eres enorme y paciente.",
+    "file": "voz/delfines_0.wav",
+    "start": 133.64799999999997,
+    "dur": 3.868
+   },
+   {
+    "txt": "A veces gana la paciencia. Casi siempre, tus dientes.",
+    "file": "voz/delfines_1.wav",
+    "start": 137.91599999999997,
+    "dur": 3.212
+   }
+  ],
+  "end": 142.37799999999996
+ },
+ {
+  "id": "heriberto",
+  "ch": 2,
+  "start": 142.37799999999996,
+  "lines": [
+   {
+    "txt": "Un día te cruzas con un pez que te pregunta cómo está la comida.",
+    "file": "voz/heriberto_0.wav",
+    "start": 142.87799999999996,
+    "dur": 3.366
+   },
+   {
+    "txt": "Pregunta equivocada. Era un pez muy amable, y muy sabroso.",
+    "file": "voz/heriberto_1.wav",
+    "start": 146.64399999999995,
+    "dur": 3.612
+   }
+  ],
+  "end": 151.50599999999994
+ },
+ {
+  "id": "cap3",
+  "ch": 3,
+  "start": 151.50599999999994,
+  "lines": [
+   {
+    "txt": "Capítulo tres. La vida social.",
+    "file": "voz/cap3_0.wav",
+    "start": 152.00599999999994,
+    "dur": 2.268
+   }
+  ],
+  "end": 155.52399999999994
+ },
+ {
+  "id": "solo",
+  "ch": 3,
+  "start": 155.52399999999994,
+  "lines": [
+   {
+    "txt": "Los científicos creen que sueles nadar solo.",
+    "file": "voz/solo_0.wav",
+    "start": 156.02399999999994,
+    "dur": 2.534
+   },
+   {
+    "txt": "Tú lo sabes bien. Nadie te invita a nada, y menos a una fiesta de playa.",
+    "file": "voz/solo_1.wav",
+    "start": 158.95799999999994,
+    "dur": 4.844
+   }
+  ],
+  "end": 165.05199999999994
+ },
+ {
+  "id": "tamano2",
+  "ch": 3,
+  "start": 165.05199999999994,
+  "lines": [
+   {
+    "txt": "De adulto mides entre quince y dieciocho metros, según tus dientes.",
+    "file": "voz/tamano2_0.wav",
+    "start": 165.55199999999994,
+    "dur": 4.246
+   },
+   {
+    "txt": "Eres más largo que un autobús doble. Y con peor genio.",
+    "file": "voz/tamano2_1.wav",
+    "start": 170.19799999999992,
+    "dur": 3.404
+   }
+  ],
+  "end": 174.85199999999992
+ },
+ {
+  "id": "esqueleto",
+  "ch": 3,
+  "start": 174.85199999999992,
+  "lines": [
+   {
+    "txt": "Tu esqueleto no es de hueso, es de cartílago, como el de tu nariz.",
+    "file": "voz/esqueleto_0.wav",
+    "start": 175.35199999999992,
+    "dur": 3.894
+   },
+   {
+    "txt": "Por eso casi no quedan fósiles tuyos. Solo dientes. Bonita herencia.",
+    "file": "voz/esqueleto_1.wav",
+    "start": 179.64599999999993,
+    "dur": 4.642
+   }
+  ],
+  "end": 185.53799999999993
+ },
+ {
+  "id": "velocidad",
+  "ch": 3,
+  "start": 185.53799999999993,
+  "lines": [
+   {
+    "txt": "Nadas tranquilo, a unos tres kilómetros por hora.",
+    "file": "voz/velocidad_0.wav",
+    "start": 186.03799999999993,
+    "dur": 3.206
+   },
+   {
+    "txt": "Un paseo. Pero tus presas tampoco van a mil.",
+    "file": "voz/velocidad_1.wav",
+    "start": 189.64399999999992,
+    "dur": 2.892
+   }
+  ],
+  "end": 193.78599999999992
+ },
+ {
+  "id": "mundo",
+  "ch": 3,
+  "start": 193.78599999999992,
+  "lines": [
+   {
+    "txt": "Tus dientes han aparecido en todos los continentes, menos en la Antártida.",
+    "file": "voz/mundo_0.wav",
+    "start": 194.28599999999992,
+    "dur": 4.262
+   },
+   {
+    "txt": "Eres famoso en el mundo, y nadie te escribe.",
+    "file": "voz/mundo_1.wav",
+    "start": 198.94799999999992,
+    "dur": 2.774
+   }
+  ],
+  "end": 202.97199999999992
+ },
+ {
+  "id": "anselmo2",
+  "ch": 3,
+  "start": 202.97199999999992,
+  "lines": [
+   {
+    "txt": "Anselmo flota a tu lado, sin moverse.",
+    "file": "voz/anselmo2_0.wav",
+    "start": 203.47199999999992,
+    "dur": 2.71
+   },
+   {
+    "txt": "Es el único que nunca te ha llamado monstruo.",
+    "file": "voz/anselmo2_1.wav",
+    "start": 206.58199999999994,
+    "dur": 2.374
+   }
+  ],
+  "end": 210.20599999999993
+ },
+ {
+  "id": "cap4",
+  "ch": 4,
+  "start": 210.20599999999993,
+  "lines": [
+   {
+    "txt": "Capítulo cuatro. Los que te quieren comer.",
+    "file": "voz/cap4_0.wav",
+    "start": 210.70599999999993,
+    "dur": 2.492
+   }
+  ],
+  "end": 214.44799999999992
+ },
+ {
+  "id": "lista",
+  "ch": 4,
+  "start": 214.44799999999992,
+  "lines": [
+   {
+    "txt": "Siendo pequeño, a ti también te quieren comer.",
+    "file": "voz/lista_0.wav",
+    "start": 214.94799999999992,
+    "dur": 2.726
+   },
+   {
+    "txt": "Los sospechosos: otros megalodones, que son muy de familia.",
+    "file": "voz/lista_1.wav",
+    "start": 218.07399999999993,
+    "dur": 3.894
+   }
+  ],
+  "end": 223.21799999999993
+ },
+ {
+  "id": "eustaquio",
+  "ch": 4,
+  "start": 223.21799999999993,
+  "lines": [
+   {
+    "txt": "Eustaquio se escondía detrás de un alga.",
+    "file": "voz/eustaquio_0.wav",
+    "start": 223.71799999999993,
+    "dur": 2.198
+   },
+   {
+    "txt": "El alga medía diez centímetros. Descansa, Eustaquio.",
+    "file": "voz/eustaquio_1.wav",
+    "start": 226.31599999999995,
+    "dur": 3.932
+   }
+  ],
+  "end": 231.49799999999993
+ },
+ {
+  "id": "adulto",
+  "ch": 4,
+  "start": 231.49799999999993,
+  "lines": [
+   {
+    "txt": "Cuando eres adulto, nadie se atreve contigo.",
+    "file": "voz/adulto_0.wav",
+    "start": 231.99799999999993,
+    "dur": 2.726
+   },
+   {
+    "txt": "Eres el jefe del océano. Por fin tu carrera va bien.",
+    "file": "voz/adulto_1.wav",
+    "start": 235.12399999999994,
+    "dur": 3.852
+   }
+  ],
+  "end": 240.22599999999994
+ },
+ {
+  "id": "humanos",
+  "ch": 4,
+  "start": 240.22599999999994,
+  "lines": [
+   {
+    "txt": "Humanos no hay. Faltan millones de años para que alguien invente el bañador.",
+    "file": "voz/humanos_0.wav",
+    "start": 240.72599999999994,
+    "dur": 4.188
+   },
+   {
+    "txt": "Lo bueno de tu época: nadie te hace una camiseta.",
+    "file": "voz/humanos_1.wav",
+    "start": 245.31399999999994,
+    "dur": 3.286
+   }
+  ],
+  "end": 249.84999999999994
+ },
+ {
+  "id": "peligro",
+  "ch": 4,
+  "start": 249.84999999999994,
+  "lines": [
+   {
+    "txt": "Pero el mundo se enfría. El mar se vuelve más frío cada vez.",
+    "file": "voz/peligro_0.wav",
+    "start": 250.34999999999994,
+    "dur": 3.676
+   },
+   {
+    "txt": "Y tú eres un tiburón gigante que necesita agua tibia.",
+    "file": "voz/peligro_1.wav",
+    "start": 254.42599999999993,
+    "dur": 2.966
+   }
+  ],
+  "end": 258.64199999999994
+ },
+ {
+  "id": "cap5",
+  "ch": 5,
+  "start": 258.64199999999994,
+  "lines": [
+   {
+    "txt": "Capítulo cinco. Tu superpoder.",
+    "file": "voz/cap5_0.wav",
+    "start": 259.14199999999994,
+    "dur": 2.46
+   }
+  ],
+  "end": 262.852
+ },
+ {
+  "id": "super",
+  "ch": 5,
+  "start": 262.852,
+  "lines": [
+   {
+    "txt": "Tu superpoder es la mordida. Entre ciento ocho mil y ciento ochenta mil newtons.",
+    "file": "voz/super_0.wav",
+    "start": 263.352,
+    "dur": 5.004
+   },
+   {
+    "txt": "Un humano muerde con mil trescientos. Tú, con perdón, estás en otra liga.",
+    "file": "voz/super_1.wav",
+    "start": 268.756,
+    "dur": 4.46
+   }
+  ],
+  "end": 274.466
+ },
+ {
+  "id": "mandibula",
+  "ch": 5,
+  "start": 274.466,
+  "lines": [
+   {
+    "txt": "Tu mandíbula abierta mide casi tres metros de ancho.",
+    "file": "voz/mandibula_0.wav",
+    "start": 274.966,
+    "dur": 2.95
+   },
+   {
+    "txt": "Cabe un coche pequeño. No lo recomendamos, pero cabe.",
+    "file": "voz/mandibula_1.wav",
+    "start": 278.31600000000003,
+    "dur": 3.628
+   }
+  ],
+  "end": 283.1940000000001
+ },
+ {
+  "id": "fosil",
+  "ch": 5,
+  "start": 283.1940000000001,
+  "lines": [
+   {
+    "txt": "Tus dientes se vendían como piedras mágicas.",
+    "file": "voz/fosil_0.wav",
+    "start": 283.6940000000001,
+    "dur": 2.838
+   },
+   {
+    "txt": "Se creían lenguas de dragón. Eran tus dientes. Un poco de respeto.",
+    "file": "voz/fosil_1.wav",
+    "start": 286.9320000000001,
+    "dur": 4.482
+   }
+  ],
+  "end": 292.6640000000001
+ },
+ {
+  "id": "lluvia",
+  "ch": 5,
+  "start": 292.6640000000001,
+  "lines": [
+   {
+    "txt": "Los dientes que pierdes se hunden hasta el fondo del mar.",
+    "file": "voz/lluvia_0.wav",
+    "start": 293.1640000000001,
+    "dur": 3.062
+   },
+   {
+    "txt": "Por eso hoy se encuentran tantos. Eres una tienda de dientes sin dueño.",
+    "file": "voz/lluvia_1.wav",
+    "start": 296.6260000000001,
+    "dur": 4.412
+   }
+  ],
+  "end": 302.2880000000001
+ },
+ {
+  "id": "anselmo3",
+  "ch": 5,
+  "start": 302.2880000000001,
+  "lines": [
+   {
+    "txt": "Un día intentas morder a Anselmo, por cariño. Al patito no le pasa nada.",
+    "file": "voz/anselmo3_0.wav",
+    "start": 302.7880000000001,
+    "dur": 4.604
+   },
+   {
+    "txt": "A ti se te cae un diente. Pero te sale otro. Eso sí es un superpoder.",
+    "file": "voz/anselmo3_1.wav",
+    "start": 307.79200000000014,
+    "dur": 4.77
+   }
+  ],
+  "end": 313.8120000000002
+ },
+ {
+  "id": "cap6",
+  "ch": 6,
+  "start": 313.8120000000002,
+  "lines": [
+   {
+    "txt": "Capítulo seis. Entrenamiento.",
+    "file": "voz/cap6_0.wav",
+    "start": 314.3120000000002,
+    "dur": 2.492
+   }
+  ],
+  "end": 318.0540000000002
+ },
+ {
+  "id": "practica",
+  "ch": 6,
+  "start": 318.0540000000002,
+  "lines": [
+   {
+    "txt": "Aprendes a cazar practicando. Fallas bastante.",
+    "file": "voz/practica_0.wav",
+    "start": 318.5540000000002,
+    "dur": 3.18
+   },
+   {
+    "txt": "Persigues a una ballena, y la ballena se va. Tu orgullo, también.",
+    "file": "voz/practica_1.wav",
+    "start": 322.1340000000002,
+    "dur": 4.556
+   }
+  ],
+  "end": 327.9400000000002
+ },
+ {
+  "id": "pez",
+  "ch": 6,
+  "start": 327.9400000000002,
+  "lines": [
+   {
+    "txt": "Tu primera presa es un pez de medio metro.",
+    "file": "voz/pez_0.wav",
+    "start": 328.4400000000002,
+    "dur": 2.31
+   },
+   {
+    "txt": "El pez te mira, se ríe y se va. Es tu primer fracaso.",
+    "file": "voz/pez_1.wav",
+    "start": 331.1500000000002,
+    "dur": 3.66
+   }
+  ],
+  "end": 336.06000000000023
+ },
+ {
+  "id": "emboscada",
+  "ch": 6,
+  "start": 336.06000000000023,
+  "lines": [
+   {
+    "txt": "Aprendes a atacar desde abajo y por sorpresa.",
+    "file": "voz/emboscada_0.wav",
+    "start": 336.56000000000023,
+    "dur": 2.55
+   },
+   {
+    "txt": "Tu técnica es quedarte quieto. Es difícil esconder quince metros, pero tú lo intentas.",
+    "file": "voz/emboscada_1.wav",
+    "start": 339.5100000000002,
+    "dur": 5.132
+   }
+  ],
+  "end": 345.8920000000002
+ },
+ {
+  "id": "vida",
+  "ch": 6,
+  "start": 345.8920000000002,
+  "lines": [
+   {
+    "txt": "Nadie sabe cuánto vivías. Probablemente varias décadas.",
+    "file": "voz/vida_0.wav",
+    "start": 346.3920000000002,
+    "dur": 3.756
+   },
+   {
+    "txt": "Vives mucho, comes lo que quieres y nadie te organiza la graduación.",
+    "file": "voz/vida_1.wav",
+    "start": 350.54800000000023,
+    "dur": 3.878
+   }
+  ],
+  "end": 355.6760000000003
+ },
+ {
+  "id": "anselmo4",
+  "ch": 6,
+  "start": 355.6760000000003,
+  "lines": [
+   {
+    "txt": "Anselmo rueda con cada ola.",
+    "file": "voz/anselmo4_0.wav",
+    "start": 356.1760000000003,
+    "dur": 1.862
+   },
+   {
+    "txt": "Lo empujas con la nariz hasta que vuelve. Por una vez, eres amable.",
+    "file": "voz/anselmo4_1.wav",
+    "start": 358.4380000000003,
+    "dur": 4.828
+   }
+  ],
+  "end": 364.5160000000003
+ },
+ {
+  "id": "cap7",
+  "ch": 7,
+  "start": 364.5160000000003,
+  "lines": [
+   {
+    "txt": "Capítulo siete. El amor.",
+    "file": "voz/cap7_0.wav",
+    "start": 365.0160000000003,
+    "dur": 2.06
+   }
+  ],
+  "end": 368.3260000000003
+ },
+ {
+  "id": "cortejo",
+  "ch": 7,
+  "start": 368.3260000000003,
+  "lines": [
+   {
+    "txt": "Nadie sabe cómo se cortejaban los megalodones. No quedó ni una carta de amor.",
+    "file": "voz/cortejo_0.wav",
+    "start": 368.8260000000003,
+    "dur": 4.46
+   },
+   {
+    "txt": "Quizás con mordiditas, quizás con rugidos. Casi seguro, con mucho nervio.",
+    "file": "voz/cortejo_1.wav",
+    "start": 373.6860000000003,
+    "dur": 5.484
+   }
+  ],
+  "end": 380.42000000000036
+ },
+ {
+  "id": "crias",
+  "ch": 7,
+  "start": 380.42000000000036,
+  "lines": [
+   {
+    "txt": "Tus crías nacerían en aguas poco profundas, igual que tú.",
+    "file": "voz/crias_0.wav",
+    "start": 380.92000000000036,
+    "dur": 3.462
+   },
+   {
+    "txt": "Y tu pareja se iría igual que tu madre. La tradición familiar sigue.",
+    "file": "voz/crias_1.wav",
+    "start": 384.7820000000004,
+    "dur": 4.124
+   }
+  ],
+  "end": 390.1560000000004
+ },
+ {
+  "id": "wilfrido2",
+  "ch": 7,
+  "start": 390.1560000000004,
+  "lines": [
+   {
+    "txt": "Wilfrido, el hermano traidor, nunca se dejó comer.",
+    "file": "voz/wilfrido2_0.wav",
+    "start": 390.6560000000004,
+    "dur": 3.51
+   },
+   {
+    "txt": "Se fue a otra bahía, se casó con una tiburona y tuvo dieciocho hijos y una casa con vista al mar.",
+    "file": "voz/wilfrido2_1.wav",
+    "start": 394.56600000000043,
+    "dur": 5.894
+   }
+  ],
+  "end": 401.71000000000043
+ },
+ {
+  "id": "cap8",
+  "ch": 8,
+  "start": 401.71000000000043,
+  "lines": [
+   {
+    "txt": "Capítulo ocho. El final.",
+    "file": "voz/cap8_0.wav",
+    "start": 402.21000000000043,
+    "dur": 2.204
+   }
+  ],
+  "end": 405.66400000000044
+ },
+ {
+  "id": "vejez",
+  "ch": 8,
+  "start": 405.66400000000044,
+  "lines": [
+   {
+    "txt": "Un día ya no cazas como antes. Te duelen los dientes que te quedan.",
+    "file": "voz/vejez_0.wav",
+    "start": 406.16400000000044,
+    "dur": 3.836
+   },
+   {
+    "txt": "Ser rey del océano también cansa. Y no hay jubilación.",
+    "file": "voz/vejez_1.wav",
+    "start": 410.40000000000043,
+    "dur": 3.244
+   }
+  ],
+  "end": 414.89400000000046
+ },
+ {
+  "id": "frio",
+  "ch": 8,
+  "start": 414.89400000000046,
+  "lines": [
+   {
+    "txt": "Hace unos tres millones y medio de años, el planeta se enfría de verdad.",
+    "file": "voz/frio_0.wav",
+    "start": 415.39400000000046,
+    "dur": 3.878
+   },
+   {
+    "txt": "Falta comida, faltan aguas tibias, y llegan los grandes blancos, a quedarse con tus ballenas.",
+    "file": "voz/frio_1.wav",
+    "start": 419.6720000000005,
+    "dur": 5.862
+   }
+  ],
+  "end": 426.7840000000005
+ },
+ {
+  "id": "fin",
+  "ch": 8,
+  "start": 426.7840000000005,
+  "lines": [
+   {
+    "txt": "Los científicos creen que esas cosas juntas acabaron contigo.",
+    "file": "voz/fin_0.wav",
+    "start": 427.2840000000005,
+    "dur": 3.366
+   },
+   {
+    "txt": "Y no, no queda ninguno vivo. Los videos de internet son mentira.",
+    "file": "voz/fin_1.wav",
+    "start": 431.0500000000005,
+    "dur": 4.14
+   }
+  ],
+  "end": 436.44000000000057
+ },
+ {
+  "id": "steno",
+  "ch": 8,
+  "start": 436.44000000000057,
+  "lines": [
+   {
+    "txt": "En mil seiscientos sesenta y siete, un científico llamado Nicolás Steno descubre que tus lenguas de dragón son dientes.",
+    "file": "voz/steno_0.wav",
+    "start": 436.94000000000057,
+    "dur": 6.566
+   },
+   {
+    "txt": "Tardaron milenios en darte tu nombre. Ahora hay documentales.",
+    "file": "voz/steno_1.wav",
+    "start": 443.9060000000006,
+    "dur": 4.092
+   }
+  ],
+  "end": 449.2480000000006
+ },
+ {
+  "id": "fama",
+  "ch": 8,
+  "start": 449.2480000000006,
+  "lines": [
+   {
+    "txt": "Eres el tiburón más famoso de la historia. Sales en películas, peluches y camisetas.",
+    "file": "voz/fama_0.wav",
+    "start": 449.7480000000006,
+    "dur": 4.94
+   },
+   {
+    "txt": "Tu familia sigue sin llamar.",
+    "file": "voz/fama_1.wav",
+    "start": 455.0880000000006,
+    "dur": 1.638
+   }
+  ],
+  "end": 457.9760000000006
+ },
+ {
+  "id": "cierre",
+  "ch": 8,
+  "start": 457.9760000000006,
+  "lines": [
+   {
+    "txt": "Nacer como un megalodón apesta.",
+    "file": "voz/cierre_0.wav",
+    "start": 458.4760000000006,
+    "dur": 2.054
+   },
+   {
+    "txt": "Pero al menos eres el rey del mar.",
+    "file": "voz/cierre_1.wav",
+    "start": 460.93000000000063,
+    "dur": 1.798
+   }
+  ],
+  "end": 463.97800000000063
+ },
+ {
+  "id": "adios",
+  "ch": 8,
+  "start": 463.97800000000063,
+  "lines": [
+   {
+    "txt": "En la vitrina de al lado está Anselmo, con una etiqueta que dice: pato de hule.",
+    "file": "voz/adios_0.wav",
+    "start": 464.47800000000063,
+    "dur": 4.614
+   },
+   {
+    "txt": "Nunca dijo nada. Se lo agradeces.",
+    "file": "voz/adios_1.wav",
+    "start": 469.49200000000064,
+    "dur": 2.668
+   }
+  ],
+  "end": 473.41000000000065
+ },
+ {
+  "id": "sub",
+  "ch": 8,
+  "start": 473.41000000000065,
+  "lines": [
+   {
+    "txt": "Suscríbete a este canal.",
+    "file": "voz/sub_0.wav",
+    "start": 473.91000000000065,
+    "dur": 1.574
+   },
+   {
+    "txt": "O un gran blanco se come a Anselmo.",
+    "file": "voz/sub_1.wav",
+    "start": 475.88400000000064,
+    "dur": 1.974
+   }
+  ],
+  "end": 479.1080000000007
+ }
+]

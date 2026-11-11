@@ -18,26 +18,26 @@ Reglas: se elige el SIGUIENTE animal pendiente; al terminar el video se mueve a 
 - anaconda (programado para 2026-11-07 16:00; short mismo día 2026-11-07 16:30)
 - titanoboa (programado para 2026-11-09 16:00; short mismo día 2026-11-09 16:30)
 - tiranosaurio rex (programado para 2026-11-11 16:00; short mismo día 16:30)
+- megalodón (programado para 2026-11-13 16:00; short mismo día 16:30)
 
 ## Pendientes (en orden)
-1. megalodón
-2. dodo
-3. tigre dientes de sable
-4. pingüino emperador
-5. axolote
-6. tardígrado
-7. murciélago vampiro
-8. Quetzalcoatlus (el pterosaurio gigante)
-9. oso perezoso
-10. colibrí
-11. camaleón
-12. hormiga
-13. mantis religiosa
-14. Dunkleosteus (pez acorazado extinto)
-15. gliptodonte
-16. águila arpía
-17. delfín rosado
-18. ornitorrinco
-19. tiburón blanco
-20. cocodrilo
-21. Argentavis (ave gigante extinta)
+1. dodo
+2. tigre dientes de sable
+3. pingüino emperador
+4. axolote
+5. tardígrado
+6. murciélago vampiro
+7. Quetzalcoatlus (el pterosaurio gigante)
+8. oso perezoso
+9. colibrí
+10. camaleón
+11. hormiga
+12. mantis religiosa
+13. Dunkleosteus (pez acorazado extinto)
+14. gliptodonte
+15. águila arpía
+16. delfín rosado
+17. ornitorrinco
+18. tiburón blanco
+19. cocodrilo
+20. Argentavis (ave gigante extinta)
