@@ -1,0 +1,15 @@
+{
+ "title": "La variable cosa2_final_AHORA",
+ "caption": "Cuando tu IA revisa tu código y encuentra la variable más misteriosa del mundo 😅🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi le pide a Claude revisar su código.","who":null,"screen":"T","screenTitle":"codigo.py","screenLines":["$ revisando archivo...","> 3.000 líneas","? ok, empecemos"]},
+  {"cam":"human","sub":"Tranquilo, el código está muy limpio.","who":"h","screen":"T","screenTitle":"codigo.py","screenLines":["> cosa = 1","> cosa2 = 2","> cosa2_final_AHORA = 3"]},
+  {"cam":"robot","sub":"Santi. ¿Qué es cosa2_final_AHORA?","who":"r","screen":"T","screenTitle":"codigo.py","screenLines":["? cosa2_final_AHORA","! nombre sospechoso","> 47 usos"],"wake":true},
+  {"cam":"human","sub":"Es… la variable más importante.","who":"h","screen":"off","panic":true},
+  {"cam":"monitor","sub":"¿Y qué guarda?","who":"r","screen":"T","screenTitle":"buscar: cosa2","screenLines":["? cosa2_final","? cosa2_final_v2","? cosa2_final_AHORA"],"surprise":true},
+  {"cam":"human","sub":"No me acuerdo. Pero no la toques.","who":"h","screen":"off","panic":true},
+  {"card":"5 MINUTOS\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"robot","sub":"La renombré a precio_total.","who":"r","screen":"T","screenTitle":"codigo.py","screenLines":["$ renombrar listo","> precio_total","> 0 errores"]},
+  {"cam":"monitor","sub":"Y el programa dejó de funcionar.","who":"h","screen":"T","screenTitle":"ERROR","screenLines":["! NameError: cosa2_final_AHORA","! no existe","! todo roto"],"panic":true},
+  {"cam":"general","sub":"Te dije que no la tocaras.","who":"h","screen":"T","screenTitle":"codigo.py","screenLines":["$ deshacer","> cosa2_final_AHORA","> ...vuelve"],"end":"tada"}
+]}
