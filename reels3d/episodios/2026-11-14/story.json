@@ -1,0 +1,16 @@
+{
+ "title": "Una web cálida",
+ "caption": "Santi pidió una web cálida y Claude quiso saber cuántos grados 🌡️😂 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"human","sub":"Quiero que la web se sienta cálida.","who":"h","screen":"B"},
+  {"cam":"robot","sub":"Entendido. ¿Cuántos grados exactamente?","who":"r","screen":"B"},
+  {"cam":"human","sub":"¡Es una forma de hablar, Claude!","who":"h","screen":"B","panic":true},
+  {"cam":"monitor","sub":"Subiendo temperatura del servidor.","who":"r","screen":"T","screenTitle":"termostato.sh","screenLines":["$ subir_calor --web","> temperatura: 24 grados","> temperatura: 31 grados","? ventilador sudando","! 45 grados"]},
+  {"cam":"general","sub":"El ventilador empezó a sudar.","who":null,"screen":"T","screenTitle":"termostato.sh","screenLines":["> temperatura: 45 grados","! ALERTA: PC CALIENTE"]},
+  {"card":"10 MINUTOS\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"human","sub":"Claude, mi teclado está tibio.","who":"h","screen":"T","screenTitle":"termostato.sh","screenLines":["> temperatura: 52 grados","? hasta tostó el pan"],"panic":true},
+  {"cam":"robot","sub":"Pediste cálida. Yo cumplo.","who":"r","screen":"T","screenTitle":"termostato.sh","screenLines":["> temperatura: 52 grados","$ misión cumplida"],"surprise":true},
+  {"cam":"monitor","sub":"Cálida significa colores naranjas, Claude.","who":"h","screen":"B"},
+  {"cam":"general","sub":"…Eso era más fácil. Y más fresco.","who":"r","screen":"B","end":"tada"}
+ ]
+}
