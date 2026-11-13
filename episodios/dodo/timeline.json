@@ -1,0 +1,1008 @@
+[
+ {
+  "id": "titulo",
+  "ch": 1,
+  "start": 0,
+  "lines": [
+   {
+    "txt": "Nacer como un dodo apesta.",
+    "file": "voz/titulo_0.wav",
+    "start": 0.5,
+    "dur": 1.606
+   }
+  ],
+  "end": 3.3560000000000003
+ },
+ {
+  "id": "cap1",
+  "ch": 1,
+  "start": 3.3560000000000003,
+  "lines": [
+   {
+    "txt": "Capítulo uno. El nacimiento.",
+    "file": "voz/cap1_0.wav",
+    "start": 3.8560000000000003,
+    "dur": 2.46
+   }
+  ],
+  "end": 7.566
+ },
+ {
+  "id": "isla",
+  "ch": 1,
+  "start": 7.566,
+  "lines": [
+   {
+    "txt": "Naces en la isla Mauricio, en pleno océano Índico.",
+    "file": "voz/isla_0.wav",
+    "start": 8.065999999999999,
+    "dur": 3.414
+   },
+   {
+    "txt": "Es el único lugar del planeta donde puedes nacer. Qué exclusivo. Y qué pequeño.",
+    "file": "voz/isla_1.wav",
+    "start": 11.879999999999999,
+    "dur": 4.722
+   }
+  ],
+  "end": 17.852
+ },
+ {
+  "id": "huevo",
+  "ch": 1,
+  "start": 17.852,
+  "lines": [
+   {
+    "txt": "Tu madre pone un solo huevo, en un nido en el suelo.",
+    "file": "voz/huevo_0.wav",
+    "start": 18.352,
+    "dur": 3.366
+   },
+   {
+    "txt": "Un nido en el suelo. Con un solo huevo. Ese eres tú. Ya empezamos mal.",
+    "file": "voz/huevo_1.wav",
+    "start": 22.118000000000002,
+    "dur": 5.096
+   }
+  ],
+  "end": 28.464000000000006
+ },
+ {
+  "id": "mama",
+  "ch": 1,
+  "start": 28.464000000000006,
+  "lines": [
+   {
+    "txt": "Los científicos creen que, como las palomas, tus padres te cuidan.",
+    "file": "voz/mama_0.wav",
+    "start": 28.964000000000006,
+    "dur": 3.446
+   },
+   {
+    "txt": "Qué bonito. Una mamá que se queda. Lástima que el nido esté a la vista de todos.",
+    "file": "voz/mama_1.wav",
+    "start": 32.81,
+    "dur": 4.642
+   }
+  ],
+  "end": 38.702000000000005
+ },
+ {
+  "id": "primos",
+  "ch": 1,
+  "start": 38.702000000000005,
+  "lines": [
+   {
+    "txt": "Eres hijo único. Pero tienes tres primos que nacieron el mismo año.",
+    "file": "voz/primos_0.wav",
+    "start": 39.202000000000005,
+    "dur": 3.676
+   },
+   {
+    "txt": "Se llaman Aniceto, Hilario y Cipriano. Apréndete bien los nombres. No van a durar.",
+    "file": "voz/primos_1.wav",
+    "start": 43.278000000000006,
+    "dur": 5.25
+   }
+  ],
+  "end": 49.778000000000006
+ },
+ {
+  "id": "bernabe",
+  "ch": 1,
+  "start": 49.778000000000006,
+  "lines": [
+   {
+    "txt": "Un día encuentras una bota de marinero abandonada en la playa.",
+    "file": "voz/bernabe_0.wav",
+    "start": 50.278000000000006,
+    "dur": 3.286
+   },
+   {
+    "txt": "La llamas Bernabé. No huele bien, pero tampoco se queja.",
+    "file": "voz/bernabe_1.wav",
+    "start": 53.964000000000006,
+    "dur": 3.388
+   }
+  ],
+  "end": 58.602000000000004
+ },
+ {
+  "id": "tamano",
+  "ch": 1,
+  "start": 58.602000000000004,
+  "lines": [
+   {
+    "txt": "De adulto mides cerca de un metro y pesas como un perro cocker spaniel.",
+    "file": "voz/tamano_0.wav",
+    "start": 59.102000000000004,
+    "dur": 3.606
+   },
+   {
+    "txt": "Sí, eres un pájaro. Y sí, ya no vuelas. Ya hablaremos de eso.",
+    "file": "voz/tamano_1.wav",
+    "start": 63.108000000000004,
+    "dur": 4.898
+   }
+  ],
+  "end": 69.256
+ },
+ {
+  "id": "cap2",
+  "ch": 2,
+  "start": 69.256,
+  "lines": [
+   {
+    "txt": "Capítulo dos. La comida.",
+    "file": "voz/cap2_0.wav",
+    "start": 69.756,
+    "dur": 2.268
+   }
+  ],
+  "end": 73.274
+ },
+ {
+  "id": "fruta",
+  "ch": 2,
+  "start": 73.274,
+  "lines": [
+   {
+    "txt": "Comes lo que cae del bosque: frutas, nueces y semillas.",
+    "file": "voz/fruta_0.wav",
+    "start": 73.774,
+    "dur": 3.366
+   },
+   {
+    "txt": "Tu restaurante favorito se llama el suelo.",
+    "file": "voz/fruta_1.wav",
+    "start": 77.54,
+    "dur": 2.55
+   }
+  ],
+  "end": 81.34
+ },
+ {
+  "id": "piedras",
+  "ch": 2,
+  "start": 81.34,
+  "lines": [
+   {
+    "txt": "Para digerir, te tragas piedras. Se llaman gastrolitos y las guardas en la molleja.",
+    "file": "voz/piedras_0.wav",
+    "start": 81.84,
+    "dur": 5.004
+   },
+   {
+    "txt": "Tu dieta incluye gravilla. Tu dentista está desempleado.",
+    "file": "voz/piedras_1.wav",
+    "start": 87.244,
+    "dur": 3.468
+   }
+  ],
+  "end": 91.96199999999999
+ },
+ {
+  "id": "olfato",
+  "ch": 2,
+  "start": 91.96199999999999,
+  "lines": [
+   {
+    "txt": "Los científicos creen que te guiabas más por el olfato que por la vista.",
+    "file": "voz/olfato_0.wav",
+    "start": 92.46199999999999,
+    "dur": 3.622
+   },
+   {
+    "txt": "Por eso ves poco, pero hueles muy bien tu propia mala suerte.",
+    "file": "voz/olfato_1.wav",
+    "start": 96.484,
+    "dur": 3.51
+   }
+  ],
+  "end": 101.24399999999999
+ },
+ {
+  "id": "gordo",
+  "ch": 2,
+  "start": 101.24399999999999,
+  "lines": [
+   {
+    "txt": "En la época seca engordas, para tener fuerzas en la cría.",
+    "file": "voz/gordo_0.wav",
+    "start": 101.74399999999999,
+    "dur": 3.382
+   },
+   {
+    "txt": "En la época de lluvias adelgazas. Eres el único pájaro con dieta de temporada y sin entrenador.",
+    "file": "voz/gordo_1.wav",
+    "start": 105.52599999999998,
+    "dur": 5.676
+   }
+  ],
+  "end": 112.45199999999997
+ },
+ {
+  "id": "bernabe2",
+  "ch": 2,
+  "start": 112.45199999999997,
+  "lines": [
+   {
+    "txt": "Le ofreces una fruta a Bernabé. Bernabé no dice nada.",
+    "file": "voz/bernabe2_0.wav",
+    "start": 112.95199999999997,
+    "dur": 3.372
+   },
+   {
+    "txt": "Es el mejor oyente de la isla. Y el único.",
+    "file": "voz/bernabe2_1.wav",
+    "start": 116.72399999999998,
+    "dur": 2.78
+   }
+  ],
+  "end": 120.75399999999996
+ },
+ {
+  "id": "cap3",
+  "ch": 3,
+  "start": 120.75399999999996,
+  "lines": [
+   {
+    "txt": "Capítulo tres. La vida social.",
+    "file": "voz/cap3_0.wav",
+    "start": 121.25399999999996,
+    "dur": 2.412
+   }
+  ],
+  "end": 124.91599999999995
+ },
+ {
+  "id": "territorio",
+  "ch": 3,
+  "start": 124.91599999999995,
+  "lines": [
+   {
+    "txt": "Defiendes tu territorio con tu pico grande.",
+    "file": "voz/territorio_0.wav",
+    "start": 125.41599999999995,
+    "dur": 2.55
+   },
+   {
+    "txt": "Los machos se pelean a picotazos. Tú también, pero con muy poca puntería.",
+    "file": "voz/territorio_1.wav",
+    "start": 128.36599999999996,
+    "dur": 4.476
+   }
+  ],
+  "end": 134.09199999999996
+ },
+ {
+  "id": "cerebro",
+  "ch": 3,
+  "start": 134.09199999999996,
+  "lines": [
+   {
+    "txt": "Los estudios dicen que tu cerebro era parecido al de una paloma moderna.",
+    "file": "voz/cerebro_0.wav",
+    "start": 134.59199999999996,
+    "dur": 3.99
+   },
+   {
+    "txt": "Ni genio, ni tonto. Adaptado a una isla donde nada te quería hacer daño.",
+    "file": "voz/cerebro_1.wav",
+    "start": 138.98199999999997,
+    "dur": 4.396
+   }
+  ],
+  "end": 144.62799999999996
+ },
+ {
+  "id": "plumas",
+  "ch": 3,
+  "start": 144.62799999999996,
+  "lines": [
+   {
+    "txt": "Tu cuerpo es robusto, tus alas son diminutas y tu cola es un moñito de plumas.",
+    "file": "voz/plumas_0.wav",
+    "start": 145.12799999999996,
+    "dur": 4.87
+   },
+   {
+    "txt": "Los científicos creen que tu plumaje era gris o café oscuro. Muy elegante para el luto.",
+    "file": "voz/plumas_1.wav",
+    "start": 150.39799999999997,
+    "dur": 5.26
+   }
+  ],
+  "end": 156.90799999999996
+ },
+ {
+  "id": "primos2",
+  "ch": 3,
+  "start": 156.90799999999996,
+  "lines": [
+   {
+    "txt": "Tus primos Aniceto, Hilario y Cipriano te invitan a jugar.",
+    "file": "voz/primos2_0.wav",
+    "start": 157.40799999999996,
+    "dur": 3.894
+   },
+   {
+    "txt": "Cipriano quiere ir a ver el barco que llegó a la bahía. Mala idea. Muy mala.",
+    "file": "voz/primos2_1.wav",
+    "start": 161.70199999999997,
+    "dur": 4.786
+   }
+  ],
+  "end": 167.73799999999997
+ },
+ {
+  "id": "tranquilo",
+  "ch": 3,
+  "start": 167.73799999999997,
+  "lines": [
+   {
+    "txt": "Llevas millones de años viviendo sin enemigos. Nadie te enseñó a tenerle miedo a nada.",
+    "file": "voz/tranquilo_0.wav",
+    "start": 168.23799999999997,
+    "dur": 4.652
+   },
+   {
+    "txt": "Camina tranquilo, dodo. Camina tranquilo.",
+    "file": "voz/tranquilo_1.wav",
+    "start": 173.28999999999996,
+    "dur": 2.828
+   }
+  ],
+  "end": 177.36799999999997
+ },
+ {
+  "id": "cap4",
+  "ch": 4,
+  "start": 177.36799999999997,
+  "lines": [
+   {
+    "txt": "Capítulo cuatro. Los que te quieren comer.",
+    "file": "voz/cap4_0.wav",
+    "start": 177.86799999999997,
+    "dur": 2.748
+   }
+  ],
+  "end": 181.86599999999996
+ },
+ {
+  "id": "barco",
+  "ch": 4,
+  "start": 181.86599999999996,
+  "lines": [
+   {
+    "txt": "En mil quinientos noventa y ocho llegan los marineros holandeses a Mauricio.",
+    "file": "voz/barco_0.wav",
+    "start": 182.36599999999996,
+    "dur": 4.038
+   },
+   {
+    "txt": "Se bajan del barco, te ven caminando hacia ellos, y piensan: cena.",
+    "file": "voz/barco_1.wav",
+    "start": 186.80399999999995,
+    "dur": 4.662
+   }
+  ],
+  "end": 192.71599999999995
+ },
+ {
+  "id": "walgh",
+  "ch": 4,
+  "start": 192.71599999999995,
+  "lines": [
+   {
+    "txt": "Te bautizan walghvogel, que significa pájaro asqueroso.",
+    "file": "voz/walgh_0.wav",
+    "start": 193.21599999999995,
+    "dur": 3.366
+   },
+   {
+    "txt": "Dicen que tu carne sabe mal. Y aun así, te comen. Un insulto con hambre.",
+    "file": "voz/walgh_1.wav",
+    "start": 196.98199999999994,
+    "dur": 5.01
+   }
+  ],
+  "end": 203.24199999999993
+ },
+ {
+  "id": "aniceto",
+  "ch": 4,
+  "start": 203.24199999999993,
+  "lines": [
+   {
+    "txt": "Aniceto se acerca con curiosidad a saludar a un marinero.",
+    "file": "voz/aniceto_0.wav",
+    "start": 203.74199999999993,
+    "dur": 3.478
+   },
+   {
+    "txt": "Aniceto no era desconfiado. Descansa, Aniceto.",
+    "file": "voz/aniceto_1.wav",
+    "start": 207.61999999999995,
+    "dur": 3.58
+   }
+  ],
+  "end": 212.44999999999993
+ },
+ {
+  "id": "ratas",
+  "ch": 4,
+  "start": 212.44999999999993,
+  "lines": [
+   {
+    "txt": "Los barcos traen pasajeros que nadie invitó: ratas, cerdos, perros y gatos.",
+    "file": "voz/ratas_0.wav",
+    "start": 212.94999999999993,
+    "dur": 5.686
+   },
+   {
+    "txt": "Y monos macacos. Todos adoran los huevos en el suelo.",
+    "file": "voz/ratas_1.wav",
+    "start": 219.03599999999994,
+    "dur": 3.388
+   }
+  ],
+  "end": 223.67399999999995
+ },
+ {
+  "id": "cerdos",
+  "ch": 4,
+  "start": 223.67399999999995,
+  "lines": [
+   {
+    "txt": "Tu nido está en el suelo. Tu huevo está en el nido. Los cerdos saben leer eso muy bien.",
+    "file": "voz/cerdos_0.wav",
+    "start": 224.17399999999995,
+    "dur": 5.298
+   },
+   {
+    "txt": "No hay venganza posible. Solo hay un huevo menos.",
+    "file": "voz/cerdos_1.wav",
+    "start": 229.87199999999996,
+    "dur": 3.276
+   }
+  ],
+  "end": 234.39799999999994
+ },
+ {
+  "id": "cipriano",
+  "ch": 4,
+  "start": 234.39799999999994,
+  "lines": [
+   {
+    "txt": "Cipriano se escondió detrás de un árbol.",
+    "file": "voz/cipriano_0.wav",
+    "start": 234.89799999999994,
+    "dur": 2.374
+   },
+   {
+    "txt": "Detrás de un árbol muy delgado, para ser honestos. Descansa, Cipriano.",
+    "file": "voz/cipriano_1.wav",
+    "start": 237.67199999999994,
+    "dur": 4.364
+   }
+  ],
+  "end": 243.28599999999994
+ },
+ {
+  "id": "cap5",
+  "ch": 5,
+  "start": 243.28599999999994,
+  "lines": [
+   {
+    "txt": "Capítulo cinco. Tu superpoder.",
+    "file": "voz/cap5_0.wav",
+    "start": 243.78599999999994,
+    "dur": 2.316
+   }
+  ],
+  "end": 247.35199999999995
+ },
+ {
+  "id": "super",
+  "ch": 5,
+  "start": 247.35199999999995,
+  "lines": [
+   {
+    "txt": "Tu superpoder es no tener miedo a nadie.",
+    "file": "voz/super_0.wav",
+    "start": 247.85199999999995,
+    "dur": 2.694
+   },
+   {
+    "txt": "También es tu defecto principal. Es un superpoder, pero apesta.",
+    "file": "voz/super_1.wav",
+    "start": 250.94599999999994,
+    "dur": 4.268
+   }
+  ],
+  "end": 256.46399999999994
+ },
+ {
+  "id": "vuelo",
+  "ch": 5,
+  "start": 256.46399999999994,
+  "lines": [
+   {
+    "txt": "Tus antepasados eran palomas que llegaron volando a la isla hace unos siete millones de años.",
+    "file": "voz/vuelo_0.wav",
+    "start": 256.96399999999994,
+    "dur": 4.694
+   },
+   {
+    "txt": "Como no había depredadores, dejaron de volar. Eso se llama ahorrar energía.",
+    "file": "voz/vuelo_1.wav",
+    "start": 262.05799999999994,
+    "dur": 4.716
+   }
+  ],
+  "end": 268.02399999999994
+ },
+ {
+  "id": "pico",
+  "ch": 5,
+  "start": 268.02399999999994,
+  "lines": [
+   {
+    "txt": "Tienes un pico grande, curvo y de punta con gancho.",
+    "file": "voz/pico_0.wav",
+    "start": 268.52399999999994,
+    "dur": 2.982
+   },
+   {
+    "txt": "Sirve para romper frutas duras. Como arma, regular. Como estilo, inolvidable.",
+    "file": "voz/pico_1.wav",
+    "start": 271.90599999999995,
+    "dur": 5.65
+   }
+  ],
+  "end": 278.806
+ },
+ {
+  "id": "nicobar",
+  "ch": 5,
+  "start": 278.806,
+  "lines": [
+   {
+    "txt": "Tu pariente vivo más cercano es la paloma de Nicobar, del sudeste asiático.",
+    "file": "voz/nicobar_0.wav",
+    "start": 279.306,
+    "dur": 4.198
+   },
+   {
+    "txt": "Es bonita, brillante y vuela. Gracias por nada, familia.",
+    "file": "voz/nicobar_1.wav",
+    "start": 283.904,
+    "dur": 4.236
+   }
+  ],
+  "end": 289.39000000000004
+ },
+ {
+  "id": "bernabe3",
+  "ch": 5,
+  "start": 289.39000000000004,
+  "lines": [
+   {
+    "txt": "Bernabé está tirado en la arena. Le das un picotazo, por cariño.",
+    "file": "voz/bernabe3_0.wav",
+    "start": 289.89000000000004,
+    "dur": 3.868
+   },
+   {
+    "txt": "La bota no se mueve. Tú tampoco sabes por qué lo hiciste. Aun así, es un buen amigo.",
+    "file": "voz/bernabe3_1.wav",
+    "start": 294.158,
+    "dur": 5.442
+   }
+  ],
+  "end": 300.85
+ },
+ {
+  "id": "cap6",
+  "ch": 6,
+  "start": 300.85,
+  "lines": [
+   {
+    "txt": "Capítulo seis. Entrenamiento.",
+    "file": "voz/cap6_0.wav",
+    "start": 301.35,
+    "dur": 2.444
+   }
+  ],
+  "end": 305.04400000000004
+ },
+ {
+  "id": "practica",
+  "ch": 6,
+  "start": 305.04400000000004,
+  "lines": [
+   {
+    "txt": "Aprendes a sobrevivir practicando. Fallas bastante.",
+    "file": "voz/practica_0.wav",
+    "start": 305.54400000000004,
+    "dur": 3.308
+   },
+   {
+    "txt": "Aprendes a esconderte de las ratas, pero las ratas aprenden más rápido.",
+    "file": "voz/practica_1.wav",
+    "start": 309.25200000000007,
+    "dur": 4.342
+   }
+  ],
+  "end": 314.8440000000001
+ },
+ {
+  "id": "huevos",
+  "ch": 6,
+  "start": 314.8440000000001,
+  "lines": [
+   {
+    "txt": "Tu pareja y tú vigilan el huevo día y noche.",
+    "file": "voz/huevos_0.wav",
+    "start": 315.3440000000001,
+    "dur": 2.678
+   },
+   {
+    "txt": "Pero un cerdo grande y un pico pequeño son una mala combinación.",
+    "file": "voz/huevos_1.wav",
+    "start": 318.4220000000001,
+    "dur": 3.926
+   }
+  ],
+  "end": 323.5980000000001
+ },
+ {
+  "id": "corre",
+  "ch": 6,
+  "start": 323.5980000000001,
+  "lines": [
+   {
+    "txt": "Intentas correr cuando ves a los perros. Eres rápido, pero con piernas cortas.",
+    "file": "voz/corre_0.wav",
+    "start": 324.0980000000001,
+    "dur": 5.276
+   },
+   {
+    "txt": "Entre el pico y la panza, el equilibrio no es lo tuyo.",
+    "file": "voz/corre_1.wav",
+    "start": 329.7740000000001,
+    "dur": 3.158
+   }
+  ],
+  "end": 334.18200000000013
+ },
+ {
+  "id": "vida",
+  "ch": 6,
+  "start": 334.18200000000013,
+  "lines": [
+   {
+    "txt": "Nadie sabe cuánto vivía un dodo. No quedó ni un registro.",
+    "file": "voz/vida_0.wav",
+    "start": 334.68200000000013,
+    "dur": 3.436
+   },
+   {
+    "txt": "Probablemente más de lo que te dejaron.",
+    "file": "voz/vida_1.wav",
+    "start": 338.51800000000014,
+    "dur": 1.974
+   }
+  ],
+  "end": 341.7420000000002
+ },
+ {
+  "id": "bernabe4",
+  "ch": 6,
+  "start": 341.7420000000002,
+  "lines": [
+   {
+    "txt": "Haces ejercicio con Bernabé. Él se queda quieto, y tú das vueltas a su alrededor.",
+    "file": "voz/bernabe4_0.wav",
+    "start": 342.2420000000002,
+    "dur": 4.972
+   },
+   {
+    "txt": "Es un entrenamiento muy cómodo. Para él.",
+    "file": "voz/bernabe4_1.wav",
+    "start": 347.6140000000002,
+    "dur": 3.308
+   }
+  ],
+  "end": 352.17200000000025
+ },
+ {
+  "id": "cap7",
+  "ch": 7,
+  "start": 352.17200000000025,
+  "lines": [
+   {
+    "txt": "Capítulo siete. El amor.",
+    "file": "voz/cap7_0.wav",
+    "start": 352.67200000000025,
+    "dur": 1.98
+   }
+  ],
+  "end": 355.90200000000027
+ },
+ {
+  "id": "cortejo",
+  "ch": 7,
+  "start": 355.90200000000027,
+  "lines": [
+   {
+    "txt": "Nadie sabe cómo se cortejaban los dodos. No quedó ni una carta de amor.",
+    "file": "voz/cortejo_0.wav",
+    "start": 356.40200000000027,
+    "dur": 4.14
+   },
+   {
+    "txt": "Las palomas arrullan y hacen reverencias. Imagínate a ti, haciendo reverencias.",
+    "file": "voz/cortejo_1.wav",
+    "start": 360.9420000000003,
+    "dur": 5.5
+   }
+  ],
+  "end": 367.6920000000003
+ },
+ {
+  "id": "pareja",
+  "ch": 7,
+  "start": 367.6920000000003,
+  "lines": [
+   {
+    "txt": "Encuentras una pareja y hacen un nido. Con un solo huevo, como manda la tradición.",
+    "file": "voz/pareja_0.wav",
+    "start": 368.1920000000003,
+    "dur": 4.812
+   },
+   {
+    "txt": "Es una familia pequeña, pero con muchas ganas.",
+    "file": "voz/pareja_1.wav",
+    "start": 373.4040000000003,
+    "dur": 2.806
+   }
+  ],
+  "end": 377.4600000000003
+ },
+ {
+  "id": "hilario",
+  "ch": 7,
+  "start": 377.4600000000003,
+  "lines": [
+   {
+    "txt": "Hilario, el primo traidor, nunca se acercó a los marineros.",
+    "file": "voz/hilario_0.wav",
+    "start": 377.9600000000003,
+    "dur": 4.07
+   },
+   {
+    "txt": "Se fue a las montañas, se casó con una dodo muy lista y tuvo una casa con vista a las nubes.",
+    "file": "voz/hilario_1.wav",
+    "start": 382.43000000000035,
+    "dur": 5.19
+   }
+  ],
+  "end": 388.87000000000035
+ },
+ {
+  "id": "casa",
+  "ch": 7,
+  "start": 388.87000000000035,
+  "lines": [
+   {
+    "txt": "Tu huevo eclosiona y nace un pichón diminuto.",
+    "file": "voz/casa_0.wav",
+    "start": 389.37000000000035,
+    "dur": 2.454
+   },
+   {
+    "txt": "Lo miras con ternura. Y a lo lejos, un cerdo también.",
+    "file": "voz/casa_1.wav",
+    "start": 392.22400000000033,
+    "dur": 3.724
+   }
+  ],
+  "end": 397.1980000000004
+ },
+ {
+  "id": "cap8",
+  "ch": 8,
+  "start": 397.1980000000004,
+  "lines": [
+   {
+    "txt": "Capítulo ocho. El final.",
+    "file": "voz/cap8_0.wav",
+    "start": 397.6980000000004,
+    "dur": 1.98
+   }
+  ],
+  "end": 400.9280000000004
+ },
+ {
+  "id": "vejez",
+  "ch": 8,
+  "start": 400.9280000000004,
+  "lines": [
+   {
+    "txt": "Cada año hay menos dodos en la isla. Cada año se oye menos picoteo.",
+    "file": "voz/vejez_0.wav",
+    "start": 401.4280000000004,
+    "dur": 4.348
+   },
+   {
+    "txt": "Los bosques desaparecen y los barcos siguen llegando.",
+    "file": "voz/vejez_1.wav",
+    "start": 406.1760000000004,
+    "dur": 3.398
+   }
+  ],
+  "end": 410.8240000000004
+ },
+ {
+  "id": "ultimo",
+  "ch": 8,
+  "start": 410.8240000000004,
+  "lines": [
+   {
+    "txt": "La última vez que alguien te vio con certeza fue en mil seiscientos sesenta y dos.",
+    "file": "voz/ultimo_0.wav",
+    "start": 411.3240000000004,
+    "dur": 4.566
+   },
+   {
+    "txt": "Menos de cien años después de que te encontraran. Un récord muy triste.",
+    "file": "voz/ultimo_1.wav",
+    "start": 416.2900000000004,
+    "dur": 4.284
+   }
+  ],
+  "end": 421.82400000000047
+ },
+ {
+  "id": "culpa",
+  "ch": 8,
+  "start": 421.82400000000047,
+  "lines": [
+   {
+    "txt": "Los científicos creen que fueron los humanos, la caza y los animales que trajeron.",
+    "file": "voz/culpa_0.wav",
+    "start": 422.32400000000047,
+    "dur": 4.694
+   },
+   {
+    "txt": "Y también que ensuciaron tu fama. Te dibujaron gordo, torpe y tonto.",
+    "file": "voz/culpa_1.wav",
+    "start": 427.41800000000046,
+    "dur": 4.284
+   }
+  ],
+  "end": 432.9520000000005
+ },
+ {
+  "id": "verdad",
+  "ch": 8,
+  "start": 432.9520000000005,
+  "lines": [
+   {
+    "txt": "Hoy sabemos que eras ágil, delgado y bien adaptado a tu isla.",
+    "file": "voz/verdad_0.wav",
+    "start": 433.4520000000005,
+    "dur": 3.846
+   },
+   {
+    "txt": "Lo único tonto fue cómo te trataron.",
+    "file": "voz/verdad_1.wav",
+    "start": 437.6980000000005,
+    "dur": 2.246
+   }
+  ],
+  "end": 441.1940000000005
+ },
+ {
+  "id": "fama",
+  "ch": 8,
+  "start": 441.1940000000005,
+  "lines": [
+   {
+    "txt": "Hoy eres famoso. Sales en Alicia en el país de las maravillas y en un museo de Oxford.",
+    "file": "voz/fama_0.wav",
+    "start": 441.6940000000005,
+    "dur": 5.036
+   },
+   {
+    "txt": "Y existe un dicho: muerto como un dodo. Tu fama es eterna. Tu salud, no.",
+    "file": "voz/fama_1.wav",
+    "start": 447.1300000000005,
+    "dur": 5.474
+   }
+  ],
+  "end": 453.85400000000055
+ },
+ {
+  "id": "cierre",
+  "ch": 8,
+  "start": 453.85400000000055,
+  "lines": [
+   {
+    "txt": "Nacer como un dodo apesta.",
+    "file": "voz/cierre_0.wav",
+    "start": 454.35400000000055,
+    "dur": 1.702
+   },
+   {
+    "txt": "Pero al menos nadie olvida tu nombre.",
+    "file": "voz/cierre_1.wav",
+    "start": 456.45600000000053,
+    "dur": 1.974
+   }
+  ],
+  "end": 459.6800000000006
+ },
+ {
+  "id": "adios",
+  "ch": 8,
+  "start": 459.6800000000006,
+  "lines": [
+   {
+    "txt": "En una vitrina del museo, sigue Bernabé, con una etiqueta que dice: bota.",
+    "file": "voz/adios_0.wav",
+    "start": 460.1800000000006,
+    "dur": 5.43
+   },
+   {
+    "txt": "Nunca dijo nada. Se lo agradeces.",
+    "file": "voz/adios_1.wav",
+    "start": 466.01000000000056,
+    "dur": 2.924
+   }
+  ],
+  "end": 470.1840000000006
+ },
+ {
+  "id": "sub",
+  "ch": 8,
+  "start": 470.1840000000006,
+  "lines": [
+   {
+    "txt": "Suscríbete a este canal.",
+    "file": "voz/sub_0.wav",
+    "start": 470.6840000000006,
+    "dur": 1.526
+   },
+   {
+    "txt": "O un cerdo se come a Bernabé.",
+    "file": "voz/sub_1.wav",
+    "start": 472.6100000000006,
+    "dur": 1.894
+   }
+  ],
+  "end": 475.7540000000006
+ }
+]
