@@ -1,0 +1,16 @@
+{
+ "title": "Un botón más grande",
+ "caption": "Cuando el cliente pide \"un botón más grande\" por decimoséptima vez 😭🔘 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"El cliente escribió: \"hazlo un poquito más grande\".","who":null,"screen":"T","screenTitle":"CLIENTE","screenLines":["?Cliente: botón más grande","?Cliente: más grande","?Cliente: un poco más"]},
+  {"cam":"human","sub":"Listo. Botón más grande, por décima vez.","who":"h","screen":"B"},
+  {"cam":"monitor","sub":"Cliente: \"Más grande.\" Otra vez.","who":"r","screen":"T","screenTitle":"CLIENTE","screenLines":["?Cliente: más grande","?Cliente: MÁS grande","!Cliente: sigo sin verlo"]},
+  {"card":"17 VERSIONES\nDESPUÉS","who":null,"screen":"B"},
+  {"cam":"monitor","sub":"El botón ya ocupa toda la pantalla.","who":"h","screen":"B","panic":true},
+  {"cam":"robot","sub":"Santi. Eso ya no es un botón. Es una web.","who":"r","screen":"B","wake":true,"surprise":true},
+  {"cam":"human","sub":"Pues el cliente dice que aún no lo ve.","who":"h","screen":"B","panic":true},
+  {"cam":"monitor","sub":"Nuevo mensaje del cliente: \"Ahora no veo nada más.\"","say":"Nuevo mensaje del cliente: ahora no veo nada más.","who":"r","screen":"T","screenTitle":"CLIENTE","screenLines":["?Cliente: ahora no veo nada más","?Cliente: ¿lo puedes hacer pequeño?"]},
+  {"cam":"robot","sub":"Dieciocho. Lo pidió pequeño.","who":"r","screen":"T","surprise":true},
+  {"cam":"general","sub":"Vuelvo al tamaño original y le cobro el doble.","who":"h","screen":"B","end":"tada"}
+ ]
+}
