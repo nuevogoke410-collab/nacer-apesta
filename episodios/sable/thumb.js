@@ -1,0 +1,13 @@
+const fs=require('fs');const {createCanvas}=require('@napi-rs/canvas');
+const X=require('./lib');const Q=require('./extra');const {W,H,C,E,R,P,Ln,text,save,restore}=X;
+const cv=createCanvas(W,H),ctx=cv.getContext('2d');X.setCtx(ctx);
+Q.bg('hielo');Q.ground();
+R(60,60,1180,560,30,'rgba(255,248,214,0.92)',{lw:6});
+text('Nacer como un',650,170,120,C.OUT,'Gochi','center',-.02);
+text('TIGRE',650,340,230,Q.SY,'Gochi','center',.01,16,C.OUT);
+text('DIENTES DE SABLE',650,500,130,Q.SY,'Gochi','center',-.01,12,C.OUT);
+save(1500,330,1,.1);R(-300,-100,600,200,14,null,{lw:10,col:C.RED});text('APESTA',0,6,190,C.RED,'Gochi');restore();
+Q.smilo(1250,1040,2.9,{exp:'sweat',mouth:true});
+Q.cono(250,1030,2.1,{exp:'shock'});
+const out=createCanvas(1280,720),o=out.getContext('2d');o.drawImage(cv,0,0,1280,720);
+fs.writeFileSync('miniatura.jpg',out.toBuffer('image/jpeg',90));

@@ -1,0 +1,948 @@
+[
+ {
+  "id": "titulo",
+  "ch": 1,
+  "start": 0,
+  "lines": [
+   {
+    "txt": "Nacer como un tigre dientes de sable apesta.",
+    "file": "voz/titulo_0.wav",
+    "start": 0.5,
+    "dur": 2.454
+   }
+  ],
+  "end": 4.204
+ },
+ {
+  "id": "cap1",
+  "ch": 1,
+  "start": 4.204,
+  "lines": [
+   {
+    "txt": "Capítulo uno. El nacimiento.",
+    "file": "voz/cap1_0.wav",
+    "start": 4.704,
+    "dur": 2.3
+   }
+  ],
+  "end": 8.254
+ },
+ {
+  "id": "era",
+  "ch": 1,
+  "start": 8.254,
+  "lines": [
+   {
+    "txt": "Naces en América, en plena era de hielo, hace más de diez mil años.",
+    "file": "voz/era_0.wav",
+    "start": 8.754,
+    "dur": 4.598
+   },
+   {
+    "txt": "Hay mamuts, bisontes y perezosos gigantes. Y todos, absolutamente todos, saben quién eres.",
+    "file": "voz/era_1.wav",
+    "start": 13.751999999999999,
+    "dur": 6.588
+   }
+  ],
+  "end": 21.59
+ },
+ {
+  "id": "nombre",
+  "ch": 1,
+  "start": 21.59,
+  "lines": [
+   {
+    "txt": "Para empezar, ni siquiera eres un tigre. Eres un felino de la especie Smilodon.",
+    "file": "voz/nombre_0.wav",
+    "start": 22.09,
+    "dur": 4.604
+   },
+   {
+    "txt": "Te dicen tigre por costumbre y dientes de sable por los dientes. Una crisis de identidad con colmillos.",
+    "file": "voz/nombre_1.wav",
+    "start": 27.094,
+    "dur": 6.108
+   }
+  ],
+  "end": 34.452000000000005
+ },
+ {
+  "id": "mama",
+  "ch": 1,
+  "start": 34.452000000000005,
+  "lines": [
+   {
+    "txt": "Los científicos creen que tus papás te cuidan mientras te crecen los colmillos.",
+    "file": "voz/mama_0.wav",
+    "start": 34.952000000000005,
+    "dur": 4.39
+   },
+   {
+    "txt": "Qué bonito. Una familia. Una familia con hambre.",
+    "file": "voz/mama_1.wav",
+    "start": 39.742000000000004,
+    "dur": 3.442
+   }
+  ],
+  "end": 44.434000000000005
+ },
+ {
+  "id": "hermanos",
+  "ch": 1,
+  "start": 44.434000000000005,
+  "lines": [
+   {
+    "txt": "Naces con tres hermanos: Tobías, Ramiro y Ulises.",
+    "file": "voz/hermanos_0.wav",
+    "start": 44.934000000000005,
+    "dur": 3.846
+   },
+   {
+    "txt": "Apréndete bien los nombres. Tobías y Ulises no van a durar.",
+    "file": "voz/hermanos_1.wav",
+    "start": 49.18000000000001,
+    "dur": 3.788
+   }
+  ],
+  "end": 54.21800000000001
+ },
+ {
+  "id": "fermin",
+  "ch": 1,
+  "start": 54.21800000000001,
+  "lines": [
+   {
+    "txt": "Un día encuentras algo naranja tirado en la nieve. Un cono de tráfico.",
+    "file": "voz/fermin_0.wav",
+    "start": 54.71800000000001,
+    "dur": 4.348
+   },
+   {
+    "txt": "Lo llamas Fermín. Es el único que no se mete con tus colmillos.",
+    "file": "voz/fermin_1.wav",
+    "start": 59.46600000000001,
+    "dur": 3.596
+   }
+  ],
+  "end": 64.31200000000001
+ },
+ {
+  "id": "tamano",
+  "ch": 1,
+  "start": 64.31200000000001,
+  "lines": [
+   {
+    "txt": "De adulto pesas entre ciento sesenta y doscientos ochenta kilos.",
+    "file": "voz/tamano_0.wav",
+    "start": 64.81200000000001,
+    "dur": 3.814
+   },
+   {
+    "txt": "Mides un metro de alto hasta el hombro. Cuesta decir que eres un gatito.",
+    "file": "voz/tamano_1.wav",
+    "start": 69.02600000000001,
+    "dur": 3.708
+   }
+  ],
+  "end": 73.98400000000001
+ },
+ {
+  "id": "cap2",
+  "ch": 2,
+  "start": 73.98400000000001,
+  "lines": [
+   {
+    "txt": "Capítulo dos. La comida.",
+    "file": "voz/cap2_0.wav",
+    "start": 74.48400000000001,
+    "dur": 2.204
+   }
+  ],
+  "end": 77.938
+ },
+ {
+  "id": "bisonte",
+  "ch": 2,
+  "start": 77.938,
+  "lines": [
+   {
+    "txt": "Comes carne. Mucha carne. Sobre todo bisontes y camellos de la era de hielo.",
+    "file": "voz/bisonte_0.wav",
+    "start": 78.438,
+    "dur": 4.482
+   },
+   {
+    "txt": "Sí, había camellos en América. Y sí, también te los comes.",
+    "file": "voz/bisonte_1.wav",
+    "start": 83.32000000000001,
+    "dur": 4.22
+   }
+  ],
+  "end": 88.79
+ },
+ {
+  "id": "embosca",
+  "ch": 2,
+  "start": 88.79,
+  "lines": [
+   {
+    "txt": "No eres de perseguir a nadie. Tu estilo es esconderte y saltar.",
+    "file": "voz/embosca_0.wav",
+    "start": 89.29,
+    "dur": 3.692
+   },
+   {
+    "txt": "Los científicos creen que cazabas por emboscada. Es decir: eres un gato que espera, igual que el de tu casa.",
+    "file": "voz/embosca_1.wav",
+    "start": 93.382,
+    "dur": 6.46
+   }
+  ],
+  "end": 101.092
+ },
+ {
+  "id": "mordida",
+  "ch": 2,
+  "start": 101.092,
+  "lines": [
+   {
+    "txt": "Un estudio calculó que tu mordida era más débil que la de un león, más o menos un tercio.",
+    "file": "voz/mordida_0.wav",
+    "start": 101.592,
+    "dur": 4.918
+   },
+   {
+    "txt": "Tus colmillos son enormes, pero tu mordida no. Orgullo de felino, fuerza de pastelito.",
+    "file": "voz/mordida_1.wav",
+    "start": 106.91,
+    "dur": 5.5
+   }
+  ],
+  "end": 113.66
+ },
+ {
+  "id": "fermin2",
+  "ch": 2,
+  "start": 113.66,
+  "lines": [
+   {
+    "txt": "Le ofreces un pedazo de carne a Fermín. Fermín no dice nada.",
+    "file": "voz/fermin2_0.wav",
+    "start": 114.16,
+    "dur": 4.092
+   },
+   {
+    "txt": "Un cono de tráfico que nunca opina. El mejor amigo posible.",
+    "file": "voz/fermin2_1.wav",
+    "start": 118.652,
+    "dur": 3.74
+   }
+  ],
+  "end": 123.642
+ },
+ {
+  "id": "cap3",
+  "ch": 3,
+  "start": 123.642,
+  "lines": [
+   {
+    "txt": "Capítulo tres. La vida social.",
+    "file": "voz/cap3_0.wav",
+    "start": 124.142,
+    "dur": 2.204
+   }
+  ],
+  "end": 127.59599999999999
+ },
+ {
+  "id": "grupo",
+  "ch": 3,
+  "start": 127.59599999999999,
+  "lines": [
+   {
+    "txt": "Los científicos no se ponen de acuerdo sobre si vivías en grupo o solo.",
+    "file": "voz/grupo_0.wav",
+    "start": 128.096,
+    "dur": 3.558
+   },
+   {
+    "txt": "Algunos fósiles dicen que sí, otros dicen que no. Tú, mientras tanto, sigues sin recibir invitación a ninguna fiesta.",
+    "file": "voz/grupo_1.wav",
+    "start": 132.054,
+    "dur": 6.956
+   }
+  ],
+  "end": 140.26
+ },
+ {
+  "id": "ecuador",
+  "ch": 3,
+  "start": 140.26,
+  "lines": [
+   {
+    "txt": "En Ecuador encontraron tres esqueletos: dos jóvenes de unos dos años, probablemente hermanos, y los restos de su madre.",
+    "file": "voz/ecuador_0.wav",
+    "start": 140.76,
+    "dur": 6.886
+   },
+   {
+    "txt": "Eso suena a familia. Y a final muy triste.",
+    "file": "voz/ecuador_1.wav",
+    "start": 148.046,
+    "dur": 3.084
+   }
+  ],
+  "end": 152.38
+ },
+ {
+  "id": "herido",
+  "ch": 3,
+  "start": 152.38,
+  "lines": [
+   {
+    "txt": "Hay fósiles de Smilodon con huesos rotos que sanaron por completo.",
+    "file": "voz/herido_0.wav",
+    "start": 152.88,
+    "dur": 3.846
+   },
+   {
+    "txt": "Un animal con la cadera destrozada vivió más de un año. Alguien le debió traer comida.",
+    "file": "voz/herido_1.wav",
+    "start": 157.126,
+    "dur": 5.5
+   }
+  ],
+  "end": 163.876
+ },
+ {
+  "id": "tobias",
+  "ch": 3,
+  "start": 163.876,
+  "lines": [
+   {
+    "txt": "Tobías quiere cazar él solito un bisonte que está en una charca negra.",
+    "file": "voz/tobias_0.wav",
+    "start": 164.376,
+    "dur": 3.606
+   },
+   {
+    "txt": "Es una charca muy pegajosa y muy oscura. Mala idea. Muy mala.",
+    "file": "voz/tobias_1.wav",
+    "start": 168.382,
+    "dur": 4.242
+   }
+  ],
+  "end": 173.874
+ },
+ {
+  "id": "brea",
+  "ch": 3,
+  "start": 173.874,
+  "lines": [
+   {
+    "txt": "Esa charca es de brea natural, como asfalto pegajoso. Hoy es el sitio de La Brea, en Los Ángeles.",
+    "file": "voz/brea_0.wav",
+    "start": 174.374,
+    "dur": 5.676
+   },
+   {
+    "txt": "Una trampa perfecta. El que entra, no sale.",
+    "file": "voz/brea_1.wav",
+    "start": 180.45,
+    "dur": 3.116
+   }
+  ],
+  "end": 184.81599999999997
+ },
+ {
+  "id": "cap4",
+  "ch": 4,
+  "start": 184.81599999999997,
+  "lines": [
+   {
+    "txt": "Capítulo cuatro. Los que te quieren comer.",
+    "file": "voz/cap4_0.wav",
+    "start": 185.31599999999997,
+    "dur": 2.556
+   }
+  ],
+  "end": 189.12199999999996
+ },
+ {
+  "id": "lobos",
+  "ch": 4,
+  "start": 189.12199999999996,
+  "lines": [
+   {
+    "txt": "Tus rivales son el lobo terrible y el león americano.",
+    "file": "voz/lobos_0.wav",
+    "start": 189.62199999999996,
+    "dur": 3.206
+   },
+   {
+    "txt": "Persiguen a las mismas presas que tú. Competencia pura, con mucho pelo y muy mal genio.",
+    "file": "voz/lobos_1.wav",
+    "start": 193.22799999999995,
+    "dur": 5.276
+   }
+  ],
+  "end": 199.75399999999993
+ },
+ {
+  "id": "trampa",
+  "ch": 4,
+  "start": 199.75399999999993,
+  "lines": [
+   {
+    "txt": "Cuando un animal queda atrapado en la brea, se oye gritar a kilómetros.",
+    "file": "voz/trampa_0.wav",
+    "start": 200.25399999999993,
+    "dur": 4.054
+   },
+   {
+    "txt": "Los depredadores corren a comérselo. Y quedan atrapados también. Qué gran negocio.",
+    "file": "voz/trampa_1.wav",
+    "start": 204.70799999999994,
+    "dur": 5.314
+   }
+  ],
+  "end": 211.27199999999993
+ },
+ {
+  "id": "tobias2",
+  "ch": 4,
+  "start": 211.27199999999993,
+  "lines": [
+   {
+    "txt": "Tobías se acerca a la charca, atraído por el bisonte atrapado.",
+    "file": "voz/tobias2_0.wav",
+    "start": 211.77199999999993,
+    "dur": 3.398
+   },
+   {
+    "txt": "Un paso, dos pasos, y la brea lo agarra. Descansa, Tobías.",
+    "file": "voz/tobias2_1.wav",
+    "start": 215.56999999999994,
+    "dur": 4.204
+   }
+  ],
+  "end": 221.02399999999994
+ },
+ {
+  "id": "estadistica",
+  "ch": 4,
+  "start": 221.02399999999994,
+  "lines": [
+   {
+    "txt": "De los huesos que sacaron de La Brea, nueve de cada diez eran de depredadores.",
+    "file": "voz/estadistica_0.wav",
+    "start": 221.52399999999994,
+    "dur": 5.03
+   },
+   {
+    "txt": "Imagínate un restaurante donde los comensales terminan siendo el plato.",
+    "file": "voz/estadistica_1.wav",
+    "start": 226.95399999999995,
+    "dur": 4.054
+   }
+  ],
+  "end": 232.25799999999995
+ },
+ {
+  "id": "ulises",
+  "ch": 4,
+  "start": 232.25799999999995,
+  "lines": [
+   {
+    "txt": "Ulises ve venir al lobo terrible y decide hacerse el valiente.",
+    "file": "voz/ulises_0.wav",
+    "start": 232.75799999999995,
+    "dur": 3.59
+   },
+   {
+    "txt": "Se escondió detrás de un arbusto. El lobo terrible sabe oler arbustos. Descansa, Ulises.",
+    "file": "voz/ulises_1.wav",
+    "start": 236.74799999999996,
+    "dur": 5.586
+   }
+  ],
+  "end": 243.58399999999995
+ },
+ {
+  "id": "fermin3",
+  "ch": 4,
+  "start": 243.58399999999995,
+  "lines": [
+   {
+    "txt": "Un lobo se acerca a Fermín y lo olfatea.",
+    "file": "voz/fermin3_0.wav",
+    "start": 244.08399999999995,
+    "dur": 2.726
+   },
+   {
+    "txt": "Fermín no se mueve ni un centímetro. Es un cono. Una roca con trabajo de oficina.",
+    "file": "voz/fermin3_1.wav",
+    "start": 247.20999999999995,
+    "dur": 5.634
+   }
+  ],
+  "end": 254.09399999999994
+ },
+ {
+  "id": "cap5",
+  "ch": 5,
+  "start": 254.09399999999994,
+  "lines": [
+   {
+    "txt": "Capítulo cinco. Tu superpoder.",
+    "file": "voz/cap5_0.wav",
+    "start": 254.59399999999994,
+    "dur": 2.524
+   }
+  ],
+  "end": 258.36799999999994
+ },
+ {
+  "id": "colmillos",
+  "ch": 5,
+  "start": 258.36799999999994,
+  "lines": [
+   {
+    "txt": "Tu superpoder son los colmillos. Los de arriba miden hasta dieciocho centímetros.",
+    "file": "voz/colmillos_0.wav",
+    "start": 258.86799999999994,
+    "dur": 4.396
+   },
+   {
+    "txt": "Como un cuchillo de cocina. Pegado a tu cara. Todo el día.",
+    "file": "voz/colmillos_1.wav",
+    "start": 263.66399999999993,
+    "dur": 3.65
+   }
+  ],
+  "end": 268.56399999999996
+ },
+ {
+  "id": "boca",
+  "ch": 5,
+  "start": 268.56399999999996,
+  "lines": [
+   {
+    "txt": "Puedes abrir la boca mucho más que un león, para clavar esos colmillos.",
+    "file": "voz/boca_0.wav",
+    "start": 269.06399999999996,
+    "dur": 3.734
+   },
+   {
+    "txt": "Bostezar contigo es una experiencia de terror.",
+    "file": "voz/boca_1.wav",
+    "start": 273.198,
+    "dur": 2.774
+   }
+  ],
+  "end": 277.222
+ },
+ {
+  "id": "brazos",
+  "ch": 5,
+  "start": 277.222,
+  "lines": [
+   {
+    "txt": "Los científicos creen que usabas tus patas delanteras, fuertes como troncos, para derribar y sujetar a la presa.",
+    "file": "voz/brazos_0.wav",
+    "start": 277.722,
+    "dur": 6.23
+   },
+   {
+    "txt": "Primero el abrazo. Luego el mordisco. Un cariñoso con muy mala fama.",
+    "file": "voz/brazos_1.wav",
+    "start": 284.352,
+    "dur": 4.274
+   }
+  ],
+  "end": 289.876
+ },
+ {
+  "id": "fragil",
+  "ch": 5,
+  "start": 289.876,
+  "lines": [
+   {
+    "txt": "Pero los colmillos son largos y delgados. Si muerdes un hueso, se rompen.",
+    "file": "voz/fragil_0.wav",
+    "start": 290.376,
+    "dur": 4.684
+   },
+   {
+    "txt": "Entonces muerdes el cuello, con cuidado. Una cena con modales.",
+    "file": "voz/fragil_1.wav",
+    "start": 295.46,
+    "dur": 3.996
+   }
+  ],
+  "end": 300.706
+ },
+ {
+  "id": "fermin4",
+  "ch": 5,
+  "start": 300.706,
+  "lines": [
+   {
+    "txt": "Fermín está tirado en la nieve. Le das un golpecito con la pata, por cariño.",
+    "file": "voz/fermin4_0.wav",
+    "start": 301.206,
+    "dur": 4.252
+   },
+   {
+    "txt": "El cono rueda un poco y se queda quieto otra vez. Aun así, es tu mejor amigo.",
+    "file": "voz/fermin4_1.wav",
+    "start": 305.858,
+    "dur": 5.26
+   }
+  ],
+  "end": 312.36800000000005
+ },
+ {
+  "id": "cap6",
+  "ch": 6,
+  "start": 312.36800000000005,
+  "lines": [
+   {
+    "txt": "Capítulo seis. Entrenamiento.",
+    "file": "voz/cap6_0.wav",
+    "start": 312.86800000000005,
+    "dur": 2.364
+   }
+  ],
+  "end": 316.4820000000001
+ },
+ {
+  "id": "dientes",
+  "ch": 6,
+  "start": 316.4820000000001,
+  "lines": [
+   {
+    "txt": "Naces con dientes de leche. Los colmillos de adulto tardan en salir.",
+    "file": "voz/dientes_0.wav",
+    "start": 316.9820000000001,
+    "dur": 3.932
+   },
+   {
+    "txt": "Empiezan entre el año y los diecinueve meses, y acaban de crecer a los tres años.",
+    "file": "voz/dientes_1.wav",
+    "start": 321.3140000000001,
+    "dur": 4.614
+   }
+  ],
+  "end": 327.1780000000001
+ },
+ {
+  "id": "lento",
+  "ch": 6,
+  "start": 327.1780000000001,
+  "lines": [
+   {
+    "txt": "Es mucho más lento que en un león. Por eso tus papás te cuidan durante mucho tiempo.",
+    "file": "voz/lento_0.wav",
+    "start": 327.6780000000001,
+    "dur": 4.668
+   },
+   {
+    "txt": "Tres años de mamá y papá. Qué ternura. Y qué pereza para ellos.",
+    "file": "voz/lento_1.wav",
+    "start": 332.7460000000001,
+    "dur": 4.162
+   }
+  ],
+  "end": 338.15800000000013
+ },
+ {
+  "id": "salto",
+  "ch": 6,
+  "start": 338.15800000000013,
+  "lines": [
+   {
+    "txt": "Intentas saltarle a un perezoso gigante. Eres rápido, pero él pesa más que tú.",
+    "file": "voz/salto_0.wav",
+    "start": 338.65800000000013,
+    "dur": 5.388
+   },
+   {
+    "txt": "Tropiezas, ruedas por la nieve, y terminas con un copo en la nariz.",
+    "file": "voz/salto_1.wav",
+    "start": 344.44600000000014,
+    "dur": 3.862
+   }
+  ],
+  "end": 349.55800000000016
+ },
+ {
+  "id": "fermin5",
+  "ch": 6,
+  "start": 349.55800000000016,
+  "lines": [
+   {
+    "txt": "Entrenas con Fermín. Tú saltas, y él se queda quieto.",
+    "file": "voz/fermin5_0.wav",
+    "start": 350.05800000000016,
+    "dur": 3.42
+   },
+   {
+    "txt": "Es el entrenamiento más cómodo. Para él.",
+    "file": "voz/fermin5_1.wav",
+    "start": 353.87800000000016,
+    "dur": 2.86
+   }
+  ],
+  "end": 357.98800000000017
+ },
+ {
+  "id": "cap7",
+  "ch": 7,
+  "start": 357.98800000000017,
+  "lines": [
+   {
+    "txt": "Capítulo siete. El amor.",
+    "file": "voz/cap7_0.wav",
+    "start": 358.48800000000017,
+    "dur": 2.06
+   }
+  ],
+  "end": 361.7980000000002
+ },
+ {
+  "id": "cortejo",
+  "ch": 7,
+  "start": 361.7980000000002,
+  "lines": [
+   {
+    "txt": "Nadie sabe cómo te enamorabas. No quedó ninguna carta de amor.",
+    "file": "voz/cortejo_0.wav",
+    "start": 362.2980000000002,
+    "dur": 3.564
+   },
+   {
+    "txt": "Los felinos de hoy rugen y se frotan la cabeza. Imagínate frotando colmillos de dieciocho centímetros.",
+    "file": "voz/cortejo_1.wav",
+    "start": 366.26200000000017,
+    "dur": 6.236
+   }
+  ],
+  "end": 373.7480000000002
+ },
+ {
+  "id": "pareja",
+  "ch": 7,
+  "start": 373.7480000000002,
+  "lines": [
+   {
+    "txt": "Los científicos tampoco encontraron diferencias claras de tamaño entre machos y hembras.",
+    "file": "voz/pareja_0.wav",
+    "start": 374.2480000000002,
+    "dur": 4.502
+   },
+   {
+    "txt": "O sea que ni tu pareja ni tú saben quién es más grande. Un empate con colmillos.",
+    "file": "voz/pareja_1.wav",
+    "start": 379.1500000000002,
+    "dur": 4.652
+   }
+  ],
+  "end": 385.05200000000025
+ },
+ {
+  "id": "ramiro",
+  "ch": 7,
+  "start": 385.05200000000025,
+  "lines": [
+   {
+    "txt": "Ramiro, el hermano traidor, nunca se acercó a la charca de brea.",
+    "file": "voz/ramiro_0.wav",
+    "start": 385.55200000000025,
+    "dur": 4.102
+   },
+   {
+    "txt": "Se fue a una cueva con vista a las montañas, se casó con una gata muy lista y tuvo cuatro cachorros.",
+    "file": "voz/ramiro_1.wav",
+    "start": 390.05400000000026,
+    "dur": 5.878
+   }
+  ],
+  "end": 397.1820000000003
+ },
+ {
+  "id": "cachorros",
+  "ch": 7,
+  "start": 397.1820000000003,
+  "lines": [
+   {
+    "txt": "Te toca cuidar a tus propios cachorros. Son diminutos, tienen dientes de leche y mucha hambre.",
+    "file": "voz/cachorros_0.wav",
+    "start": 397.6820000000003,
+    "dur": 5.916
+   },
+   {
+    "txt": "Los miras con ternura. Y a lo lejos, un lobo terrible también.",
+    "file": "voz/cachorros_1.wav",
+    "start": 403.9980000000003,
+    "dur": 3.964
+   }
+  ],
+  "end": 409.2120000000003
+ },
+ {
+  "id": "cap8",
+  "ch": 8,
+  "start": 409.2120000000003,
+  "lines": [
+   {
+    "txt": "Capítulo ocho. El final.",
+    "file": "voz/cap8_0.wav",
+    "start": 409.7120000000003,
+    "dur": 2.252
+   }
+  ],
+  "end": 413.2140000000003
+ },
+ {
+  "id": "fin",
+  "ch": 8,
+  "start": 413.2140000000003,
+  "lines": [
+   {
+    "txt": "Hace unos diez mil años se acaban los mamuts, los bisontes grandes y los perezosos gigantes.",
+    "file": "voz/fin_0.wav",
+    "start": 413.7140000000003,
+    "dur": 4.806
+   },
+   {
+    "txt": "Se acaba tu comida. Y poco después, te acabas tú.",
+    "file": "voz/fin_1.wav",
+    "start": 418.9200000000003,
+    "dur": 3.356
+   }
+  ],
+  "end": 423.5260000000003
+ },
+ {
+  "id": "labrea",
+  "ch": 8,
+  "start": 423.5260000000003,
+  "lines": [
+   {
+    "txt": "En La Brea sacaron más de ciento sesenta mil huesos tuyos. Un verdadero récord.",
+    "file": "voz/labrea_0.wav",
+    "start": 424.0260000000003,
+    "dur": 4.668
+   },
+   {
+    "txt": "Es la colección de Smilodon más grande del mundo. Estás de moda, pero en un museo.",
+    "file": "voz/labrea_1.wav",
+    "start": 429.0940000000003,
+    "dur": 4.396
+   }
+  ],
+  "end": 434.7400000000003
+ },
+ {
+  "id": "culpa",
+  "ch": 8,
+  "start": 434.7400000000003,
+  "lines": [
+   {
+    "txt": "Los científicos creen que influyeron el cambio de clima y la desaparición de tus presas.",
+    "file": "voz/culpa_0.wav",
+    "start": 435.2400000000003,
+    "dur": 4.838
+   },
+   {
+    "txt": "Cuando no queda nada para comer, ni los colmillos de dieciocho centímetros te salvan.",
+    "file": "voz/culpa_1.wav",
+    "start": 440.4780000000003,
+    "dur": 4.502
+   }
+  ],
+  "end": 446.2300000000003
+ },
+ {
+  "id": "fama",
+  "ch": 8,
+  "start": 446.2300000000003,
+  "lines": [
+   {
+    "txt": "Hoy eres famoso. Sales en películas, en museos y en mil dibujos animados.",
+    "file": "voz/fama_0.wav",
+    "start": 446.7300000000003,
+    "dur": 5.18
+   },
+   {
+    "txt": "Eso sí, siempre te llaman tigre. Y no lo eres. Qué triste.",
+    "file": "voz/fama_1.wav",
+    "start": 452.3100000000003,
+    "dur": 4.626
+   }
+  ],
+  "end": 458.1860000000003
+ },
+ {
+  "id": "cierre",
+  "ch": 8,
+  "start": 458.1860000000003,
+  "lines": [
+   {
+    "txt": "Nacer como un tigre dientes de sable apesta.",
+    "file": "voz/cierre_0.wav",
+    "start": 458.6860000000003,
+    "dur": 2.294
+   },
+   {
+    "txt": "Pero al menos, tus colmillos son los más famosos del mundo.",
+    "file": "voz/cierre_1.wav",
+    "start": 461.38000000000034,
+    "dur": 3.958
+   }
+  ],
+  "end": 466.58800000000036
+ },
+ {
+  "id": "adios",
+  "ch": 8,
+  "start": 466.58800000000036,
+  "lines": [
+   {
+    "txt": "En una vitrina del museo, sigue Fermín, con una etiqueta que dice: cono.",
+    "file": "voz/adios_0.wav",
+    "start": 467.08800000000036,
+    "dur": 4.518
+   },
+   {
+    "txt": "Nunca dijo nada. Se lo agradeces.",
+    "file": "voz/adios_1.wav",
+    "start": 472.00600000000037,
+    "dur": 2.476
+   }
+  ],
+  "end": 475.73200000000037
+ },
+ {
+  "id": "sub",
+  "ch": 8,
+  "start": 475.73200000000037,
+  "lines": [
+   {
+    "txt": "Suscríbete a este canal.",
+    "file": "voz/sub_0.wav",
+    "start": 476.23200000000037,
+    "dur": 1.574
+   },
+   {
+    "txt": "O un lobo terrible se come a Fermín.",
+    "file": "voz/sub_1.wav",
+    "start": 478.20600000000036,
+    "dur": 2.198
+   }
+  ],
+  "end": 481.6540000000004
+ }
+]

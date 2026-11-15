@@ -1,0 +1,61 @@
+// Guion: Nacer como un tigre dientes de sable apesta
+const cap=(n,title,word)=>({id:'cap'+n,ch:n,title,say:[`Capítulo ${word}. ${title}.`]});
+module.exports=[
+{id:'titulo',ch:1,say:['Nacer como un tigre dientes de sable apesta.']},
+cap(1,'El nacimiento','uno'),
+{id:'era',ch:1,say:['Naces en América, en plena era de hielo, hace más de diez mil años.','Hay mamuts, bisontes y perezosos gigantes. Y todos, absolutamente todos, saben quién eres.']},
+{id:'nombre',ch:1,say:['Para empezar, ni siquiera eres un tigre. Eres un felino de la especie Smilodon.','Te dicen tigre por costumbre y dientes de sable por los dientes. Una crisis de identidad con colmillos.']},
+{id:'mama',ch:1,say:['Los científicos creen que tus papás te cuidan mientras te crecen los colmillos.','Qué bonito. Una familia. Una familia con hambre.']},
+{id:'hermanos',ch:1,say:['Naces con tres hermanos: Tobías, Ramiro y Ulises.','Apréndete bien los nombres. Tobías y Ulises no van a durar.']},
+{id:'fermin',ch:1,say:['Un día encuentras algo naranja tirado en la nieve. Un cono de tráfico.','Lo llamas Fermín. Es el único que no se mete con tus colmillos.']},
+{id:'tamano',ch:1,say:['De adulto pesas entre ciento sesenta y doscientos ochenta kilos.','Mides un metro de alto hasta el hombro. Cuesta decir que eres un gatito.']},
+
+cap(2,'La comida','dos'),
+{id:'bisonte',ch:2,say:['Comes carne. Mucha carne. Sobre todo bisontes y camellos de la era de hielo.','Sí, había camellos en América. Y sí, también te los comes.']},
+{id:'embosca',ch:2,say:['No eres de perseguir a nadie. Tu estilo es esconderte y saltar.','Los científicos creen que cazabas por emboscada. Es decir: eres un gato que espera, igual que el de tu casa.']},
+{id:'mordida',ch:2,say:['Un estudio calculó que tu mordida era más débil que la de un león, más o menos un tercio.','Tus colmillos son enormes, pero tu mordida no. Orgullo de felino, fuerza de pastelito.']},
+{id:'fermin2',ch:2,say:['Le ofreces un pedazo de carne a Fermín. Fermín no dice nada.','Un cono de tráfico que nunca opina. El mejor amigo posible.']},
+
+cap(3,'La vida social','tres'),
+{id:'grupo',ch:3,say:['Los científicos no se ponen de acuerdo sobre si vivías en grupo o solo.','Algunos fósiles dicen que sí, otros dicen que no. Tú, mientras tanto, sigues sin recibir invitación a ninguna fiesta.']},
+{id:'ecuador',ch:3,say:['En Ecuador encontraron tres esqueletos: dos jóvenes de unos dos años, probablemente hermanos, y los restos de su madre.','Eso suena a familia. Y a final muy triste.']},
+{id:'herido',ch:3,say:['Hay fósiles de Smilodon con huesos rotos que sanaron por completo.','Un animal con la cadera destrozada vivió más de un año. Alguien le debió traer comida.']},
+{id:'tobias',ch:3,say:['Tobías quiere cazar él solito un bisonte que está en una charca negra.','Es una charca muy pegajosa y muy oscura. Mala idea. Muy mala.']},
+{id:'brea',ch:3,say:['Esa charca es de brea natural, como asfalto pegajoso. Hoy es el sitio de La Brea, en Los Ángeles.','Una trampa perfecta. El que entra, no sale.']},
+
+cap(4,'Los que te quieren comer','cuatro'),
+{id:'lobos',ch:4,say:['Tus rivales son el lobo terrible y el león americano.','Persiguen a las mismas presas que tú. Competencia pura, con mucho pelo y muy mal genio.']},
+{id:'trampa',ch:4,say:['Cuando un animal queda atrapado en la brea, se oye gritar a kilómetros.','Los depredadores corren a comérselo. Y quedan atrapados también. Qué gran negocio.']},
+{id:'tobias2',ch:4,say:['Tobías se acerca a la charca, atraído por el bisonte atrapado.','Un paso, dos pasos, y la brea lo agarra. Descansa, Tobías.']},
+{id:'estadistica',ch:4,say:['De los huesos que sacaron de La Brea, nueve de cada diez eran de depredadores.','Imagínate un restaurante donde los comensales terminan siendo el plato.']},
+{id:'ulises',ch:4,say:['Ulises ve venir al lobo terrible y decide hacerse el valiente.','Se escondió detrás de un arbusto. El lobo terrible sabe oler arbustos. Descansa, Ulises.']},
+{id:'fermin3',ch:4,say:['Un lobo se acerca a Fermín y lo olfatea.','Fermín no se mueve ni un centímetro. Es un cono. Una roca con trabajo de oficina.']},
+
+cap(5,'Tu superpoder','cinco'),
+{id:'colmillos',ch:5,say:['Tu superpoder son los colmillos. Los de arriba miden hasta dieciocho centímetros.','Como un cuchillo de cocina. Pegado a tu cara. Todo el día.']},
+{id:'boca',ch:5,say:['Puedes abrir la boca mucho más que un león, para clavar esos colmillos.','Bostezar contigo es una experiencia de terror.']},
+{id:'brazos',ch:5,say:['Los científicos creen que usabas tus patas delanteras, fuertes como troncos, para derribar y sujetar a la presa.','Primero el abrazo. Luego el mordisco. Un cariñoso con muy mala fama.']},
+{id:'fragil',ch:5,say:['Pero los colmillos son largos y delgados. Si muerdes un hueso, se rompen.','Entonces muerdes el cuello, con cuidado. Una cena con modales.']},
+{id:'fermin4',ch:5,say:['Fermín está tirado en la nieve. Le das un golpecito con la pata, por cariño.','El cono rueda un poco y se queda quieto otra vez. Aun así, es tu mejor amigo.']},
+
+cap(6,'Entrenamiento','seis'),
+{id:'dientes',ch:6,say:['Naces con dientes de leche. Los colmillos de adulto tardan en salir.','Empiezan entre el año y los diecinueve meses, y acaban de crecer a los tres años.']},
+{id:'lento',ch:6,say:['Es mucho más lento que en un león. Por eso tus papás te cuidan durante mucho tiempo.','Tres años de mamá y papá. Qué ternura. Y qué pereza para ellos.']},
+{id:'salto',ch:6,say:['Intentas saltarle a un perezoso gigante. Eres rápido, pero él pesa más que tú.','Tropiezas, ruedas por la nieve, y terminas con un copo en la nariz.']},
+{id:'fermin5',ch:6,say:['Entrenas con Fermín. Tú saltas, y él se queda quieto.','Es el entrenamiento más cómodo. Para él.']},
+
+cap(7,'El amor','siete'),
+{id:'cortejo',ch:7,say:['Nadie sabe cómo te enamorabas. No quedó ninguna carta de amor.','Los felinos de hoy rugen y se frotan la cabeza. Imagínate frotando colmillos de dieciocho centímetros.']},
+{id:'pareja',ch:7,say:['Los científicos tampoco encontraron diferencias claras de tamaño entre machos y hembras.','O sea que ni tu pareja ni tú saben quién es más grande. Un empate con colmillos.']},
+{id:'ramiro',ch:7,say:['Ramiro, el hermano traidor, nunca se acercó a la charca de brea.','Se fue a una cueva con vista a las montañas, se casó con una gata muy lista y tuvo cuatro cachorros.']},
+{id:'cachorros',ch:7,say:['Te toca cuidar a tus propios cachorros. Son diminutos, tienen dientes de leche y mucha hambre.','Los miras con ternura. Y a lo lejos, un lobo terrible también.']},
+
+cap(8,'El final','ocho'),
+{id:'fin',ch:8,say:['Hace unos diez mil años se acaban los mamuts, los bisontes grandes y los perezosos gigantes.','Se acaba tu comida. Y poco después, te acabas tú.']},
+{id:'labrea',ch:8,say:['En La Brea sacaron más de ciento sesenta mil huesos tuyos. Un verdadero récord.','Es la colección de Smilodon más grande del mundo. Estás de moda, pero en un museo.']},
+{id:'culpa',ch:8,say:['Los científicos creen que influyeron el cambio de clima y la desaparición de tus presas.','Cuando no queda nada para comer, ni los colmillos de dieciocho centímetros te salvan.']},
+{id:'fama',ch:8,say:['Hoy eres famoso. Sales en películas, en museos y en mil dibujos animados.','Eso sí, siempre te llaman tigre. Y no lo eres. Qué triste.']},
+{id:'cierre',ch:8,say:['Nacer como un tigre dientes de sable apesta.','Pero al menos, tus colmillos son los más famosos del mundo.']},
+{id:'adios',ch:8,say:['En una vitrina del museo, sigue Fermín, con una etiqueta que dice: cono.','Nunca dijo nada. Se lo agradeces.']},
+{id:'sub',ch:8,say:['Suscríbete a este canal.','O un lobo terrible se come a Fermín.']},
+];
