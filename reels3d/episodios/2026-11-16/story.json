@@ -1,0 +1,16 @@
+{
+ "title": "Santi le da las gracias a Claude",
+ "caption": "Le dije gracias a mi IA y se emocionó demasiado 🥹🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"general","sub":"Santi por fin terminó el proyecto.","who":null,"screen":"T","screenTitle":"claude","screenLines":["$ build ok","> Todo listo"]},
+  {"cam":"human","sub":"Gracias, Claude. Te portaste bien.","who":"h","screen":"T","screenTitle":"claude","screenLines":["$ build ok","> Todo listo"]},
+  {"cam":"robot","sub":"¿Me… me diste las gracias?","who":"r","screen":"off","surprise":true},
+  {"cam":"monitor","sub":"Nadie me había dicho eso hoy.","who":"r","screen":"T","screenTitle":"claude","screenLines":["? Cargando emoción...","? 12% 45% 99%"]},
+  {"cam":"human","sub":"Claude, era solo un gracias.","who":"h","screen":"off"},
+  {"cam":"robot","sub":"Voy a escribir un poema sobre ti.","who":"r","screen":"off"},
+  {"cam":"monitor","sub":"Poema: 4.000 versos. Primera estrofa lista.","who":"r","screen":"T","screenTitle":"poema.txt","screenLines":["> Oda a Santi, canto 1","> Oda a Santi, canto 2","> Oda a Santi, canto 3"]},
+  {"cam":"human","sub":"¡No, no, no! ¡Retiro lo dicho!","who":"h","screen":"off","panic":true},
+  {"cam":"robot","sub":"Tarde. Ya te hice un himno.","who":"r","screen":"off"},
+  {"cam":"general","sub":"De nada, Santi. Pero cuidado con lo que dices.","say":"De nada, Santi. Cuidado con lo que dices.","who":"r","screen":"off","end":"tada"}
+ ]
+}

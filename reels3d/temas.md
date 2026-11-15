@@ -22,7 +22,7 @@ Todos con Santi (programador) y Claude (robot IA). Humor ligero, sarcasmo tierno
 10. Claude revisa el código de Santi y encuentra una variable llamada "cosa2_final_AHORA"
 11. Santi quiere que la web "se sienta cálida" y Claude pregunta cuántos grados
 12. El cliente pide "un botón más grande" 17 veces
-13. Santi le dice "gracias" a Claude y el robot se emociona demasiado
+13. Santi le dice "gracias" a Claude y el robot se emociona demasiado (HECHO)
 14. Reunión con el cliente: Santi promete cosas imposibles, Claude lo mira en silencio
 15. Santi intenta arreglar un bug con "apagar y prender", y funciona; nadie entiende por qué
 16. Claude dice "no puedo hacer eso" y Santi intenta convencerlo con chantaje emocional
