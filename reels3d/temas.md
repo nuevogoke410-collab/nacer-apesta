@@ -1,13 +1,13 @@
 # Temas (un video por día, sin repetir)
 
 ## Aprendizajes recientes (no borrar)
-(Análisis 2026-11-09, ver aprendizajes.md; pocos datos, solo 5 reels de IG con métricas, sin conclusiones fuertes)
-- Reels de Santi: 284–2260 vistas en IG; los de la guía solo 168–442.
-- Mejores (certeza baja): "cambio chiquitico reescribe todo" (1942) y "47 problemas" (2260): Claude exagera/hace de más.
-- Peor: "funciona en mi computador" (284 vistas, 10.7 s medio).
-- Hora única (16:00), TikTok y YouTube sin métricas: no hay conclusión de hora ni de animales.
-- Recomendación: priorizar temas donde Claude se pasa de entusiasta/exhaustivo; abrir fuerte en 3 s.
-- Animales: sin datos de YouTube aún, mantener el orden.
+(Análisis 2026-11-16, ver aprendizajes.md; 10 reels IG con métricas, certeza baja/media)
+- ALERTA: desde 2026-11-12 Metricool devuelve ERROR "account limit": reels y YouTube de 11-12 a 11-15 no se publicaron. Revisar el límite de la cuenta.
+- Reels de Santi: mediana ~790 vistas vs ~230 de los reels de la guía.
+- Ganadores (>1600 vistas): "Instagram pero mejor en 5 min" (2527), "47 problemas" (2264), "cambio chiquitico" (1942), "se va la luz sin guardar" (1655): situaciones muy reconocibles con remate claro.
+- Perdedores: "plan de 12 pasos" (206, solo 51% pasa los 3 s), "funciona en mi computador" (286), "bug 3 a. m." (318). El formato "se duplica cada día" rinde mal (839 y 142).
+- Hora (casi todo 16:00), TikTok y YouTube/animales: sin datos; mantener el orden.
+- Recomendación: abrir fuerte en los primeros 3 s, tema cotidiano reconocible, evitar listas/planes lentos.
 
 Todos con Santi (programador) y Claude (robot IA). Humor ligero, sarcasmo tierno del robot.
 1. Claude se queda sin uso y Santi hace la web solo (HECHO)
