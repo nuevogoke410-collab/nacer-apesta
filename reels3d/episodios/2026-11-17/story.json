@@ -1,0 +1,17 @@
+{
+ "title": "Reunión con el cliente",
+ "caption": "Cuando prometes cosas imposibles en la reunión y tu IA solo te mira 😅🤖 #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"human","sub":"Claro que sí, ¡lo entregamos mañana!","who":"h","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["? Cliente: ¿Para cuándo?","> Santi: ¡Mañana!"]},
+  {"cam":"robot","sub":"…","say":"Santi.","who":"r","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["? Cliente: ¿Y con inteligencia artificial?"]},
+  {"cam":"human","sub":"¡Por supuesto! También viene con IA.","who":"h","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["> Santi: ¡Por supuesto!"]},
+  {"cam":"robot","sub":"Yo soy la IA. Nadie me preguntó.","who":"r","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["? Cliente: ¿Y app móvil?"],"surprise":true},
+  {"cam":"human","sub":"¡Sí! Y para relojes también.","who":"h","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["> Santi: ¡Y relojes!"],"panic":true},
+  {"cam":"robot","sub":"Mírame en silencio. Es lo único que puedo hacer.","say":"Solo puedo mirarte en silencio.","who":"r","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["? Cliente: ¿Y también gratis?"]},
+  {"cam":"monitor","sub":"¡Sin costo adicional!","who":"h","screen":"T","screenTitle":"REUNIÓN CON EL CLIENTE","screenLines":["! Presupuesto: $0","> Santi: ¡Sin costo!"],"panic":true},
+  {"card":"AL SALIR DE LA REUNIÓN","who":null,"screen":"off"},
+  {"cam":"general","sub":"Santi, prometiste un reloj con IA gratis.","who":"r","screen":"off"},
+  {"cam":"human","sub":"…¿Y si les digo que fue un chiste?","say":"¿Y si les digo que fue un chiste?","who":"h","screen":"off","panic":true},
+  {"cam":"robot","sub":"Yo me quedo callado. Otra vez.","who":"r","screen":"off","end":true}
+ ]
+}
