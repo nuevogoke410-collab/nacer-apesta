@@ -1,0 +1,61 @@
+// Guion: Nacer como un pingüino emperador apesta
+const cap=(n,title,word)=>({id:'cap'+n,ch:n,title,say:[`Capítulo ${word}. ${title}.`]});
+module.exports=[
+{id:'titulo',ch:1,say:['Nacer como un pingüino emperador apesta.']},
+cap(1,'El nacimiento','uno'),
+{id:'antartida',ch:1,say:['Naces en la Antártida, en pleno invierno, a veinte grados bajo cero. Con suerte.','Con mala suerte, a cincuenta bajo cero y con ráfagas de viento de doscientos kilómetros por hora.']},
+{id:'huevo',ch:1,say:['Primero eres un huevo. Tu mamá lo pone en mayo o junio, y pesa cerca de cuatrocientos gramos.','Es el único que va a poner. Un solo huevo. Nada de repuestos.']},
+{id:'mama',ch:1,say:['Apenas lo pone, te pasa a tu papá con muchísimo cuidado, y se va caminando hacia el mar.','Va a tardar unos cuatro meses en volver. Qué mujer tan ocupada.']},
+{id:'papa',ch:1,say:['Tu papá te sostiene sobre sus patas, bajo un pliegue de piel. Así te incuba, de pie, durante unos dos meses.','No come nada. Ni un pescadito. En total pasa más de cien días sin comer.']},
+{id:'aurelio',ch:1,say:['Un día ves algo rojo tirado en el hielo. Es un guante. Alguien lo perdió.','Lo llamas Aurelio. Es el único que no te mira raro por ser gris y peludo.']},
+{id:'hermanos',ch:1,say:['No tienes hermanos, porque solo se pone un huevo. Pero en la colonia hay miles de polluelos.','Te haces amigo de tres: Wilfredo, Ambrosio e Ismael. Apréndete los nombres. Wilfredo y Ambrosio no van a durar.']},
+{id:'tamano',ch:1,say:['De adulto mides más de un metro y pesas entre veinticinco y cuarenta kilos.','Eres el pingüino más grande del mundo. Y aun así, no paras de temblar.']},
+
+cap(2,'La comida','dos'),
+{id:'pez',ch:2,say:['Comes peces, calamares y krill. Sobre todo pescado.','Pero hay un detalle: el pescado está en el mar, y el mar está muy, muy lejos.']},
+{id:'leche',ch:2,say:['Tu papá te da de comer una sustancia que le sale del esófago. Le dicen leche de pingüino.','Suena asqueroso. Y lo es. Pero es lo único que hay en el menú.']},
+{id:'mama2',ch:2,say:['Tu mamá regresa del mar con la barriga llena de pescado.','Lo vomita para ti. Gracias, mamá. Con todo el cariño del mundo.']},
+{id:'aurelio2',ch:2,say:['Le ofreces un pedazo de pescado a Aurelio. Aurelio no dice nada.','Un guante que no se queja del olor. El mejor amigo posible.']},
+
+cap(3,'La vida social','tres'),
+{id:'colonia',ch:3,say:['Vives en una colonia de miles de pingüinos. Y todos huelen exactamente igual: a pescado.','Cero privacidad. Cero espacio. Muchísimo cariño.']},
+{id:'huddle',ch:3,say:['Para no morirte de frío, hacen una bola gigante y se pegan unos a otros.','Y rotan: los de afuera pasan adentro, y los de adentro pasan afuera. El único sistema de turnos que funciona de verdad.']},
+{id:'voz',ch:3,say:['Cuando tu mamá regresa, no se reconocen por la cara. Se reconocen por la voz.','Miles de pingüinos gritando a la vez, y aun así se encuentran. Eso sí es talento.']},
+{id:'creche',ch:3,say:['Cuando creces un poco, te mandan a la guardería, con todos los polluelos juntos.','Tus papás se van a pescar. Tú te quedas con mil enanos. Muy responsable todo.']},
+{id:'wilfredo',ch:3,say:['Wilfredo quiere ver el mar, y se aleja un poquito del grupo. Solo cinco metros.','Un petrel gigante lo ve desde el cielo. Descansa, Wilfredo.']},
+
+cap(4,'Los que te quieren comer','cuatro'),
+{id:'skua',ch:4,say:['Tus enemigos del cielo son los petreles gigantes y los págalos polares.','Van por los huevos y los polluelos. Son como gaviotas con mala educación.']},
+{id:'ambrosio',ch:4,say:['Ambrosio se queda dormido en la orilla de la guardería.','Un págalo polar lo ve. Y Ambrosio ya no duerme nunca más. Descansa, Ambrosio.']},
+{id:'foca',ch:4,say:['En el agua, la enemiga es la foca leopardo. Puede comerse hasta quince pingüinos al día.','Casi siempre elige a los débiles o enfermos. Los sanos suelen nadar más rápido que ella.']},
+{id:'orca',ch:4,say:['También están las orcas. No hay mucho más que decir de las orcas.','Son orcas. Se llaman orcas. Ya es suficiente.']},
+{id:'borde',ch:4,say:['Toda la colonia se queda en el borde del hielo, mirando el agua. Nadie quiere ser el primero en saltar.','Tú te haces el distraído y silbas. Mal, porque no tienes labios.']},
+{id:'aurelio3',ch:4,say:['Una foca leopardo se acerca a Aurelio y lo huele.','Aurelio no se mueve. Es un guante. La foca se aburre y se va.']},
+
+cap(5,'Tu superpoder','cinco'),
+{id:'bucear',ch:5,say:['Tu superpoder es bucear. Puedes bajar a más de quinientos metros de profundidad.','Allí abajo ya no hay luz. Pero tú ves lo que haga falta.']},
+{id:'minutos',ch:5,say:['Y puedes quedarte casi veinte minutos sin respirar.','Cualquier humano habría salido corriendo a los dos minutos, pidiendo aire.']},
+{id:'plumas',ch:5,say:['El frío no te mata gracias a tus plumas, muy apretadas, y a una buena capa de grasa debajo.','Es el mejor abrigo del planeta. Y no se puede comprar en ninguna tienda.']},
+{id:'tobogan',ch:5,say:['En el hielo caminas muy mal, así que te tiras de panza y te deslizas.','Se llama deslizarse en tobogán, y es más rápido que caminar. Cae con estilo.']},
+{id:'aurelio4',ch:5,say:['Aurelio se cae al agua helada, y flota.','Es un guante. Flota. Un chaleco salvavidas con cinco dedos.']},
+
+cap(6,'Entrenamiento','seis'),
+{id:'plumon',ch:6,say:['Naces cubierto de plumón gris, suave y esponjoso. Eres la cosa más tierna del mundo.','Y también la más fácil de comer. Qué mala suerte.']},
+{id:'verano',ch:6,say:['Llega el verano y el hielo empieza a romperse. Es hora de irse al mar.','Tu primer salto. El agua está helada, es profundísima, y hay una foca leopardo. Genial.']},
+{id:'aurelio5',ch:6,say:['Entrenas con Aurelio. Tú saltas, y él se queda en la orilla.','Un entrenador muy callado. Pero nunca se queja de tu técnica.']},
+
+cap(7,'El amor','siete'),
+{id:'cortejo',ch:7,say:['De adulto buscas pareja. Cantas, caminas muy derechito y estiras el cuello.','Miles de pingüinos haciendo lo mismo al mismo tiempo. Es una fiesta. Una fiesta muy ruidosa.']},
+{id:'camino',ch:7,say:['Para llegar a la colonia caminas entre cincuenta y más de cien kilómetros sobre el hielo.','Sin paradas, sin baños y sin señal. Un viaje romántico.']},
+{id:'pareja',ch:7,say:['Muchos pingüinos emperador cambian de pareja de un año a otro.','Eres un romántico por temporada. Como las bufandas.']},
+{id:'ismael',ch:7,say:['Ismael, el amigo traidor, se escapó de la guardería justo antes de que llegara el petrel.','Creció, encontró a una pareja con una voz preciosa y tuvo un huevo. Qué suerte tiene el traidor.']},
+{id:'huevo2',ch:7,say:['Ahora te toca a ti. Tu pareja pone el huevo y te lo pasa con mucho cuidado.','Y tú te quedas más de cien días sin comer. Bienvenido a la paternidad.']},
+
+cap(8,'El final','ocho'),
+{id:'vejez',ch:8,say:['En libertad vives unos quince o veinte años.','Con el tiempo caminas más despacio. Es decir, igual que siempre.']},
+{id:'hielo',ch:8,say:['Hay un problema grande: el hielo donde crías se está derritiendo.','Si se rompe antes de tiempo, los polluelos caen al agua. Los científicos están muy preocupados.']},
+{id:'fama',ch:8,say:['Hoy eres famoso. Sales en documentales, en películas y en mil peluches.','Todos te adoran. Pero nadie quiere vivir donde tú vives.']},
+{id:'cierre',ch:8,say:['Nacer como un pingüino emperador apesta.','Pero al menos, eres el pingüino más grande del mundo, y el mejor abrigado.']},
+{id:'adios',ch:8,say:['Mientras tanto, en el hielo, sigue Aurelio, con los cinco dedos apuntando al cielo.','Nunca dijo nada. Se lo agradeces.']},
+{id:'sub',ch:8,say:['Suscríbete a este canal.','O una foca leopardo se come a Aurelio.']},
+];

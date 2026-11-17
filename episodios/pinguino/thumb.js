@@ -1,0 +1,12 @@
+const fs=require('fs');const {createCanvas}=require('@napi-rs/canvas');
+const X=require('./lib');const Q=require('./extra');const {W,H,C,E,R,P,Ln,text,save,restore}=X;
+const cv=createCanvas(W,H),ctx=cv.getContext('2d');X.setCtx(ctx);
+Q.bg('antartida');Q.ground();
+R(60,70,1120,560,30,'rgba(255,248,214,0.93)',{lw:6});
+text('Nacer como un',620,180,130,C.OUT,'Gochi','center',-.02);
+text('PINGÜINO',620,350,200,'#2B2B33','Gochi','center',.01,14,'#fff');
+text('EMPERADOR',620,500,140,'#E87B2E','Gochi','center',-.01,12,C.OUT);
+save(880,760,1,-.1);R(-250,-80,500,160,14,null,{lw:10,col:C.RED});text('APESTA',0,6,150,C.RED,'Gochi');restore();
+Q.pingu(1560,1040,2.6,{exp:'sweat',scarf:true});Q.guante(1250,1020,1.6,{exp:'shock'});
+const out=createCanvas(1280,720),o=out.getContext('2d');o.drawImage(cv,0,0,1280,720);
+fs.writeFileSync('miniatura.jpg',out.toBuffer('image/jpeg',90));
