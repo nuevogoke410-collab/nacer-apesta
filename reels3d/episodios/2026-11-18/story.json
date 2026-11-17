@@ -1,0 +1,16 @@
+{
+ "title": "Apagar y prender lo arregla todo",
+ "caption": "Cuando el bug lleva 3 horas y lo arregla apagar y prender 🔌😅 Nadie sabe por qué funciona. #programacion #claude #ia #humor #programadores #dev",
+ "cuts": [
+  {"cam":"monitor","sub":"Llevo tres horas con este bug.","who":"h","screen":"T","screenTitle":"consola","screenLines":["!ERROR 500","!ERROR 500","!ERROR 500","?¿qué pasa?"],"panic":true},
+  {"cam":"robot","sub":"Déjame revisar tu código, Santi.","who":"r","screen":"T","screenTitle":"consola","screenLines":["> analizando...","> 3 horas de errores","?ver causa"],"wake":true},
+  {"cam":"human","sub":"Nada sirve. Probaré lo último.","who":"h","screen":"T","screenTitle":"consola","screenLines":["!ERROR 500","!ERROR 500"],"panic":true},
+  {"cam":"monitor","sub":"Apagar y prender.","who":"h","screen":"off"},
+  {"card":"30 SEGUNDOS\nDESPUÉS","who":null,"screen":"off"},
+  {"cam":"monitor","sub":"¡Funciona! ¡Todo en verde!","who":"h","screen":"T","screenTitle":"consola","screenLines":["$OK 200","$OK 200","$todo en verde"]},
+  {"cam":"robot","sub":"No tiene sentido. Revisé todo el código.","who":"r","screen":"T","screenTitle":"consola","screenLines":["$OK 200","?¿por qué funciona?"],"surprise":true},
+  {"cam":"human","sub":"No preguntes. Ya funciona.","who":"h","screen":"T","screenTitle":"consola","screenLines":["$OK 200"]},
+  {"cam":"robot","sub":"Soy una IA y no lo entiendo.","who":"r","screen":"T","screenTitle":"consola","screenLines":["$OK 200","?error de lógica"]},
+  {"cam":"general","sub":"Mañana lo arreglo igual: apagando todo.","who":"h","screen":"off","end":"tada"}
+ ]
+}

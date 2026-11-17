@@ -13,3 +13,4 @@
 - El cliente pide 'un botón más grande' 17 veces — programado 2026-11-15 16:00
 - Santi le da las gracias a Claude y el robot se emociona demasiado — programado 2026-11-16 16:00
 - Reunión con el cliente: Santi promete cosas imposibles y Claude lo mira en silencio — programado 2026-11-17 16:00
+- Santi arregla un bug apagando y prendiendo y nadie entiende por qué — programado 2026-11-18 16:00
